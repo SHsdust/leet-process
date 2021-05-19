@@ -17,13 +17,6 @@ public:
 
         vector<int> :: iterator it1 = nums1.begin(), it2 = nums2.begin();
 
-        // for(; it1!=nums1.end(); ++it1)
-        //     cout << *it1 << " ";
-        // cout << endl;
-        // for(; it2!=nums2.end(); ++it2)
-        //     cout << *it2 << " ";
-        // cout << endl;
-
         while(it1!=nums1.end() && it2!=nums2.end()){
             if(*it1 >= *it2){
                 nums1.insert(it1, *it2);
@@ -38,10 +31,6 @@ public:
             ++it2;
         }
 
-        // vector<int> :: iterator it3 = nums1.begin();
-        // for(; it3!=nums1.end(); ++it3)
-        //     cout << *it3 << " ";
-        // cout << endl;
     }
 };
 
