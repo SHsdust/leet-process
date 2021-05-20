@@ -5,12 +5,10 @@ using namespace std;
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        int64_t s(sqrt(c));
-        // cout << s << endl;
-        int64_t sum(0);
+        int s(sqrt(c));
         for(int i=0; i<=s; ++i){
             int64_t tmp = c - pow(i,2);
-            if(tmp == int(sqrt(tmp)))
+            if(pow(size_t(sqrt(tmp)), 2) == tmp)
                 return true;
         }
         return false;
