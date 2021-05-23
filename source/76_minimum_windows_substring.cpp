@@ -11,6 +11,11 @@ public:
 };
 
 int main(){
+    string s1, s2;
+    cin >> s1;
+    cin >> s2;
 
+    Solution s;
+    cout << s.minWindow(s1, s2) << endl;
     return 0;
 }
