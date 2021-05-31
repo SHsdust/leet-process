@@ -14,7 +14,7 @@ using namespace std;
 class Solution{
 public:
     int mySqrt(int x){
-        // "0" is spcialized;
+        // "0" is specialized;
 
         size_t l(1), r(x), mid;
         while(l <= r){
