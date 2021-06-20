@@ -3,6 +3,7 @@
 #include "vector"
 using namespace std;
 
+// binary search
 class Solution {
 public:
     bool search(vector<int>& nums, int target){
