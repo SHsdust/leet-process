@@ -37,6 +37,19 @@ public:
     }
 };
 
+
+// Newton's method
+class Solution{
+public:
+    int mySqrt(int x){
+        size_t a(x);
+        while(a*a>x)
+            a = (pow(a,2)+x) / (2*a);
+        return a;
+    }
+};
+
+
 int main(){
     int n ;
     while(cin >> n){
