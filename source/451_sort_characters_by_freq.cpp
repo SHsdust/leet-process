@@ -1,7 +1,7 @@
 #include "iostream"
 #include "unordered_map"
 #include "algorithm"
-#includne "vector"
+#include "vector"
 #include "string"
 using namespace std;
 
