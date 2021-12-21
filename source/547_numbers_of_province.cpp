@@ -25,9 +25,7 @@ public:
                 dfs(isConnected, visited, j);
             }
         }
-    }
-    
-    
+    }    
 };
 
 int main(){
