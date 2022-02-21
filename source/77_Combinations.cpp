@@ -13,7 +13,7 @@ public:
         return result;
     }
 
-    void backtracking(vector<vector<int>> &result, vector<int>& comb, int &count, int pos, int n, int k){
+    void backtracking(vector<vector<int>> &result, vector<int>& comb,  int &count, int pos, int n, int k){
         if (count == k) {
             result.push_back(comb);
             return;
