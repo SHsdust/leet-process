@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='392' type='_FIter std::lower_bound(_FIter , _FIter , const _Tp &amp; , _Compare )'/>
-<def f='include/c++/12.2.0/bits/stl_algo.h' l='1993' ll='2006' type='_ForwardIterator std::lower_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &amp; __val, _Compare __comp)'/>

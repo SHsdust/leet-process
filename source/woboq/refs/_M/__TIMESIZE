@@ -1,8 +1,0 @@
-<dec f='include/bits/timesize.h' l='26'/>
-<dec f='include/bits/timesize.h' l='26'/>
-<use f='include/bits/time64.h' l='28' u='c'/>
-<use f='include/bits/types.h' l='220' u='c'/>
-<use f='include/bits/types.h' l='222' u='c'/>
-<use f='include/bits/types/struct_timespec.h' l='20' u='c'/>
-<use f='include/bits/timex.h' l='28' u='c'/>
-<doc f='include/bits/timesize.h' l='25'>/* For others, time size is word size.  */</doc>

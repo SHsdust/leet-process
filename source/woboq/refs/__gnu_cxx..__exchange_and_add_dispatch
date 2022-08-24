@@ -1,4 +1,0 @@
-<def f='include/c++/12.2.0/ext/atomicity.h' l='94' ll='102' type='_Atomic_word __gnu_cxx::__exchange_and_add_dispatch(_Atomic_word * __mem, int __val)'/>
-<use f='include/c++/12.2.0/bits/locale_classes.h' l='456' u='c' c='_ZNKSt6locale5facet19_M_remove_referenceEv'/>
-<use f='include/c++/12.2.0/bits/locale_classes.h' l='566' u='c' c='_ZNSt6locale5_Impl19_M_remove_referenceEv'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='583' u='c' c='_ZNSt8ios_base14_Callback_list19_M_remove_referenceEv'/>

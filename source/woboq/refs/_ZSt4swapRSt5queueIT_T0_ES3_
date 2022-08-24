@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_queue.h' l='440' ll='449' type='typename enable_if&lt;__is_swappable&lt;_Seq&gt;::value&gt;::type std::swap(queue&lt;_Tp, _Seq&gt; &amp; __x, queue&lt;_Tp, _Seq&gt; &amp; __y)'/>

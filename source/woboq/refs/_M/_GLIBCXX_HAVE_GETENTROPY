@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='995'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='994'>/* Define if getentropy is available in &lt;unistd.h&gt;. */</doc>

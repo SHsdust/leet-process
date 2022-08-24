@@ -1,3 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='52' type='locale_t __gnu_cxx::__uselocale(locale_t )'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='80' u='c' c='_ZSt16__convert_from_vRKP15__locale_structPciPKcz'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='105' u='c' c='_ZSt16__convert_from_vRKP15__locale_structPciPKcz'/>

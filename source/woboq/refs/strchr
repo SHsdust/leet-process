@@ -1,2 +1,0 @@
-<dec f='include/string.h' l='226' type='char * strchr(char * __s, int __c)'/>
-<dec f='include/string.h' l='228' type='const char * strchr(const char * __s, int __c)'/>

@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='2016' ll='2017'/>
-<def f='include/c++/12.2.0/type_traits' l='2019' ll='2021'/>
-<def f='include/c++/12.2.0/type_traits' l='2023' ll='2025'/>
-<use f='include/c++/12.2.0/type_traits' l='2043'/>
-<use f='include/c++/12.2.0/type_traits' l='2185'/>

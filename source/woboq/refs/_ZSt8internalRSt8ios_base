@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/bits/ios_base.h' l='1029' ll='1034' type='std::ios_base &amp; std::internal(std::ios_base &amp; __base)'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='1027'>// [27.4.5.2] adjustfield manipulators
-  /// Calls base.setf(ios_base::internal, ios_base::adjustfield).</doc>

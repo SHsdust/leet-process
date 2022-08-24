@@ -1,3 +1,0 @@
-<use f='include/c++/12.2.0/bits/stl_vector.h' l='1064' u='c' c='_ZNSt6vector13shrink_to_fitEv'/>
-<dec f='include/c++/12.2.0/bits/stl_vector.h' l='1811' type='bool std::vector::_M_shrink_to_fit()'/>
-<def f='include/c++/12.2.0/bits/vector.tcc' l='700' ll='710' type='bool std::vector::_M_shrink_to_fit()'/>

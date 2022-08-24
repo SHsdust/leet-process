@@ -1,9 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='2581' ll='2591'/>
-<use f='include/c++/12.2.0/type_traits' l='2596'/>
-<use f='include/c++/12.2.0/type_traits' l='2951'/>
-<use f='include/c++/12.2.0/type_traits' l='2997'/>
-<use f='include/c++/12.2.0/bits/invoke.h' l='89' c='_ZSt8__invokeOT_DpOT0_'/>
-<use f='include/c++/12.2.0/bits/invoke.h' l='93' c='_ZSt8__invokeOT_DpOT0_'/>
-<use f='include/c++/12.2.0/bits/invoke.h' l='128'/>
-<use f='include/c++/12.2.0/bits/invoke.h' l='139' c='_ZSt10__invoke_rOT0_DpOT1_'/>
-<use f='include/c++/12.2.0/bits/invoke.h' l='151' c='_ZSt10__invoke_rOT0_DpOT1_'/>

@@ -1,9 +1,0 @@
-<def f='include/c++/12.2.0/bits/ptr_traits.h' l='96' ll='115'/>
-<def f='include/c++/12.2.0/bits/ptr_traits.h' l='118' ll='120'/>
-<def f='include/c++/12.2.0/bits/ptr_traits.h' l='123' ll='137'/>
-<use f='include/c++/12.2.0/bits/ptr_traits.h' l='140'/>
-<use f='include/c++/12.2.0/bits/ptr_traits.h' l='210'/>
-<doc f='include/c++/12.2.0/bits/ptr_traits.h' l='117'>// Do not define pointer_traits&lt;P&gt;::pointer_to if element type is void.</doc>
-<doc f='include/c++/12.2.0/bits/ptr_traits.h' l='122'>// Partial specialization defining pointer_traits&lt;T*&gt;::pointer_to(T&amp;).</doc>
-<fun r='_ZNSt19__ptr_traits_ptr_to10pointer_toERT0_'/>
-<fun r='_ZNSt19__ptr_traits_ptr_toIPT_S0_Lb0EE10pointer_toERS0_'/>

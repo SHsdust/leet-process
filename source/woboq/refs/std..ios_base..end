@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/ios_base.h' l='497' type='const std::ios_base::seekdir'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='496'>/// Request a seek relative to the current end of the sequence.</doc>

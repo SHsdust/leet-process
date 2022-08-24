@@ -1,6 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1900'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='38' u='a'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='118' u='c'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='763' u='c'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='820' u='c'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1899'>/* Define to 1 if mutex_timedlock is available. */</doc>

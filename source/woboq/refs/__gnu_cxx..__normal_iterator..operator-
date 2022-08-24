@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_iterator.h' l='1152' ll='1154' type='__normal_iterator&lt;_Iterator, _Container&gt; __gnu_cxx::__normal_iterator::operator-(__gnu_cxx::__normal_iterator::difference_type __n) const'/>
-<use f='leetcode/167_tow_sum.cpp' l='13' u='c' c='_ZN8Solution6twoSumERSt6vectorIiSaIiEEi'/>
-<use f='leetcode/417_plastic_atlantic_water_flow.cpp' l='59' u='c' c='main'/>

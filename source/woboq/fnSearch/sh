@@ -1,8 +1,0 @@
-_ZNSt15basic_streambuf9showmanycEv|std::basic_streambuf::showmanyc
-_ZNSt7__cxx1112basic_string13shrink_to_fitEv|std::basic_string::shrink_to_fit
-_ZSt8showbaseRSt8ios_base|std::showbase
-_ZSt9showpointRSt8ios_base|std::showpoint
-_ZSt7showposRSt8ios_base|std::showpos
-_ZSt7shuffleT_S_OT0_|std::shuffle
-_ZNSt6vector13shrink_to_fitEv|std::vector::shrink_to_fit
-_ZNSt5deque13shrink_to_fitEv|std::deque::shrink_to_fit

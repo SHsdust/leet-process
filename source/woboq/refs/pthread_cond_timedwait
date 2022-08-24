@@ -1,2 +1,0 @@
-<dec f='include/pthread.h' l='1145' type='int pthread_cond_timedwait(pthread_cond_t *__restrict __cond, pthread_mutex_t *__restrict __mutex, const struct timespec *__restrict __abstime)'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='872' u='c' c='__gthread_cond_timedwait'/>

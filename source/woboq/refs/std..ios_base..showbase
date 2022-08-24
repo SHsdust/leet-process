@@ -1,7 +1,0 @@
-<dec f='include/c++/12.2.0/bits/ios_base.h' l='377' type='const std::ios_base::fmtflags'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='935' u='r' c='_ZSt8showbaseRSt8ios_base'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='943' u='r' c='_ZSt10noshowbaseRSt8ios_base'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='923' u='r' c='_ZNKSt7num_put13_M_insert_intET0_RSt8ios_baseT_TL0__'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='1203' u='r' c='_ZNKSt7num_put6do_putET0_RSt8ios_baseT_PKv'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='375'>/// Generates a prefix indicating the numeric base of generated integer
-    /// output.</doc>

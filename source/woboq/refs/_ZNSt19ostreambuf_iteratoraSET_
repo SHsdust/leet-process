@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/streambuf_iterator.h' l='291' ll='298' type='ostreambuf_iterator&lt;_CharT, _Traits&gt; &amp; std::ostreambuf_iterator::operator=(_CharT __c)'/>
-<doc f='include/c++/12.2.0/bits/streambuf_iterator.h' l='290'>///  Write character to streambuf.  Calls streambuf.sputc().</doc>

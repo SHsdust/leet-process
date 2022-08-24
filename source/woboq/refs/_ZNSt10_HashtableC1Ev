@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/hashtable.h' l='531' type='void std::_Hashtable::_Hashtable&lt;_Key, _Value, _Alloc, _ExtractKey, _Equal, _Hash, _RangeHash, _Unused, _RehashPolicy, _Traits&gt;()'/>
-<doc f='include/c++/12.2.0/bits/hashtable.h' l='530'>// Constructor, destructor, assignment, swap</doc>

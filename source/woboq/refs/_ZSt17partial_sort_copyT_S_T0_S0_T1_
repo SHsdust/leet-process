@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='511' type='_RAIter std::partial_sort_copy(_IIter , _IIter , _RAIter , _RAIter , _Compare )'/>
-<def f='include/c++/12.2.0/bits/stl_algo.h' l='1746' ll='1776' type='_RandomAccessIterator std::partial_sort_copy(_InputIterator __first, _InputIterator __last, _RandomAccessIterator __result_first, _RandomAccessIterator __result_last, _Compare __comp)'/>

@@ -1,6 +1,0 @@
-<def f='include/c++/12.2.0/bits/allocator.h' l='307' ll='308'/>
-<def f='include/c++/12.2.0/bits/allocator.h' l='310' ll='331'/>
-<use f='include/c++/12.2.0/bits/vector.tcc' l='709' c='_ZNSt6vector16_M_shrink_to_fitEv'/>
-<fun r='_ZNSt19__shrink_to_fit_aux8_S_do_itERT_'/>
-<fun r='_ZNSt19__shrink_to_fit_auxIT_Lb1EE8_S_do_itERS0_'/>
-<use f='include/c++/12.2.0/bits/deque.tcc' l='387' c='_ZNSt5deque16_M_shrink_to_fitEv'/>

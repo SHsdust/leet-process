@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/istream' l='768' type='void std::__istream_extract(basic_istream&lt;_CharT, _Traits&gt; &amp; , _CharT * , std::streamsize )'/>
-<def f='include/c++/12.2.0/bits/istream.tcc' l='991' ll='1050' type='void std::__istream_extract(basic_istream&lt;_CharT, _Traits&gt; &amp; __in, _CharT * __s, std::streamsize __num)'/>

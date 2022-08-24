@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='333' ll='335' type='std::unordered_set::iterator std::unordered_set::end()'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='329'>/**
-       *  Returns a read-only (constant) iterator that points one past the last
-       *  element in the %unordered_set.
-       */</doc>

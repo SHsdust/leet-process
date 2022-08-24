@@ -1,8 +1,0 @@
-<use f='include/c++/12.2.0/type_traits' l='852'/>
-<use f='include/c++/12.2.0/type_traits' l='857'/>
-<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
-<def f='include/c++/12.2.0/type_traits' l='1407' ll='1408'/>
-<def f='include/c++/12.2.0/type_traits' l='1410' ll='1415'/>
-<use f='include/c++/12.2.0/type_traits' l='1413'/>
-<def f='include/c++/12.2.0/type_traits' l='1417' ll='1422'/>
-<use f='include/c++/12.2.0/type_traits' l='1420'/>

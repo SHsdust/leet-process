@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='932'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='931'>/* Define to 1 if GCC 4.6 supported std::exception_ptr for the target */</doc>

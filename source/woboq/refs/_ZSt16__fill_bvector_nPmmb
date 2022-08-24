@@ -1,4 +1,0 @@
-<dec f='include/c++/12.2.0/bits/stl_bvector.h' l='74' type='void std::__fill_bvector_n(std::_Bit_type * , std::size_t , bool )'/>
-<def f='include/c++/12.2.0/bits/stl_bvector.h' l='1533' ll='1547' type='void std::__fill_bvector_n(std::_Bit_type * __p, std::size_t __n, bool __x)'/>
-<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1561' u='c' c='_ZSt9__fill_a1St13_Bit_iteratorS_RKb'/>
-<doc f='include/c++/12.2.0/bits/stl_bvector.h' l='1532'>// Fill N full words, as if using memset, but usable in constant expressions.</doc>

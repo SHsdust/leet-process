@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='745' ll='752' type='int __gthread_mutex_lock(__gthread_mutex_t * __mutex)'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='811' u='c' c='__gthread_recursive_mutex_lock'/>

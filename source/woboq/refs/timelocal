@@ -1,2 +1,0 @@
-<dec f='include/time.h' l='263' type='time_t timelocal(struct tm * __tp)'/>
-<doc f='include/time.h' l='262'>/* Another name for `mktime&apos;.  */</doc>

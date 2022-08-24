@@ -1,4 +1,0 @@
-<dec f='include/c++/12.2.0/bits/stl_iterator.h' l='799' type='_Container *'/>
-<use f='include/c++/12.2.0/bits/stl_iterator.h' l='811' u='w' c='_ZNSt21front_insert_iteratorC1ERT_'/>
-<use f='include/c++/12.2.0/bits/stl_iterator.h' l='836' u='c' c='_ZNSt21front_insert_iteratoraSERKNT_10value_typeE'/>
-<use f='include/c++/12.2.0/bits/stl_iterator.h' l='844' u='c' c='_ZNSt21front_insert_iteratoraSEONT_10value_typeE'/>

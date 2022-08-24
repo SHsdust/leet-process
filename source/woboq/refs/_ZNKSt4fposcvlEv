@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/postypes.h' l='113' type='std::streamoff std::fpos::operator long() const'/>
-<doc f='include/c++/12.2.0/bits/postypes.h' l='112'>/// Convert to streamoff.</doc>

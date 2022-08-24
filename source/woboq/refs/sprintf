@@ -1,2 +1,0 @@
-<dec f='include/stdio.h' l='358' type='int sprintf(char *__restrict __s, const char *__restrict __format)'/>
-<doc f='include/stdio.h' l='357'>/* Write formatted output to S.  */</doc>

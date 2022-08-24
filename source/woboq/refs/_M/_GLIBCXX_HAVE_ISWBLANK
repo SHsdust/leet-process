@@ -1,4 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1040'/>
-<use f='include/c++/12.2.0/cwctype' l='59' u='c'/>
-<use f='include/c++/12.2.0/cwctype' l='88' u='c'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1039'>/* Defined if iswblank exists. */</doc>

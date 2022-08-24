@@ -1,3 +1,0 @@
-<dec f='include/c++/12.2.0/bits/locale_facets.h' l='1637' type='void std::__numpunct_cache::~__numpunct_cache&lt;_CharT&gt;()'/>
-<inh f='include/c++/12.2.0/bits/locale_classes.h' l='410' c='_ZNSt6locale5facetD1Ev'/>
-<def f='include/c++/12.2.0/bits/locale_facets.h' l='1650' ll='1659' type='void std::__numpunct_cache::~__numpunct_cache&lt;_CharT&gt;()'/>

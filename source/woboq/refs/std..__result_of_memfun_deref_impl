@@ -1,7 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='2440' ll='2449'/>
-<ovr f='include/c++/12.2.0/type_traits' l='2452' c='std::__result_of_memfun_deref'/>
-<use f='include/c++/12.2.0/type_traits' l='2453'/>
-<size>1</size>
-<doc f='include/c++/12.2.0/type_traits' l='2439'>// [func.require] paragraph 1 bullet 2:</doc>
-<fun r='_ZNSt29__result_of_memfun_deref_impl7_S_testEi'/>
-<fun r='_ZNSt29__result_of_memfun_deref_impl7_S_testEz'/>

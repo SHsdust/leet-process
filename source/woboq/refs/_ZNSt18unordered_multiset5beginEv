@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='1184' ll='1186' type='std::unordered_multiset::iterator std::unordered_multiset::begin()'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1180'>/**
-       *  Returns a read-only (constant) iterator that points to the first
-       *  element in the %unordered_multiset.
-       */</doc>

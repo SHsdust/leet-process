@@ -1,3 +1,0 @@
-<dec f='include/bits/cpu-set.h' l='28'/>
-<use f='include/bits/cpu-set.h' l='41' u='c'/>
-<doc f='include/bits/cpu-set.h' l='27'>/* Size definition for CPU sets.  */</doc>

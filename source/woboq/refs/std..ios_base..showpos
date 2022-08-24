@@ -1,5 +1,0 @@
-<dec f='include/c++/12.2.0/bits/ios_base.h' l='384' type='const std::ios_base::fmtflags'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='967' u='r' c='_ZSt7showposRSt8ios_base'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='975' u='r' c='_ZSt9noshowposRSt8ios_base'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='916' u='r' c='_ZNKSt7num_put13_M_insert_intET0_RSt8ios_baseT_TL0__'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='383'>/// Generates a + sign in non-negative generated numeric output.</doc>

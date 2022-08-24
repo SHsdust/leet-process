@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_algo.h' l='725' ll='728' type='_OutputIterator std::__copy_n(_RandomAccessIterator __first, _Size __n, _OutputIterator __result, std::random_access_iterator_tag )'/>

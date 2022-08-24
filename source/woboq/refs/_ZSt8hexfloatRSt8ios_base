@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/bits/ios_base.h' l='1099' ll='1104' type='std::ios_base &amp; std::hexfloat(std::ios_base &amp; __base)'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='1095'>// New C++11 floatfield manipulators
-
-  /// Calls
-  /// base.setf(ios_base::fixed|ios_base::scientific, ios_base::floatfield)</doc>

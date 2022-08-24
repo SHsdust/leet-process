@@ -1,4 +1,0 @@
-<dec f='include/c++/12.2.0/bits/hashtable_policy.h' l='1941' type='void std::__detail::_Hashtable_alloc::_M_deallocate_node_ptr(std::__detail::_Hashtable_alloc::__node_ptr __n)'/>
-<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1985' u='c' c='_ZNSt8__detail16_Hashtable_alloc18_M_deallocate_nodeEPNT_10value_typeE'/>
-<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='1988' ll='1996' type='void std::__detail::_Hashtable_alloc::_M_deallocate_node_ptr(std::__detail::_Hashtable_alloc::__node_ptr __n)'/>
-<doc f='include/c++/12.2.0/bits/hashtable_policy.h' l='1939'>// Deallocate a node.</doc>

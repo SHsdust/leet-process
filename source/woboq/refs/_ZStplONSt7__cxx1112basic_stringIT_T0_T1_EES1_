@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/basic_string.h' l='3559' ll='3562' type='basic_string&lt;_CharT, _Traits, _Alloc&gt; std::operator+(basic_string&lt;_CharT, _Traits, _Alloc&gt; &amp;&amp; __lhs, _CharT __rhs)'/>

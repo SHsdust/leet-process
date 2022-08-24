@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/basic_string.h' l='2543' type='void std::basic_string::swap(basic_string&lt;_CharT, _Traits, _Alloc&gt; &amp; __s)'/>
-<def f='include/c++/12.2.0/bits/basic_string.tcc' l='56' ll='129' type='void std::basic_string::swap(basic_string&lt;_CharT, _Traits, _Alloc&gt; &amp; __s)'/>

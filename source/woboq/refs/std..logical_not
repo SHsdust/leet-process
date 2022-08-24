@@ -1,7 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_function.h' l='816' ll='822'/>
-<def f='include/c++/12.2.0/bits/stl_function.h' l='857' ll='869'/>
-<use f='include/c++/12.2.0/bits/stl_function.h' l='858'/>
-<size>1</size>
-<doc f='include/c++/12.2.0/bits/stl_function.h' l='856'>/// One of the @link logical_functors Boolean operations functors@endlink.</doc>
-<fun r='_ZNKSt11logical_notclERKT_'/>
-<fun r='_ZNKSt11logical_notIvEclEOT_'/>

@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='1009' ll='1014'/>
-<use f='include/c++/12.2.0/bits/move.h' l='111'/>
-<use f='include/c++/12.2.0/bits/nested_exception.h' l='122' c='_ZSt17throw_with_nestedOT_'/>
-<use f='include/c++/12.2.0/bits/allocator.h' l='305'/>
-<use f='include/c++/12.2.0/bits/alloc_traits.h' l='779'/>

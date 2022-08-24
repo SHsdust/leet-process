@@ -1,8 +1,0 @@
-<dec f='include/stdlib.h' l='61' type='int'/>
-<dec f='include/stdlib.h' l='69' type='long'/>
-<dec f='include/stdlib.h' l='79' type='long long'/>
-<use f='include/c++/12.2.0/cstdlib' l='214' u='w' c='__gnu_cxx::div'/>
-<offset>0</offset>
-<doc f='include/stdlib.h' l='61'>/* Quotient.  */</doc>
-<doc f='include/stdlib.h' l='69'>/* Quotient.  */</doc>
-<doc f='include/stdlib.h' l='79'>/* Quotient.  */</doc>

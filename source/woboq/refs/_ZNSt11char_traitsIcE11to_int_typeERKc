@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/bits/char_traits.h' l='452' ll='454' type='static std::char_traits&lt;char&gt;::int_type std::char_traits&lt;char&gt;::to_int_type(const std::char_traits&lt;char&gt;::char_type &amp; __c)'/>
-<doc f='include/c++/12.2.0/bits/char_traits.h' l='450'>// To keep both the byte 0xff and the eof symbol 0xffffffff
-      // from ending up as 0xffffffff.</doc>

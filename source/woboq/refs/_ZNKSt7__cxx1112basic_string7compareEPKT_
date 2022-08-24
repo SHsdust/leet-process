@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/basic_string.h' l='3285' type='int std::basic_string::compare(const _CharT * __s) const'/>
-<def f='include/c++/12.2.0/bits/basic_string.tcc' l='885' ll='899' type='int std::basic_string::compare(const _CharT * __s) const'/>

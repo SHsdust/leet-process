@@ -1,3 +1,0 @@
-<dec f='include/bits/types.h' l='155' macro='1' type='int[2]'/>
-<dec f='include/bits/types/__sigset_t.h' l='7' type='unsigned long[16]'/>
-<offset>0</offset>

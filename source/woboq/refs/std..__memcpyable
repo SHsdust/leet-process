@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='445' ll='448'/>
-<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='450' ll='453'/>
-<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='455' ll='458'/>
-<use f='include/c++/12.2.0/bits/stl_algobase.h' l='494' c='_ZSt14__copy_move_a2T0_S_T1_'/>
-<use f='include/c++/12.2.0/bits/stl_algobase.h' l='759' c='_ZSt23__copy_move_backward_a2T0_S_T1_'/>

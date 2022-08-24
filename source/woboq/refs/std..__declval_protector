@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='2382' ll='2385'/>
-<use f='include/c++/12.2.0/type_traits' l='2395' c='_ZSt7declvalv'/>
-<smbr r='std::__declval_protector::__stop' t='const bool'/>

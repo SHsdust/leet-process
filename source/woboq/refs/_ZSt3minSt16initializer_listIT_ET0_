@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='458' type='_Tp std::min(initializer_list&lt;_Tp&gt; , _Compare )'/>
-<def f='include/c++/12.2.0/bits/stl_algo.h' l='5734' ll='5741' macro='1' type='_Tp std::min(initializer_list&lt;_Tp&gt; __l, _Compare __comp)'/>

@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/basic_string.h' l='1417' ll='1423' type='basic_string&lt;_CharT, _Traits, _Alloc&gt; &amp; std::basic_string::append(const _CharT * __s, std::basic_string::size_type __n)'/>

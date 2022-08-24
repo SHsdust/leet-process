@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_bvector.h' l='1127' ll='1133' type='static void std::vector&lt;bool, type-parameter-0-0&gt;::swap(std::vector&lt;bool, type-parameter-0-0&gt;::reference __x, std::vector&lt;bool, type-parameter-0-0&gt;::reference __y)'/>

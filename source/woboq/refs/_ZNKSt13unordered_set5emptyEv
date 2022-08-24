@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='298' ll='300' type='bool std::unordered_set::empty() const'/>
-<use f='leetcode/126_word_ladder_ii.cpp' l='38' u='c' c='_ZN8Solution11findLaddersENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_RSt6vectorIS5_SaIS5_EE'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='295'>// size and capacity:
-
-      ///  Returns true if the %unordered_set is empty.</doc>

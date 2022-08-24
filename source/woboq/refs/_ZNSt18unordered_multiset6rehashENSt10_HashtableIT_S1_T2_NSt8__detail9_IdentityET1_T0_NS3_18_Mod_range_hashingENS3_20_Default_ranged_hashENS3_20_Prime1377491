@@ -1,8 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='1691' ll='1693' type='void std::unordered_multiset::rehash(std::unordered_multiset::size_type __n)'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1684'>/**
-       *  @brief  May rehash the %unordered_multiset.
-       *  @param  __n The new number of buckets.
-       *
-       *  Rehash will occur only if the new number of buckets respect the
-       *  %unordered_multiset maximum load factor.
-       */</doc>

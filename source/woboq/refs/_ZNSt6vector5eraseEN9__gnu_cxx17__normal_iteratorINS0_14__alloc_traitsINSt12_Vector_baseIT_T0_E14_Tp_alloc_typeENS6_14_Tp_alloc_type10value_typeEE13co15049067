@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_vector.h' l='1527' ll='1530' type='std::vector::iterator std::vector::erase(std::vector::const_iterator __position)'/>
-<use f='leetcode/406_queue_reconstruct_by_height.cpp' l='39' u='c' c='_ZN8Solution16reconstructQueueERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
-<use f='leetcode/406_queue_reconstruct_by_height.cpp' l='40' u='c' c='_ZN8Solution16reconstructQueueERSt6vectorIS0_IiSaIiEESaIS2_EE'/>

@@ -1,3 +1,0 @@
-<dec f='include/bits/timex.h' l='71' type='int'/>
-<offset>896</offset>
-<doc f='include/bits/timex.h' l='71'>/* interval duration (s) (shift) (ro) */</doc>

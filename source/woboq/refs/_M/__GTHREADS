@@ -1,6 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='32'/>
-<use f='include/c++/12.2.0/ext/atomicity.h' l='49' u='a'/>
-<use f='include/c++/12.2.0/bits/locale_classes.h' l='337' u='a'/>
-<use f='include/c++/12.2.0/bits/locale_classes.h' l='387' u='a'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='29'>/* POSIX threads specific definitions.
-   Easy, since the interface is just one-to-one mapping.  */</doc>

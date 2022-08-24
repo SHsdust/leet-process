@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/hashtable.h' l='659' ll='661' type='std::_Hashtable::size_type std::_Hashtable::max_size() const'/>
-<use f='include/c++/12.2.0/bits/hashtable.h' l='677' u='c' c='_ZNKSt10_Hashtable16max_bucket_countEv'/>

@@ -1,8 +1,0 @@
-_ZNSt5queue4backEv|std::queue::back
-_ZNSt5queue7emplaceEDpOTL0__|std::queue::emplace
-_ZNKSt5queue5emptyEv|std::queue::empty
-_ZNSt5queue5frontEv|std::queue::front
-_ZNSt5queue3popEv|std::queue::pop
-_ZNSt5queue4pushERKNT0_10value_typeE|std::queue::push
-_ZNKSt5queue4sizeEv|std::queue::size
-_ZNSt5queue4swapERSt5queueIT_T0_E|std::queue::swap

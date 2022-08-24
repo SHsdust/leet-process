@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/stl_vector.h' l='1303' type='void std::vector::emplace_back(_Args &amp;&amp;... __args)'/>
-<def f='include/c++/12.2.0/bits/vector.tcc' l='103' ll='127' type='void std::vector::emplace_back(_Args &amp;&amp;... __args)'/>

@@ -1,8 +1,0 @@
-<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
-<def f='include/c++/12.2.0/type_traits' l='2691' ll='2692'/>
-<use f='include/c++/12.2.0/type_traits' l='2697'/>
-<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
-<def f='include/c++/12.2.0/bits/stl_pair.h' l='760' ll='762'/>
-<doc f='include/c++/12.2.0/bits/stl_pair.h' l='758'>// Various functions which give std::pair a tuple-like interface.</doc>
-<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
-<def f='include/c++/12.2.0/tuple' l='1722' ll='1724'/>

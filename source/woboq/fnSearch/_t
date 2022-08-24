@@ -1,8 +1,0 @@
-_ZNSt17_Temporary_buffer5beginEv|std::_Temporary_buffer::begin
-_ZNSt17_Temporary_buffer3endEv|std::_Temporary_buffer::end
-_ZNKSt17_Temporary_buffer14requested_sizeEv|std::_Temporary_buffer::requested_size
-_ZNKSt17_Temporary_buffer4sizeEv|std::_Temporary_buffer::size
-_ZNSt6vector16_Temporary_value6_M_ptrEv|std::vector::_Temporary_value::_M_ptr
-_ZNSt6vector16_Temporary_value6_M_valEv|std::vector::_Temporary_value::_M_val
-_ZNSt6vector16_Temporary_valueC1EPSt6vectorIT_T0_EDpOTL0__|std::vector::_Temporary_value::_Temporary_value
-_ZNSt6vector16_Temporary_valueD1Ev|std::vector::_Temporary_value::~_Temporary_value

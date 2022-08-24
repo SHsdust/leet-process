@@ -1,3 +1,0 @@
-<dec f='include/stdlib.h' l='649' type='void _Exit(int __status)'/>
-<doc f='include/stdlib.h' l='647'>/* Terminate the program with STATUS without calling any of the
-   functions registered with `atexit&apos; or `on_exit&apos;.  */</doc>

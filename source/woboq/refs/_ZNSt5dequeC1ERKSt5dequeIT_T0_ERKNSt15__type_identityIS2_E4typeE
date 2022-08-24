@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_deque.h' l='936' ll='940' type='void std::deque::deque&lt;_Tp, _Alloc&gt;(const deque&lt;_Tp, _Alloc&gt; &amp; __x, const __type_identity_t&lt;std::deque::allocator_type&gt; &amp; __a)'/>
-<doc f='include/c++/12.2.0/bits/stl_deque.h' l='935'>/// Copy constructor with alternative allocator</doc>

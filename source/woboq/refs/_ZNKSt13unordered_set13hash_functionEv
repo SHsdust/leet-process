@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='625' ll='627' type='std::unordered_set::hasher std::unordered_set::hash_function() const'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='621'>// observers.
-
-      ///  Returns the hash functor object with which the %unordered_set was
-      ///  constructed.</doc>

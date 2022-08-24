@@ -1,3 +1,0 @@
-<dec f='include/c++/12.2.0/bits/refwrap.h' l='310' type='_Tp *'/>
-<use f='include/c++/12.2.0/bits/refwrap.h' l='332' u='w' c='_ZNSt17reference_wrapperC1EOTL0__'/>
-<use f='include/c++/12.2.0/bits/refwrap.h' l='347' u='r' c='_ZNKSt17reference_wrapper3getEv'/>

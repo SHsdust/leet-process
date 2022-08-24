@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_algobase.h' l='2152' ll='2185' type='bool std::__is_permutation(_ForwardIterator1 __first1, _ForwardIterator1 __last1, _ForwardIterator2 __first2, _BinaryPredicate __pred)'/>

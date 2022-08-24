@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='433' type='pair&lt;const _Tp &amp;, const _Tp &amp;&gt; std::minmax(const _Tp &amp; , const _Tp &amp; )'/>
-<def f='include/c++/12.2.0/bits/stl_algo.h' l='3282' ll='3291' macro='1' type='pair&lt;const _Tp &amp;, const _Tp &amp;&gt; std::minmax(const _Tp &amp; __a, const _Tp &amp; __b)'/>

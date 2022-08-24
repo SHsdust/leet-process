@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/basic_string.h' l='3922' ll='3925' type='basic_istream&lt;_CharT, _Traits&gt; &amp; std::getline(basic_istream&lt;_CharT, _Traits&gt; &amp; __is, basic_string&lt;_CharT, _Traits, _Alloc&gt; &amp; __str)'/>

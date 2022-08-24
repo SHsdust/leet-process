@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/ios_base.h' l='454' type='const std::ios_base::openmode'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='453'>/// Open and seek to end immediately after opening.</doc>

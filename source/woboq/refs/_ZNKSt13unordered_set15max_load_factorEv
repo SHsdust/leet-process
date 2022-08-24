@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='829' ll='831' type='float std::unordered_set::max_load_factor() const'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='827'>/// Returns a positive number that the %unordered_set tries to keep the
-      /// load factor less than or equal to.</doc>

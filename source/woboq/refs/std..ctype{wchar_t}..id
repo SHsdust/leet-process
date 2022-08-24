@@ -1,3 +1,0 @@
-<dec f='include/c++/12.2.0/bits/locale_facets.h' l='1217' type='locale::id'/>
-<doc f='include/c++/12.2.0/bits/locale_facets.h' l='1215'>// Data Members:
-      /// The facet id for ctype&lt;wchar_t&gt;</doc>

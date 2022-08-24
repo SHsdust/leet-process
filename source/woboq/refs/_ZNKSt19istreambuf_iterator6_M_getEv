@@ -1,3 +1,0 @@
-<use f='include/c++/12.2.0/bits/streambuf_iterator.h' l='151' u='c' c='_ZNKSt19istreambuf_iteratordeEv'/>
-<def f='include/c++/12.2.0/bits/streambuf_iterator.h' l='202' ll='209' type='std::istreambuf_iterator::int_type std::istreambuf_iterator::_M_get() const'/>
-<use f='include/c++/12.2.0/bits/streambuf_iterator.h' l='213' u='c' c='_ZNKSt19istreambuf_iterator9_M_at_eofEv'/>

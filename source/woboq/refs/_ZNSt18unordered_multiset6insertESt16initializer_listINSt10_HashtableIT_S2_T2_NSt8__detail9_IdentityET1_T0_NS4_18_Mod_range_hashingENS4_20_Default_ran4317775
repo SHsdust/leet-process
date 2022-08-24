@@ -1,8 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='1322' ll='1324' type='void std::unordered_multiset::insert(initializer_list&lt;std::unordered_multiset::value_type&gt; __l)'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1315'>/**
-       *  @brief Inserts a list of elements into the %unordered_multiset.
-       *  @param  __l  A std::initializer_list&lt;value_type&gt; of elements to be
-       *              inserted.
-       *
-       *  Complexity similar to that of the range constructor.
-       */</doc>

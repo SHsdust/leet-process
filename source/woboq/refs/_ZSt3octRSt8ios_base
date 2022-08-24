@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/ios_base.h' l='1070' ll='1075' type='std::ios_base &amp; std::oct(std::ios_base &amp; __base)'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='1069'>/// Calls base.setf(ios_base::oct, ios_base::basefield).</doc>

@@ -1,6 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='311' type='void std::terminate()'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='312' u='c' c='_ZSt11__terminatev'/>
-<dec f='include/c++/12.2.0/exception' l='80' type='void std::terminate()'/>
-<use f='include/c++/12.2.0/bits/nested_exception.h' l='71' u='c' c='_ZNKSt16nested_exception14rethrow_nestedEv'/>
-<doc f='include/c++/12.2.0/exception' l='78'>/** The runtime will call this function if %exception handling must be
-   *  abandoned for any reason.  It can also be called by the user.  */</doc>

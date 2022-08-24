@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/char_traits.h' l='129' type='static int __gnu_cxx::char_traits::compare(const __gnu_cxx::char_traits::char_type * __s1, const __gnu_cxx::char_traits::char_type * __s2, std::size_t __n)'/>
-<def f='include/c++/12.2.0/bits/char_traits.h' l='167' ll='178' type='static int __gnu_cxx::char_traits::compare(const __gnu_cxx::char_traits::char_type * __s1, const __gnu_cxx::char_traits::char_type * __s2, std::size_t __n)'/>

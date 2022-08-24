@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/stl_vector.h' l='1105' type='void std::vector::reserve(std::vector::size_type __n)'/>
-<def f='include/c++/12.2.0/bits/vector.tcc' l='64' ll='100' type='void std::vector::reserve(std::vector::size_type __n)'/>

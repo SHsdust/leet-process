@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='2094' ll='2098'/>
-<mbr r='std::__aligned_storage_msa::__type::__data' t='unsigned char[_Len]'/>
-<mbr r='std::__aligned_storage_msa::__type::__align' t='struct (unnamed struct at /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0/type_traits:2097:2)'/>

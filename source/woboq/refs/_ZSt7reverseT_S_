@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='597' type='void std::reverse(_BIter , _BIter )'/>
-<def f='include/c++/12.2.0/bits/stl_algo.h' l='1127' ll='1135' type='void std::reverse(_BidirectionalIterator __first, _BidirectionalIterator __last)'/>

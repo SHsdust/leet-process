@@ -1,3 +1,0 @@
-<dec f='include/bits/select.h' l='25'/>
-<doc f='include/bits/select.h' l='23'>/* We don&apos;t use `memset&apos; because this would require a prototype and
-   the array isn&apos;t too big.  */</doc>

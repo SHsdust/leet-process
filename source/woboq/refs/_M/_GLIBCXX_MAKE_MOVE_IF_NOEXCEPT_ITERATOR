@@ -1,5 +1,0 @@
-<dec f='include/c++/12.2.0/bits/stl_iterator.h' l='2574'/>
-<use f='include/c++/12.2.0/bits/stl_uninitialized.h' l='397' u='c'/>
-<use f='include/c++/12.2.0/bits/stl_uninitialized.h' l='398' u='c'/>
-<use f='include/c++/12.2.0/bits/vector.tcc' l='87' u='c'/>
-<use f='include/c++/12.2.0/bits/vector.tcc' l='88' u='c'/>

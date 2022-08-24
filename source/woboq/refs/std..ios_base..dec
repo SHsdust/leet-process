@@ -1,3 +1,0 @@
-<dec f='include/c++/12.2.0/bits/ios_base.h' l='348' type='const std::ios_base::fmtflags'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='1057' u='r' c='_ZSt3decRSt8ios_base'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='347'>/// Converts integer input or generates integer output in decimal base.</doc>

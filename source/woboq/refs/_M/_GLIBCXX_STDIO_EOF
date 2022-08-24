@@ -1,4 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1720'/>
-<use f='include/c++/12.2.0/bits/char_traits.h' l='160' u='c'/>
-<use f='include/c++/12.2.0/bits/char_traits.h' l='462' u='c'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1719'>/* Define to the value of the EOF integer constant. */</doc>

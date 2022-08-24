@@ -1,7 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='1446' ll='1448'/>
-<use f='include/c++/12.2.0/type_traits' l='2505'/>
-<use f='include/c++/12.2.0/type_traits' l='2519'/>
-<use f='include/c++/12.2.0/bits/nested_exception.h' l='126' c='_ZSt17throw_with_nestedOT_'/>
-<use f='include/c++/12.2.0/bits/nested_exception.h' l='136'/>
-<use f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='256'/>
-<use f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='258'/>

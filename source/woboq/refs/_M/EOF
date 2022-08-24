@@ -1,3 +1,0 @@
-<dec f='include/stdio.h' l='104'/>
-<doc f='include/stdio.h' l='102'>/* The value returned by fgetc and similar functions to indicate the
-   end of the file.  */</doc>

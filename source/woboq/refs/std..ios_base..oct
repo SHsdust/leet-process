@@ -1,9 +1,0 @@
-<dec f='include/c++/12.2.0/bits/ios_base.h' l='366' type='const std::ios_base::fmtflags'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='1073' u='r' c='_ZSt3octRSt8ios_base'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='391' u='r' c='_ZNKSt7num_get14_M_extract_intB5cxx11ET0_S0_RSt8ios_baseRSt12_Ios_IostateRTL0__'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='826' u='r' c='_ZSt13__int_to_charPT_T0_PKS_St13_Ios_Fmtflagsb'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='889' u='r' c='_ZNKSt7num_put13_M_insert_intET0_RSt8ios_baseT_TL0__'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='925' u='r' c='_ZNKSt7num_put13_M_insert_intET0_RSt8ios_baseT_TL0__'/>
-<use f='include/c++/12.2.0/bits/ostream.tcc' l='97' u='r' c='_ZNSt13basic_ostreamlsEs'/>
-<use f='include/c++/12.2.0/bits/ostream.tcc' l='111' u='r' c='_ZNSt13basic_ostreamlsEi'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='365'>/// Converts integer input or generates integer output in octal base.</doc>

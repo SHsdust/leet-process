@@ -1,3 +1,0 @@
-<dec f='include/c++/12.2.0/bits/basic_string.h' l='2532' type='std::basic_string::size_type std::basic_string::copy(_CharT * __s, std::basic_string::size_type __n, std::basic_string::size_type __pos = 0) const'/>
-<def f='include/c++/12.2.0/bits/basic_string.tcc' l='545' ll='558' type='typename basic_string&lt;_CharT, _Traits, _Alloc&gt;::size_type std::basic_string::copy(_CharT * __s, std::basic_string::size_type __n, std::basic_string::size_type __pos = 0) const'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='90' u='c' c='_ZNSt16__numpunct_cache8_M_cacheERKSt6locale'/>

@@ -1,5 +1,0 @@
-<use f='include/c++/12.2.0/bits/hashtable.h' l='609' u='c' c='_ZNSt10_HashtableaSESt16initializer_listIT0_E'/>
-<dec f='include/c++/12.2.0/bits/hashtable.h' l='983' type='void std::_Hashtable::rehash(std::_Hashtable::size_type __bkt_count)'/>
-<def f='include/c++/12.2.0/bits/hashtable.h' l='2507' ll='2528' type='void std::_Hashtable::rehash(std::_Hashtable::size_type __bkt_count)'/>
-<doc f='include/c++/12.2.0/bits/hashtable.h' l='981'>// Set number of buckets keeping it appropriate for container&apos;s number
-      // of elements.</doc>

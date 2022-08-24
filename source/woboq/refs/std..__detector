@@ -1,4 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='2644' ll='2648'/>
-<def f='include/c++/12.2.0/type_traits' l='2651' ll='2657'/>
-<use f='include/c++/12.2.0/type_traits' l='2662'/>
-<doc f='include/c++/12.2.0/type_traits' l='2650'>/// Implementation of the detection idiom (positive case).</doc>

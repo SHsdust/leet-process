@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_bvector.h' l='1039' ll='1041' type='std::vector&lt;bool, type-parameter-0-0&gt;::const_reference std::vector&lt;bool, type-parameter-0-0&gt;::operator[](std::vector&lt;bool, type-parameter-0-0&gt;::size_type __n) const'/>

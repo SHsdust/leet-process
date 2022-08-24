@@ -1,4 +1,0 @@
-<dec f='include/c++/12.2.0/bits/ios_base.h' l='603' type='void *'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='605' u='w' c='_ZNSt8ios_base6_WordsC1Ev'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='873' u='a' c='_ZNSt8ios_base5pwordEi'/>
-<offset>0</offset>

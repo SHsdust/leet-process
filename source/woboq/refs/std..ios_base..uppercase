@@ -1,8 +1,0 @@
-<dec f='include/c++/12.2.0/bits/ios_base.h' l='394' type='const std::ios_base::fmtflags'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='999' u='r' c='_ZSt9uppercaseRSt8ios_base'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='1007' u='r' c='_ZSt11nouppercaseRSt8ios_base'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='839' u='r' c='_ZSt13__int_to_charPT_T0_PKS_St13_Ios_Fmtflagsb'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='930' u='r' c='_ZNKSt7num_put13_M_insert_intET0_RSt8ios_baseT_TL0__'/>
-<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='1202' u='r' c='_ZNKSt7num_put6do_putET0_RSt8ios_baseT_PKv'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='392'>/// Replaces certain lowercase letters with their uppercase equivalents
-    /// in generated output.</doc>

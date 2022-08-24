@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/ios_base.h' l='956' ll='961' type='std::ios_base &amp; std::noshowpoint(std::ios_base &amp; __base)'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='955'>/// Calls base.unsetf(ios_base::showpoint).</doc>

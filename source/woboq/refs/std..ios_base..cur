@@ -1,4 +1,0 @@
-<dec f='include/c++/12.2.0/bits/ios_base.h' l='494' type='const std::ios_base::seekdir'/>
-<use f='include/c++/12.2.0/bits/ostream.tcc' l='257' c='_ZNSt13basic_ostream5tellpEv'/>
-<use f='include/c++/12.2.0/bits/istream.tcc' l='865' c='_ZNSt13basic_istream5tellgEv'/>
-<doc f='include/c++/12.2.0/bits/ios_base.h' l='493'>/// Request a seek relative to the current position within the sequence.</doc>

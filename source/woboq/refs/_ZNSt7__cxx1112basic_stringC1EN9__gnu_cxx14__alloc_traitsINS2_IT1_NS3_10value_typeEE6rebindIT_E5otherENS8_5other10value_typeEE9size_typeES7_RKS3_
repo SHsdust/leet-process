@@ -1,8 +1,0 @@
-<def f='include/c++/12.2.0/bits/basic_string.h' l='657' ll='659' type='void std::basic_string::basic_string&lt;_CharT, _Traits, _Alloc&gt;(std::basic_string::size_type __n, _CharT __c, const _Alloc &amp; __a = _Alloc())'/>
-<use f='include/c++/12.2.0/bits/basic_string.h' l='4020' u='c' c='_ZNSt7__cxx119to_stringEi'/>
-<use f='include/c++/12.2.0/bits/basic_string.h' l='4031' u='c' c='_ZNSt7__cxx119to_stringEj'/>
-<use f='include/c++/12.2.0/bits/basic_string.h' l='4045' u='c' c='_ZNSt7__cxx119to_stringEl'/>
-<use f='include/c++/12.2.0/bits/basic_string.h' l='4056' u='c' c='_ZNSt7__cxx119to_stringEm'/>
-<use f='include/c++/12.2.0/bits/basic_string.h' l='4068' u='c' c='_ZNSt7__cxx119to_stringEx'/>
-<use f='include/c++/12.2.0/bits/basic_string.h' l='4076' u='c' c='_ZNSt7__cxx119to_stringEy'/>
-<use f='leetcode/51_n_queens.cpp' l='28' u='c' c='_ZN8Solution12solveNQueensB5cxx11Ei'/>

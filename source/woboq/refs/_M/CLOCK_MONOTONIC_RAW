@@ -1,2 +1,0 @@
-<dec f='include/bits/time.h' l='54'/>
-<doc f='include/bits/time.h' l='53'>/* Monotonic system-wide clock, not adjusted for frequency scaling.  */</doc>

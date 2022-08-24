@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='742' type='_Funct std::for_each(_IIter , _IIter , _Funct )'/>
-<def f='include/c++/12.2.0/bits/stl_algo.h' l='3780' ll='3789' type='_Function std::for_each(_InputIterator __first, _InputIterator __last, _Function __f)'/>

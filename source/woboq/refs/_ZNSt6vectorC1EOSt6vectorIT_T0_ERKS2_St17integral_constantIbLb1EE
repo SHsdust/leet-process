@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_vector.h' l='630' ll='632' type='void std::vector::vector&lt;_Tp, _Alloc&gt;(vector&lt;_Tp, _Alloc&gt; &amp;&amp; __rv, const std::vector::allocator_type &amp; __m, std::true_type )'/>

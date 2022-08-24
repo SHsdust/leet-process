@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_pair.h' l='195' type='void std::pair::pair&lt;_T1, _T2&gt;(const pair&lt;_T1, _T2&gt; &amp; )'/>
-<doc f='include/c++/12.2.0/bits/stl_pair.h' l='195'>///&lt; Copy constructor</doc>
-<use f='leetcode/934_shortest_bridge.cpp' l='47' u='c' c='_ZN8Solution14shortestBridgeERSt6vectorIS0_IiSaIiEESaIS2_EE'/>

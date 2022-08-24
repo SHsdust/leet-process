@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/functexcept.h' l='113' type='void std::__throw_bad_function_call()'/>
-<doc f='include/c++/12.2.0/bits/functexcept.h' l='111'>// Helpers for exception objects in &lt;functional&gt;</doc>

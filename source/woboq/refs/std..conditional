@@ -1,4 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='2255' ll='2256'/>
-<def f='include/c++/12.2.0/type_traits' l='2259' ll='2261'/>
-<use f='include/c++/12.2.0/type_traits' l='2618'/>
-<doc f='include/c++/12.2.0/type_traits' l='2258'>// Partial specialization for false.</doc>

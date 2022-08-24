@@ -1,7 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='795'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='801' u='c'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='805' u='c'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='809' u='c'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='813' u='c'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='817' u='w'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='794'>// Intel and older Clang require !__is_identifier for some built-ins:</doc>

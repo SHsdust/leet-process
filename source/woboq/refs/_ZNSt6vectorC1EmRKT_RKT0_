@@ -1,9 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_vector.h' l='564' ll='567' type='void std::vector::vector&lt;_Tp, _Alloc&gt;(std::vector::size_type __n, const std::vector::value_type &amp; __value, const std::vector::allocator_type &amp; __a = std::vector::allocator_type())'/>
-<use f='leetcode/417_plastic_atlantic_water_flow.cpp' l='16' u='c' c='_ZN8Solution15pacificAtlanticERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
-<use f='leetcode/417_plastic_atlantic_water_flow.cpp' l='17' u='c' c='_ZN8Solution15pacificAtlanticERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
-<use f='leetcode/51_n_queens.cpp' l='28' u='c' c='_ZN8Solution12solveNQueensB5cxx11Ei'/>
-<use f='leetcode/763_partition_labels.cpp' l='32' u='c' c='_ZN8Solution15partitionLabelsENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE'/>
-<use f='leetcode/76_minimum_windows_substring.cpp' l='12' u='c' c='_ZN8Solution9minWindowENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_'/>
-<use f='leetcode/76_minimum_windows_substring.cpp' l='13' u='c' c='_ZN8Solution9minWindowENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_'/>
-<use f='leetcode/77_Combinations.cpp' l='10' u='c' c='_ZN8Solution7combineEii'/>
-<use f='leetcode/79_word_search.cpp' l='30' u='c' c='_ZN8Solution5existERSt6vectorIS0_IcSaIcEESaIS2_EENSt7__cxx1112basic_stringIcSt11char_traitsIcES1_EE'/>

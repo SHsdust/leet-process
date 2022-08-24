@@ -1,3 +1,0 @@
-<dec f='include/bits/types/struct___jmp_buf_tag.h' l='34' type='__sigset_t'/>
-<offset>576</offset>
-<doc f='include/bits/types/struct___jmp_buf_tag.h' l='34'>/* Saved signal mask.  */</doc>

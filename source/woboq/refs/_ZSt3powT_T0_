@@ -1,4 +1,0 @@
-<def f='include/c++/12.2.0/cmath' l='413' ll='419' type='typename __gnu_cxx::__promote_2&lt;_Tp, _Up&gt;::__type std::pow(_Tp __x, _Up __y)'/>
-<use f='leetcode/633_sum_of_square_nums.cpp' l='10' u='c' c='_ZN8Solution14judgeSquareSumEi'/>
-<use f='leetcode/633_sum_of_square_nums.cpp' l='11' u='c' c='_ZN8Solution14judgeSquareSumEi'/>
-<use f='leetcode/69_sqrt.cpp' l='47' u='c' c='_ZN8Solution6mySqrtEi'/>

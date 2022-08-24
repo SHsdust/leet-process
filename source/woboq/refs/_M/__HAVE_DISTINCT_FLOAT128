@@ -1,6 +1,0 @@
-<dec f='include/bits/floatn.h' l='42'/>
-<use f='include/math.h' l='475' u='c'/>
-<use f='include/math.h' l='881' u='c'/>
-<use f='include/math.h' l='1017' u='c'/>
-<use f='include/bits/iscanonical.h' l='27' u='c'/>
-<use f='include/bits/iscanonical.h' l='50' u='c'/>

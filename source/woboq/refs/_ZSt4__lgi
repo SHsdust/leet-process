@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_algobase.h' l='1504' ll='1506' type='int std::__lg(int __n)'/>
-<doc f='include/c++/12.2.0/bits/stl_algobase.h' l='1502'>/// This is a helper function for the sort routines and for random.tcc.
-  //  Precondition: __n &gt; 0.</doc>

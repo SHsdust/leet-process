@@ -1,4 +1,0 @@
-<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='549' ll='559'/>
-<size>1</size>
-<doc f='include/c++/12.2.0/bits/hashtable_policy.h' l='548'>/// Range hashing function assuming that second arg is a power of 2.</doc>
-<fun r='_ZNKSt8__detail19_Mask_range_hashingclEmm'/>

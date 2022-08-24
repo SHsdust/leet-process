@@ -1,4 +1,0 @@
-<dec f='include/c++/12.2.0/bits/hashtable_policy.h' l='1933' type='std::__detail::_Hashtable_alloc::__node_ptr std::__detail::_Hashtable_alloc::_M_allocate_node(_Args &amp;&amp;... __args)'/>
-<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='1957' ll='1978' type='std::__detail::_Hashtable_alloc::__node_ptr std::__detail::_Hashtable_alloc::_M_allocate_node(_Args &amp;&amp;... __args)'/>
-<doc f='include/c++/12.2.0/bits/hashtable_policy.h' l='1955'>// Definitions of class template _Hashtable_alloc&apos;s out-of-line member
-  // functions.</doc>

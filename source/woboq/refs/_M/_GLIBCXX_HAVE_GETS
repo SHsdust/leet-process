@@ -1,3 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1001'/>
-<use f='include/c++/12.2.0/cstdio' l='47' u='a'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1000'>/* Define if gets is available in &lt;stdio.h&gt; before C++14. */</doc>

@@ -1,6 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='944' ll='948'/>
-<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
-<def f='include/c++/12.2.0/type_traits' l='950' ll='952'/>
-<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
-<def f='include/c++/12.2.0/type_traits' l='954' ll='956'/>
-<use f='include/c++/12.2.0/type_traits' l='962'/>

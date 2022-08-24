@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_pair.h' l='567' ll='575' type='pair&lt;_T1, _T2&gt; &amp; std::pair::operator=(__conditional_t&lt;__and_&lt;is_copy_assignable&lt;_T1&gt;, is_copy_assignable&lt;_T2&gt;&gt;::value, const pair&lt;_T1, _T2&gt; &amp;, const std::__nonesuch &amp;&gt; __p)'/>

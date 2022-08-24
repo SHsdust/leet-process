@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/tuple' l='920' ll='926' type='__enable_if_t&lt;__assignable&lt;const _UElements &amp;...&gt;(), tuple&lt;type-parameter-0-0...&gt; &amp;&gt; std::tuple::operator=(const tuple&lt;_UElements...&gt; &amp; __in)'/>

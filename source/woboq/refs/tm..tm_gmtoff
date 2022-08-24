@@ -1,3 +1,0 @@
-<dec f='include/bits/types/struct_tm.h' l='20' type='long'/>
-<offset>320</offset>
-<doc f='include/bits/types/struct_tm.h' l='20'>/* Seconds east of UTC.  */</doc>

@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/basic_string.h' l='3996' ll='3998' type='float std::stof(const std::string &amp; __str, std::size_t * __idx = 0)'/>
-<doc f='include/c++/12.2.0/bits/basic_string.h' l='3995'>// NB: strtof vs strtod.</doc>

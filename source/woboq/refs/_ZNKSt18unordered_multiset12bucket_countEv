@@ -1,6 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='1596' ll='1598' type='std::unordered_multiset::size_type std::unordered_multiset::bucket_count() const'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1591'>///@}
-
-      // bucket interface.
-
-      /// Returns the number of buckets of the %unordered_multiset.</doc>

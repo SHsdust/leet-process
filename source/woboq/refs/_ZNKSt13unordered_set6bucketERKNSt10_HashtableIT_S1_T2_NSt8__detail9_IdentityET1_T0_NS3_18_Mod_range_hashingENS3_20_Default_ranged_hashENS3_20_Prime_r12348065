@@ -1,6 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='776' ll='778' type='std::unordered_set::size_type std::unordered_set::bucket(const std::unordered_set::key_type &amp; __key) const'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='771'>/*
-       * @brief  Returns the bucket index of a given element.
-       * @param  __key  A key instance.
-       * @return  The key bucket index.
-       */</doc>

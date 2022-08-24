@@ -1,3 +1,0 @@
-<dec f='include/bits/types/struct_timespec.h' l='21' type='__syscall_slong_t'/>
-<offset>64</offset>
-<doc f='include/bits/types/struct_timespec.h' l='21'>/* Nanoseconds.  */</doc>

@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='1069' ll='1070' type='unordered_multiset&lt;_Value, _Hash, _Pred, _Alloc&gt; &amp; std::unordered_multiset::operator=(unordered_multiset&lt;_Value, _Hash, _Pred, _Alloc&gt; &amp;&amp; )'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1068'>/// Move assignment operator.</doc>

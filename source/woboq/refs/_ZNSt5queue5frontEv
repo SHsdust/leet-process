@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_queue.h' l='232' ll='237' type='std::queue::reference std::queue::front()'/>
-<use f='leetcode/934_shortest_bridge.cpp' l='47' u='c' c='_ZN8Solution14shortestBridgeERSt6vectorIS0_IiSaIiEESaIS2_EE'/>

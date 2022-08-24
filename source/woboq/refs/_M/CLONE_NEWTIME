@@ -1,3 +1,0 @@
-<dec f='include/bits/sched.h' l='77'/>
-<doc f='include/bits/sched.h' l='75'>/* cloning flags intersect with CSIGNAL so can be used only with unshare and
-   clone3 syscalls.  */</doc>

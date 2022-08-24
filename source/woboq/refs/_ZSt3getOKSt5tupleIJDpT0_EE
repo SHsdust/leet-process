@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/tuple' l='1400' ll='1405' type='const __tuple_element_t&lt;__i, tuple&lt;_Elements...&gt;&gt; &amp;&amp; std::get(const tuple&lt;_Elements...&gt; &amp;&amp; __t)'/>
-<def f='include/c++/12.2.0/tuple' l='1454' ll='1461' type='const _Tp &amp;&amp; std::get(const tuple&lt;_Types...&gt; &amp;&amp; __t)'/>

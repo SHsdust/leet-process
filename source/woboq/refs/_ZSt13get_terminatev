@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/exception' l='75' type='std::terminate_handler std::get_terminate()'/>
-<doc f='include/c++/12.2.0/exception' l='74'>/// Return the current terminate handler.</doc>

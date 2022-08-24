@@ -1,4 +1,0 @@
-<def f='include/c++/12.2.0/bits/ios_base.h' l='204'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='206'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='211' c='_ZSt15make_error_codeSt7io_errc'/>
-<use f='include/c++/12.2.0/bits/ios_base.h' l='215' c='_ZSt20make_error_conditionSt7io_errc'/>

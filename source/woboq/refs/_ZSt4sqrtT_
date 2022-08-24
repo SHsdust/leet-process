@@ -1,3 +1,0 @@
-<def f='include/c++/12.2.0/cmath' l='472' ll='476' type='typename __gnu_cxx::__enable_if&lt;__is_integer&lt;_Tp&gt;::__value, double&gt;::__type std::sqrt(_Tp __x)'/>
-<use f='leetcode/633_sum_of_square_nums.cpp' l='8' u='c' c='_ZN8Solution14judgeSquareSumEi'/>
-<use f='leetcode/633_sum_of_square_nums.cpp' l='11' u='c' c='_ZN8Solution14judgeSquareSumEi'/>

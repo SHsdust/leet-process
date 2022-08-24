@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_tempbuf.h' l='100' ll='117' type='pair&lt;_Tp *, std::ptrdiff_t&gt; std::get_temporary_buffer(std::ptrdiff_t __len)'/>

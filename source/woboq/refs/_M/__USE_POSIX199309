@@ -1,5 +1,0 @@
-<dec f='include/features.h' l='333'/>
-<use f='include/bits/time.h' l='44' u='a'/>
-<use f='include/time.h' l='41' u='a'/>
-<use f='include/time.h' l='45' u='a'/>
-<use f='include/time.h' l='275' u='a'/>

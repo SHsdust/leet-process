@@ -1,6 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='1102' ll='1107'/>
-<use f='include/c++/12.2.0/type_traits' l='2708' c='_ZSt4swapRT_S0_'/>
-<use f='include/c++/12.2.0/bits/move.h' l='110'/>
-<use f='include/c++/12.2.0/bits/move.h' l='197' c='_ZSt4swapRT_S0_'/>
-<use f='include/c++/12.2.0/bits/allocator.h' l='306'/>
-<use f='include/c++/12.2.0/tuple' l='455' c='_ZNSt11_Tuple_implIXT_EJT0_EEC1EOS_IXT_EJS0_EE'/>

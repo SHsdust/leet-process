@@ -1,6 +1,0 @@
-<def f='include/c++/12.2.0/bits/ptr_traits.h' l='134' ll='136' type='static std::__ptr_traits_ptr_to&lt;type-parameter-0-0 *, type-parameter-0-0, false&gt;::pointer std::__ptr_traits_ptr_to&lt;type-parameter-0-0 *, type-parameter-0-0, false&gt;::pointer_to(std::__ptr_traits_ptr_to&lt;type-parameter-0-0 *, type-parameter-0-0, false&gt;::element_type &amp; __r)'/>
-<doc f='include/c++/12.2.0/bits/ptr_traits.h' l='129'>/**
-       *  @brief  Obtain a pointer to an object
-       *  @param  __r  A reference to an object of type `element_type`
-       *  @return `addressof(__r)`
-      */</doc>

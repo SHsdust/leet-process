@@ -1,6 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='2543' ll='2546'/>
-<def f='include/c++/12.2.0/type_traits' l='2548' ll='2552'/>
-<def f='include/c++/12.2.0/type_traits' l='2554' ll='2558'/>
-<inh f='include/c++/12.2.0/type_traits' l='2561' c='std::__result_of_other_impl'/>
-<def f='include/c++/12.2.0/type_traits' l='2572' ll='2577'/>
-<use f='include/c++/12.2.0/type_traits' l='2582'/>

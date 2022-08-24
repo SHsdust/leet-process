@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/char_traits.h' l='585' ll='587' type='static std::char_traits&lt;wchar_t&gt;::int_type std::char_traits&lt;wchar_t&gt;::eof()'/>
-<use f='include/c++/12.2.0/bits/char_traits.h' l='591' u='c' c='_ZNSt11char_traitsIwE7not_eofERKj'/>

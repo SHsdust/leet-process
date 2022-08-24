@@ -1,4 +1,0 @@
-<dec f='include/stdio.h' l='382' type='int vsnprintf(char *__restrict __s, size_t __maxlen, const char *__restrict __format, __va_list_tag * __arg)'/>
-<use f='include/c++/12.2.0/bits/basic_string.h' l='4089' u='a' c='_ZNSt7__cxx119to_stringEf'/>
-<use f='include/c++/12.2.0/bits/basic_string.h' l='4098' u='a' c='_ZNSt7__cxx119to_stringEd'/>
-<use f='include/c++/12.2.0/bits/basic_string.h' l='4107' u='a' c='_ZNSt7__cxx119to_stringEe'/>

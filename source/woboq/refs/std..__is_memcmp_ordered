@@ -1,6 +1,0 @@
-<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='500' ll='503'/>
-<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='505' ll='509'/>
-<use f='include/c++/12.2.0/bits/cpp_type_traits.h' l='515'/>
-<use f='include/c++/12.2.0/bits/cpp_type_traits.h' l='516'/>
-<smbr r='std::__is_memcmp_ordered::__value' t='const bool'/>
-<smbr r='std::__is_memcmp_ordered{type-parameter-0-0,false}::__value' t='const bool'/>

@@ -1,4 +1,0 @@
-<def f='include/c++/12.2.0/type_traits' l='2594' ll='2597'/>
-<use f='include/c++/12.2.0/type_traits' l='2630'/>
-<use f='include/c++/12.2.0/bits/refwrap.h' l='351' c='_ZNKSt17reference_wrapperclEDpOTL0__'/>
-<doc f='include/c++/12.2.0/type_traits' l='2592'>/// @endcond</doc>

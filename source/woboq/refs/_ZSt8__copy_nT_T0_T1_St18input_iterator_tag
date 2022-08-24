@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_algo.h' l='713' ll='720' type='_OutputIterator std::__copy_n(_InputIterator __first, _Size __n, _OutputIterator __result, std::input_iterator_tag )'/>

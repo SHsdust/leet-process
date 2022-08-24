@@ -1,2 +1,0 @@
-<dec f='include/bits/time.h' l='66'/>
-<doc f='include/bits/time.h' l='65'>/* Like CLOCK_REALTIME but in International Atomic Time.  */</doc>

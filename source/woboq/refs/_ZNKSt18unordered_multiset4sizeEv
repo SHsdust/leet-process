@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='1168' ll='1170' type='std::unordered_multiset::size_type std::unordered_multiset::size() const'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1167'>///  Returns the size of the %unordered_multiset.</doc>

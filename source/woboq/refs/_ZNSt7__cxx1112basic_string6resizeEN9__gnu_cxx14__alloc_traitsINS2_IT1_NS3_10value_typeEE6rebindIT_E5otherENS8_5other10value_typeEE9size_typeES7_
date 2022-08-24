@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/basic_string.h' l='1091' type='void std::basic_string::resize(std::basic_string::size_type __n, _CharT __c)'/>
-<def f='include/c++/12.2.0/bits/basic_string.tcc' l='393' ll='404' type='void std::basic_string::resize(std::basic_string::size_type __n, _CharT __c)'/>

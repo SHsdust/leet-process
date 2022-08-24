@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/char_traits.h' l='388' ll='396' type='static std::size_t std::char_traits&lt;char&gt;::length(const std::char_traits&lt;char&gt;::char_type * __s)'/>
-<use f='include/c++/12.2.0/bits/ostream.tcc' l='310' u='c' c='_ZStlsRSt13basic_ostreamIT_T0_EPKc'/>

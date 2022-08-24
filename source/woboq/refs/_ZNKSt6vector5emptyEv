@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_vector.h' l='1082' ll='1084' type='bool std::vector::empty() const'/>
-<use f='include/c++/12.2.0/bits/stl_vector.h' l='1993' u='c' c='_ZNKSt6vector11_M_data_ptrETL0__'/>
-<use f='leetcode/417_plastic_atlantic_water_flow.cpp' l='11' u='c' c='_ZN8Solution15pacificAtlanticERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
-<use f='leetcode/417_plastic_atlantic_water_flow.cpp' l='11' u='c' c='_ZN8Solution15pacificAtlanticERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
-<use f='leetcode/79_word_search.cpp' l='28' u='c' c='_ZN8Solution5existERSt6vectorIS0_IcSaIcEESaIS2_EENSt7__cxx1112basic_stringIcSt11char_traitsIcES1_EE'/>

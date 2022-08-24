@@ -1,3 +1,0 @@
-<dec f='include/bits/wctype-wchar.h' l='112' type='int iswgraph(wint_t __wc)'/>
-<doc f='include/bits/wctype-wchar.h' l='110'>/* Test for any wide character for which `iswprint&apos; is true and
-   `iswspace&apos; is false.  */</doc>

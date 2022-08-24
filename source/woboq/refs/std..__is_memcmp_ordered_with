@@ -1,7 +1,0 @@
-<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='513' ll='517'/>
-<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='519' ll='523'/>
-<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1370' c='_ZSt30__lexicographical_compare_aux1T_S_T0_S0_'/>
-<smbr r='std::__is_memcmp_ordered_with::__value' t='const bool'/>
-<smbr r='std::__is_memcmp_ordered_with{type-parameter-0-0,type-parameter-0-1,false}::__value' t='const bool'/>
-<use f='include/c++/12.2.0/bits/deque.tcc' l='1275' c='_ZSt13__lex_cmp_ditSt15_Deque_iteratorIT_T0_T1_ES3_PKT2_S6_'/>
-<use f='include/c++/12.2.0/bits/deque.tcc' l='1331' c='_ZSt30__lexicographical_compare_aux1St15_Deque_iteratorIT_T0_T1_ES3_S_IT2_T3_T4_ES7_'/>

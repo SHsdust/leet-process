@@ -1,2 +1,0 @@
-<dec f='include/bits/waitstatus.h' l='31'/>
-<doc f='include/bits/waitstatus.h' l='30'>/* If WIFSIGNALED(STATUS), the terminating signal.  */</doc>

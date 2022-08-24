@@ -1,5 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1360'/>
-<use f='include/c++/12.2.0/cwchar' l='92' u='c'/>
-<use f='include/c++/12.2.0/cwchar' l='171' u='c'/>
-<use f='include/c++/12.2.0/cwchar' l='288' u='c'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1359'>/* Defined if vswscanf exists. */</doc>

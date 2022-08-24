@@ -1,3 +1,0 @@
-<dec f='include/pthread.h' l='1117' type='int pthread_cond_destroy(pthread_cond_t * __cond)'/>
-<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='885' u='c' c='__gthread_cond_destroy'/>
-<doc f='include/pthread.h' l='1116'>/* Destroy condition variable COND.  */</doc>

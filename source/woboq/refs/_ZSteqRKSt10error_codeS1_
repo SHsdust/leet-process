@@ -1,5 +1,0 @@
-<def f='include/c++/12.2.0/system_error' l='361' ll='364' type='bool std::operator==(const std::error_code &amp; __lhs, const std::error_code &amp; __rhs)'/>
-<use f='include/c++/12.2.0/system_error' l='417' u='c' c='_ZStneRKSt10error_codeS1_'/>
-<doc f='include/c++/12.2.0/system_error' l='358'>// 19.4.4 Comparison operators
-
-  /// @relates error_code</doc>

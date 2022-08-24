@@ -1,6 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_vector.h' l='992' ll='994' type='std::vector::size_type std::vector::max_size() const'/>
-<use f='include/c++/12.2.0/bits/stl_vector.h' l='1893' u='c' c='_ZNKSt6vector12_M_check_lenEmPKc'/>
-<use f='include/c++/12.2.0/bits/stl_vector.h' l='1897' u='c' c='_ZNKSt6vector12_M_check_lenEmPKc'/>
-<use f='include/c++/12.2.0/bits/stl_vector.h' l='1897' u='c' c='_ZNKSt6vector12_M_check_lenEmPKc'/>
-<use f='include/c++/12.2.0/bits/vector.tcc' l='635' u='c' c='_ZNSt6vector17_M_default_appendEm'/>
-<use f='include/c++/12.2.0/bits/vector.tcc' l='635' u='c' c='_ZNSt6vector17_M_default_appendEm'/>

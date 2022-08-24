@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='361' type='bool std::is_sorted(_FIter , _FIter )'/>
-<def f='include/c++/12.2.0/bits/stl_algo.h' l='3186' ll='3188' type='bool std::is_sorted(_ForwardIterator __first, _ForwardIterator __last)'/>

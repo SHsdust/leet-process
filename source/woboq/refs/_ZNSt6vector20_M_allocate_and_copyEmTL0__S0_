@@ -1,1 +1,0 @@
-<def f='include/c++/12.2.0/bits/stl_vector.h' l='1610' ll='1626' type='std::vector::pointer std::vector::_M_allocate_and_copy(std::vector::size_type __n, _ForwardIterator __first, _ForwardIterator __last)'/>

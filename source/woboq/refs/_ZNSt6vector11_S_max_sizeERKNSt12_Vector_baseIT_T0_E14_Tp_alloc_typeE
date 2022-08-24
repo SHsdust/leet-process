@@ -1,3 +1,0 @@
-<use f='include/c++/12.2.0/bits/stl_vector.h' l='994' u='c' c='_ZNKSt6vector8max_sizeEv'/>
-<use f='include/c++/12.2.0/bits/stl_vector.h' l='1904' u='c' c='_ZNSt6vector17_S_check_init_lenEmRKT0_'/>
-<def f='include/c++/12.2.0/bits/stl_vector.h' l='1910' ll='1920' type='static std::vector::size_type std::vector::_S_max_size(const std::vector::_Tp_alloc_type &amp; __a)'/>

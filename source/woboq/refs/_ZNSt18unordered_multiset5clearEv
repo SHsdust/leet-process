@@ -1,8 +1,0 @@
-<def f='include/c++/12.2.0/bits/unordered_set.h' l='1420' ll='1422' type='void std::unordered_multiset::clear()'/>
-<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1413'>/**
-       *  Erases all elements in an %unordered_multiset.
-       *
-       *  Note that this function only erases the elements, and that if the
-       *  elements themselves are pointers, the pointed-to memory is not touched
-       *  in any way. Managing the pointer is the user&apos;s responsibility.
-       */</doc>

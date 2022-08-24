@@ -1,3 +1,0 @@
-<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1874'/>
-<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1872'>/* Define if c8rtomb and mbrtoc8 functions in &lt;uchar.h&gt; should be imported
-   into namespace std in &lt;cuchar&gt; for C++20. */</doc>

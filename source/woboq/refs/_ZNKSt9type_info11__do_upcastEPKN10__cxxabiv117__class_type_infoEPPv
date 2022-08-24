@@ -1,2 +1,0 @@
-<dec f='include/c++/12.2.0/typeinfo' l='146' type='bool std::type_info::__do_upcast(const __cxxabiv1::__class_type_info * __target, void ** __obj_ptr) const'/>
-<doc f='include/c++/12.2.0/typeinfo' l='145'>// Internally used during catch matching</doc>

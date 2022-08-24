@@ -1,2 +1,0 @@
-<def f='include/c++/12.2.0/bits/invoke.h' l='136' ll='144' type='__can_invoke_as_nonvoid&lt;_Res, _Callable, _Args...&gt; std::__invoke_r(_Callable &amp;&amp; __fn, _Args &amp;&amp;... __args)'/>
-<def f='include/c++/12.2.0/bits/invoke.h' l='148' ll='156' macro='1' type='__can_invoke_as_void&lt;_Res, _Callable, _Args...&gt; std::__invoke_r(_Callable &amp;&amp; __fn, _Args &amp;&amp;... __args)'/>

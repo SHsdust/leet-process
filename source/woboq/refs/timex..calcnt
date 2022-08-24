@@ -1,3 +1,0 @@
-<dec f='include/bits/timex.h' l='74' type='__syscall_slong_t'/>
-<offset>1088</offset>
-<doc f='include/bits/timex.h' l='74'>/* calibration intervals (ro) */</doc>
