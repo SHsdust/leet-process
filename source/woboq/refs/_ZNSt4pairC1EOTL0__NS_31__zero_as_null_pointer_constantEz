@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/stl_pair.h' l='485' ll='488' macro='1' type='void std::pair::pair&lt;_T1, _T2&gt;(_U1 &amp;&amp; __x, std::pair::__zero_as_null_pointer_constant )'/>
+<def f='include/c++/12.2.0/bits/stl_pair.h' l='497' ll='500' macro='1' type='void std::pair::pair&lt;_T1, _T2&gt;(_U1 &amp;&amp; __x, std::pair::__zero_as_null_pointer_constant )'/>

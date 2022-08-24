@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='563' type='_FIter std::remove(_FIter , _FIter , const _Tp &amp; )'/>
+<def f='include/c++/12.2.0/bits/stl_algo.h' l='832' ll='845' type='_ForwardIterator std::remove(_ForwardIterator __first, _ForwardIterator __last, const _Tp &amp; __value)'/>

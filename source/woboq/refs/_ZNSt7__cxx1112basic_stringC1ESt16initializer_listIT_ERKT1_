@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/bits/basic_string.h' l='698' ll='700' type='void std::basic_string::basic_string&lt;_CharT, _Traits, _Alloc&gt;(initializer_list&lt;_CharT&gt; __l, const _Alloc &amp; __a = _Alloc())'/>

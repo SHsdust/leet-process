@@ -1,0 +1,4 @@
+<def f='include/c++/12.2.0/type_traits' l='1787' ll='1807'/>
+<ovr f='include/c++/12.2.0/type_traits' l='1811' c='std::__make_unsigned_selector'/>
+<use f='include/c++/12.2.0/type_traits' l='1812'/>
+<size>1</size>

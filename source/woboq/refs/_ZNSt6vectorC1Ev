@@ -1,0 +1,17 @@
+<def f='include/c++/12.2.0/bits/stl_vector.h' l='526' type='void std::vector::vector&lt;_Tp, _Alloc&gt;()'/>
+<use f='leetcode/126_word_ladder_ii.cpp' l='25' u='c' c='_ZN8Solution11findLaddersENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_RSt6vectorIS5_SaIS5_EE'/>
+<use f='leetcode/167_tow_sum.cpp' l='11' u='c' c='_ZN8Solution6twoSumERSt6vectorIiSaIiEEi'/>
+<use f='leetcode/167_tow_sum.cpp' l='34' u='c' c='main'/>
+<use f='leetcode/347_top_k_frequent_ele.cpp' l='18' u='c' c='_ZN8Solution12topKFrequentERSt6vectorIiSaIiEEi'/>
+<use f='leetcode/406_queue_reconstruct_by_height.cpp' l='11' u='c' c='_ZN8Solution16reconstructQueueERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
+<use f='leetcode/406_queue_reconstruct_by_height.cpp' l='12' u='c' c='_ZN8Solution16reconstructQueueERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
+<use f='leetcode/406_queue_reconstruct_by_height.cpp' l='61' u='c' c='main'/>
+<use f='leetcode/417_plastic_atlantic_water_flow.cpp' l='12' u='c' c='_ZN8Solution15pacificAtlanticERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
+<use f='leetcode/417_plastic_atlantic_water_flow.cpp' l='14' u='c' c='_ZN8Solution15pacificAtlanticERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
+<use f='leetcode/435_non_overlapping_intervals.cpp' l='25' u='c' c='main'/>
+<use f='leetcode/452_minimum_num_of_arrows.cpp' l='29' u='c' c='main'/>
+<use f='leetcode/46_Permutations.cpp' l='9' u='c' c='_ZN8Solution7permuteERSt6vectorIiSaIiEE'/>
+<use f='leetcode/51_n_queens.cpp' l='24' u='c' c='_ZN8Solution12solveNQueensB5cxx11Ei'/>
+<use f='leetcode/524_longest_word_in_dictionary.cpp' l='60' u='c' c='main'/>
+<use f='leetcode/763_partition_labels.cpp' l='32' u='c' c='_ZN8Solution15partitionLabelsENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE'/>
+<use f='leetcode/77_Combinations.cpp' l='9' u='c' c='_ZN8Solution7combineEii'/>

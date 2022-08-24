@@ -1,0 +1,11 @@
+<def f='include/c++/12.2.0/bits/stl_vector.h' l='549' ll='553' type='void std::vector::vector&lt;_Tp, _Alloc&gt;(std::vector::size_type __n, const std::vector::allocator_type &amp; __a = std::vector::allocator_type())'/>
+<doc f='include/c++/12.2.0/bits/stl_vector.h' l='541'>/**
+       *  @brief  Creates a %vector with default constructed elements.
+       *  @param  __n  The number of elements to initially create.
+       *  @param  __a  An allocator.
+       *
+       *  This constructor fills the %vector with @a __n default
+       *  constructed elements.
+       */</doc>
+<use f='leetcode/347_top_k_frequent_ele.cpp' l='14' u='c' c='_ZN8Solution12topKFrequentERSt6vectorIiSaIiEEi'/>
+<use f='leetcode/451_sort_characters_by_freq.cpp' l='17' u='c' c='_ZN8Solution13frequencySortENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE'/>

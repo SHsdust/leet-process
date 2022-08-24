@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='953'/>
+<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='952'>/* Define if fdopendir is available in &lt;dirent.h&gt;. */</doc>

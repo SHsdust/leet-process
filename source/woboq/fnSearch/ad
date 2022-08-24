@@ -1,0 +1,3 @@
+_ZSt9addressofRT_|std::addressof
+_ZSt13adjacent_findT_S_|std::adjacent_find
+_ZSt7advanceRT_T0_|std::advance

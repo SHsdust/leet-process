@@ -1,0 +1,8 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1778'/>
+<use f='include/c++/12.2.0/cstdint' l='46' u='a'/>
+<use f='include/c++/12.2.0/bits/char_traits.h' l='741' u='a'/>
+<use f='include/c++/12.2.0/bits/char_traits.h' l='862' u='a'/>
+<use f='include/c++/12.2.0/bits/algorithmfwd.h' l='624' u='a'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='3649' u='a'/>
+<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1776'>/* Define if C99 types in &lt;stdint.h&gt; should be imported in &lt;tr1/cstdint&gt; in
+   namespace std::tr1. */</doc>

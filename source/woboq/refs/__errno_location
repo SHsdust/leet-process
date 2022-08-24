@@ -1,0 +1,7 @@
+<dec f='include/errno.h' l='37' type='int * __errno_location()'/>
+<use f='include/c++/12.2.0/ext/string_conversions.h' l='63' macro='1' u='c' c='__gnu_cxx::__stoa(_TRet(*)(const_CharT*,_CharT**,_Base...),constchar*,const_CharT*,std::size_t*,_Base...)::_Save_errno::_Save_errno'/>
+<use f='include/c++/12.2.0/ext/string_conversions.h' l='63' macro='1' u='c' c='__gnu_cxx::__stoa(_TRet(*)(const_CharT*,_CharT**,_Base...),constchar*,const_CharT*,std::size_t*,_Base...)::_Save_errno::_Save_errno'/>
+<use f='include/c++/12.2.0/ext/string_conversions.h' l='64' macro='1' u='c' c='__gnu_cxx::__stoa(_TRet(*)(const_CharT*,_CharT**,_Base...),constchar*,const_CharT*,std::size_t*,_Base...)::_Save_errno::~_Save_errno'/>
+<use f='include/c++/12.2.0/ext/string_conversions.h' l='64' macro='1' u='c' c='__gnu_cxx::__stoa(_TRet(*)(const_CharT*,_CharT**,_Base...),constchar*,const_CharT*,std::size_t*,_Base...)::_Save_errno::~_Save_errno'/>
+<use f='include/c++/12.2.0/ext/string_conversions.h' l='84' macro='1' u='c' c='__gnu_cxx::__stoa'/>
+<doc f='include/errno.h' l='36'>/* The error code set by various library functions.  */</doc>

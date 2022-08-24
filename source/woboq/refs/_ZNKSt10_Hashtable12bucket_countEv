@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/bits/hashtable.h' l='671' ll='673' type='std::_Hashtable::size_type std::_Hashtable::bucket_count() const'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='724' u='c' c='_ZNKSt10_Hashtable11load_factorEv'/>
+<doc f='include/c++/12.2.0/bits/hashtable.h' l='668'>// hash_function, if present, comes from _Hash_code_base.
+
+      // Bucket operations</doc>

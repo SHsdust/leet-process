@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='668' type='_FIter std::unique(_FIter , _FIter )'/>
+<def f='include/c++/12.2.0/bits/stl_algo.h' l='935' ll='947' type='_ForwardIterator std::unique(_ForwardIterator __first, _ForwardIterator __last)'/>

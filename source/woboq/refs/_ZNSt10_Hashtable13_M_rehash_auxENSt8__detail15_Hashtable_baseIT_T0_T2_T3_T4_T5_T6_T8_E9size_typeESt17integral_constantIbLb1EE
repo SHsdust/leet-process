@@ -1,0 +1,4 @@
+<dec f='include/c++/12.2.0/bits/hashtable.h' l='1134' type='void std::_Hashtable::_M_rehash_aux(std::_Hashtable::size_type __bkt_count, std::true_type __uks)'/>
+<def f='include/c++/12.2.0/bits/hashtable.h' l='2553' ll='2592' type='void std::_Hashtable::_M_rehash_aux(std::_Hashtable::size_type __bkt_count, std::true_type )'/>
+<doc f='include/c++/12.2.0/bits/hashtable.h' l='1133'>// Helper rehash method used when keys are unique.</doc>
+<doc f='include/c++/12.2.0/bits/hashtable.h' l='2552'>// Rehash when there is no equivalent elements.</doc>

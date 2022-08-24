@@ -1,0 +1,6 @@
+<def f='include/c++/12.2.0/type_traits' l='522' ll='524'/>
+<use f='include/c++/12.2.0/type_traits' l='609'/>
+<use f='include/c++/12.2.0/type_traits' l='1773'/>
+<use f='include/c++/12.2.0/type_traits' l='1931'/>
+<use f='include/c++/12.2.0/type_traits' l='2363'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='78'/>

@@ -1,0 +1,6 @@
+<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='83' ll='89'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='131'/>
+<use f='include/c++/12.2.0/bits/unordered_set.h' l='48'/>
+<use f='include/c++/12.2.0/bits/unordered_set.h' l='63'/>
+<size>1</size>
+<fun r='_ZNKSt8__detail9_IdentityclEOT_'/>

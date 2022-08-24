@@ -1,0 +1,4 @@
+<def f='include/c++/12.2.0/bits/basic_string.h' l='3121' ll='3124' type='basic_string&lt;_CharT, _Traits, _Alloc&gt; std::basic_string::substr(std::basic_string::size_type __pos = 0, std::basic_string::size_type __n = npos) const'/>
+<use f='leetcode/680_valid_palindrome_ii.cpp' l='25' u='c' c='_ZN8Solution15validPalindromeENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE'/>
+<use f='leetcode/680_valid_palindrome_ii.cpp' l='25' u='c' c='_ZN8Solution15validPalindromeENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE'/>
+<use f='leetcode/76_minimum_windows_substring.cpp' l='38' u='c' c='_ZN8Solution9minWindowENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_'/>

@@ -1,0 +1,9 @@
+<dec f='include/bits/wctype-wchar.h' l='64' type='6'/>
+<use f='include/bits/wctype-wchar.h' l='77' u='r'/>
+<use f='include/bits/wctype-wchar.h' l='77' u='r'/>
+<use f='include/bits/wctype-wchar.h' l='77' u='r'/>
+<use f='include/bits/wctype-wchar.h' l='77' u='r'/>
+<use f='include/bits/wctype-wchar.h' l='77' u='r'/>
+<use f='include/bits/wctype-wchar.h' l='77' u='r'/>
+<use f='include/bits/wctype-wchar.h' l='77' u='r'/>
+<doc f='include/bits/wctype-wchar.h' l='64'>/* Printing.  */</doc>

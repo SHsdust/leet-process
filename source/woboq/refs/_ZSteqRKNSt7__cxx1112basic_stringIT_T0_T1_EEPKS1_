@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/bits/basic_string.h' l='3598' ll='3601' type='bool std::operator==(const basic_string&lt;_CharT, _Traits, _Alloc&gt; &amp; __lhs, const _CharT * __rhs)'/>

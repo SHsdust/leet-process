@@ -1,0 +1,6 @@
+<def f='include/c++/12.2.0/bits/stl_iterator.h' l='1316' ll='1325' type='decltype(__lhs.base() - __rhs.base()) __gnu_cxx::operator-(const __normal_iterator&lt;_IteratorL, _Container&gt; &amp; __lhs, const __normal_iterator&lt;_IteratorR, _Container&gt; &amp; __rhs)'/>
+<def f='include/c++/12.2.0/bits/stl_iterator.h' l='1329' ll='1333' type='typename __normal_iterator&lt;_Iterator, _Container&gt;::difference_type __gnu_cxx::operator-(const __normal_iterator&lt;_Iterator, _Container&gt; &amp; __lhs, const __normal_iterator&lt;_Iterator, _Container&gt; &amp; __rhs)'/>
+<use f='leetcode/167_tow_sum.cpp' l='15' u='c' c='_ZN8Solution6twoSumERSt6vectorIiSaIiEEi'/>
+<use f='leetcode/167_tow_sum.cpp' l='15' u='c' c='_ZN8Solution6twoSumERSt6vectorIiSaIiEEi'/>
+<use f='leetcode/167_tow_sum.cpp' l='19' u='c' c='_ZN8Solution6twoSumERSt6vectorIiSaIiEEi'/>
+<use f='leetcode/167_tow_sum.cpp' l='20' u='c' c='_ZN8Solution6twoSumERSt6vectorIiSaIiEEi'/>

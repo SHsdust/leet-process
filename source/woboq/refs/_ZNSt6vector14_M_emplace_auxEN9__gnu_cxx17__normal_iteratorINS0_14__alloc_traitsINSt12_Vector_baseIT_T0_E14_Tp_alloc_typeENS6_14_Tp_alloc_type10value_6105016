@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/stl_vector.h' l='1879' type='std::vector::iterator std::vector::_M_emplace_aux(std::vector::const_iterator __position, _Args &amp;&amp;... __args)'/>
+<def f='include/c++/12.2.0/bits/vector.tcc' l='371' ll='401' type='std::vector::iterator std::vector::_M_emplace_aux(std::vector::const_iterator __position, _Args &amp;&amp;... __args)'/>

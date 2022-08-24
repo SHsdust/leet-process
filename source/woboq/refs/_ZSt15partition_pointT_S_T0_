@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='525' type='_FIter std::partition_point(_FIter , _FIter , _Predicate )'/>
+<def f='include/c++/12.2.0/bits/stl_algo.h' l='554' ll='586' type='_ForwardIterator std::partition_point(_ForwardIterator __first, _ForwardIterator __last, _Predicate __pred)'/>

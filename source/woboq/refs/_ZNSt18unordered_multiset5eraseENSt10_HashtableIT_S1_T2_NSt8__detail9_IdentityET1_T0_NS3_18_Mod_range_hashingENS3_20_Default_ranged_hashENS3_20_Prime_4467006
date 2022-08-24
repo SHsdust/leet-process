@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/unordered_set.h' l='1371' ll='1373' type='std::unordered_multiset::iterator std::unordered_multiset::erase(std::unordered_multiset::iterator __position)'/>
+<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1370'>// LWG 2059.</doc>

@@ -1,0 +1,2 @@
+<dec f='include/errno.h' l='23'/>
+<use f='include/bits/errno.h' l='22' u='a'/>

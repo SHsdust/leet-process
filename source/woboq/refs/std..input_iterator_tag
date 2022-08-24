@@ -1,0 +1,46 @@
+<def f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='93'/>
+<ovr f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='99' c='std::forward_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='99'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_funcs.h' l='82' c='_ZSt10__distanceT_S_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_funcs.h' l='114' c='_ZSt10__distanceSt14_List_iteratorIT_ES1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_funcs.h' l='120' c='_ZSt10__distanceSt20_List_const_iteratorIT_ES1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_funcs.h' l='156' c='_ZSt9__advanceRT_T0_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1079' c='_ZSt10__fill_n_aRKN11__gnu_debug14_Safe_iteratorIT_T0_T1_EET2_RKT3_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1097' c='_ZSt10__fill_n_aT_T0_RKT1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='2048' c='_ZSt9__find_ifT_S_T0_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='323' c='_ZNSt7__cxx1112basic_string12_M_constructETL0__S1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='168' c='_ZNSt7__cxx1112basic_string12_M_constructETL0__S1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/streambuf_iterator.h' l='54'/>
+<use f='include/c++/12.2.0/bits/stl_uninitialized.h' l='865' c='_ZSt22__uninitialized_copy_nT_T0_T1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_uninitialized.h' l='893' c='_ZSt27__uninitialized_copy_n_pairT_T0_T1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1663' c='_ZNSt6vector19_M_range_initializeETL0__S0_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1744' c='_ZNSt6vector13_M_assign_auxETL0__S0_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1788' c='_ZNSt6vector15_M_range_insertEN9__gnu_cxx17__normal_iteratorINSt12_Vector_baseIT_T0_E7pointerESt6vectorIS3_S4_EEETL0__SB_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1351' c='_ZNSt6vectorIbT_E19_M_initialize_rangeETL0__S2_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1403' c='_ZNSt6vectorIbT_E13_M_assign_auxETL0__S2_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1458' c='_ZNSt6vectorIbT_E15_M_insert_rangeESt13_Bit_iteratorTL0__S3_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='292' c='_ZNSt6vector13_M_assign_auxETL0__S0_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='719' c='_ZNSt6vector15_M_range_insertEN9__gnu_cxx17__normal_iteratorINSt12_Vector_baseIT_T0_E7pointerESt6vectorIS3_S4_EEETL0__SB_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='715' c='_ZSt8__copy_nT_T0_T1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='1024' c='_ZSt13__unique_copyT_S_T0_T1_St18input_iterator_tagSt19output_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='1057' c='_ZSt13__unique_copyT_S_T0_T1_St18input_iterator_tagSt20forward_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5769' c='_ZSt8__sampleT_S_St18input_iterator_tagT0_St26random_access_iterator_tagT1_OT2_'/>
+<size>1</size>
+<doc f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='84'>/**
+   *  @defgroup iterator_tags Iterator Tags
+   *  These are empty types, used to distinguish different iterators.  The
+   *  distinction is not made by what they contain, but simply by what they
+   *  are.  Different underlying algorithms can then be used based on the
+   *  different operations supported by different iterator types.
+  */
+  ///@{
+  ///  Marking input iterators.</doc>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='68' c='_ZNSt8__detail13__distance_fwET_S0_St18input_iterator_tag'/>
+<size>1</size>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='1898' c='_ZNSt5deque19_M_range_initializeETL0__S0_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='1951' c='_ZNSt5deque13_M_assign_auxETL0__S0_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='2038' c='_ZNSt5deque19_M_range_insert_auxENSt11_Deque_baseIT_T0_E8iteratorETL0__S5_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/deque.tcc' l='293' c='_ZNSt5deque13_M_assign_auxETL0__S0_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/deque.tcc' l='421' c='_ZNSt5deque19_M_range_initializeETL0__S0_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/deque.tcc' l='592' c='_ZNSt5deque19_M_range_insert_auxENSt11_Deque_baseIT_T0_E8iteratorETL0__S5_St18input_iterator_tag'/>
+<size>1</size>

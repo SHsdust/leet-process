@@ -1,0 +1,29 @@
+<use f='include/c++/12.2.0/type_traits' l='178'/>
+<use f='include/c++/12.2.0/type_traits' l='541'/>
+<use f='include/c++/12.2.0/type_traits' l='923' c='_ZNSt28__do_is_nt_destructible_impl6__testEi'/>
+<use f='include/c++/12.2.0/type_traits' l='971'/>
+<use f='include/c++/12.2.0/type_traits' l='1042'/>
+<use f='include/c++/12.2.0/type_traits' l='1057'/>
+<use f='include/c++/12.2.0/type_traits' l='1112'/>
+<use f='include/c++/12.2.0/type_traits' l='1127'/>
+<use f='include/c++/12.2.0/type_traits' l='1148'/>
+<use f='include/c++/12.2.0/type_traits' l='1162'/>
+<use f='include/c++/12.2.0/type_traits' l='1218'/>
+<use f='include/c++/12.2.0/type_traits' l='1227'/>
+<use f='include/c++/12.2.0/type_traits' l='1312'/>
+<use f='include/c++/12.2.0/type_traits' l='1327'/>
+<use f='include/c++/12.2.0/type_traits' l='1348'/>
+<use f='include/c++/12.2.0/type_traits' l='1364'/>
+<use f='include/c++/12.2.0/type_traits' l='1508' c='_ZNSt26__is_nt_convertible_helperIT_T0_Lb0EE6__testEi'/>
+<use f='include/c++/12.2.0/type_traits' l='2735' c='_ZNSt19__swappable_details30__do_is_nothrow_swappable_impl6__testEi'/>
+<use f='include/c++/12.2.0/type_traits' l='2823' c='_ZNSt24__swappable_with_details35__do_is_nothrow_swappable_with_impl6__testEi'/>
+<use f='include/c++/12.2.0/type_traits' l='2990'/>
+<use f='include/c++/12.2.0/bits/nested_exception.h' l='125' c='_ZSt17throw_with_nestedOT_'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='506' c='_ZNSt6vector11_S_relocateENSt12_Vector_baseIT_T0_E7pointerES4_S4_RNS3_14_Tp_alloc_typeE'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='766' c='_ZNSt6vectoraSEOSt6vectorIT_T0_E'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='246'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='247'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='248'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='499' c='_ZNSt10_Hashtable15_S_nothrow_moveEv'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='593' c='_ZNSt10_HashtableaSEOSt10_HashtableIT_T0_T1_T2_T3_T4_T5_T6_T7_T8_E'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='2209' c='_ZNSt5deque15_M_move_assign1EOSt5dequeIT_T0_ESt17integral_constantIbLb0EE'/>

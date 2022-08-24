@@ -1,0 +1,5 @@
+<dec f='include/features.h' l='482'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='47' u='c'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='79' u='c'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='104' u='c'/>
+<use f='include/c++/12.2.0/cwctype' l='45' u='c'/>

@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/hashtable.h' l='476' type='void std::_Hashtable::_M_assign(_Ht &amp;&amp; , const _NodeGenerator &amp; )'/>
+<def f='include/c++/12.2.0/bits/hashtable.h' l='1326' ll='1373' type='void std::_Hashtable::_M_assign(_Ht &amp;&amp; __ht, const _NodeGenerator &amp; __node_gen)'/>

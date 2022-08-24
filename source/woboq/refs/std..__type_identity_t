@@ -1,0 +1,6 @@
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='619' c='_ZNSt6vectorC1ERKSt6vectorIT_T0_ERKNSt15__type_identityIS2_E4typeE'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='654' c='_ZNSt6vectorC1EOSt6vectorIT_T0_ERKNSt15__type_identityIS2_E4typeE'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='791' c='_ZNSt6vectorIbT_EC1EOS_IbS0_ERKNSt15__type_identityIS0_E4typeE'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='798' c='_ZNSt6vectorIbT_EC1ERKS_IbS0_ERKNSt15__type_identityIS0_E4typeE'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='936' c='_ZNSt5dequeC1ERKSt5dequeIT_T0_ERKNSt15__type_identityIS2_E4typeE'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='943' c='_ZNSt5dequeC1EOSt5dequeIT_T0_ERKNSt15__type_identityIS2_E4typeE'/>

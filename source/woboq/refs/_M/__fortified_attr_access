@@ -1,0 +1,6 @@
+<dec f='include/sys/cdefs.h' l='681'/>
+<use f='include/stdlib.h' l='961' u='c'/>
+<use f='include/stdlib.h' l='1016' u='c'/>
+<use f='include/stdio.h' l='593' u='c'/>
+<use f='include/stdio.h' l='617' u='c'/>
+<use f='include/string.h' l='467' u='c'/>

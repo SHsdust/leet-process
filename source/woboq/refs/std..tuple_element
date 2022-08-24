@@ -1,0 +1,15 @@
+<use f='include/c++/12.2.0/bits/utility.h' l='84'/>
+<def f='include/c++/12.2.0/bits/utility.h' l='86' ll='90'/>
+<def f='include/c++/12.2.0/bits/utility.h' l='92' ll='96'/>
+<def f='include/c++/12.2.0/bits/utility.h' l='98' ll='102'/>
+<use f='include/c++/12.2.0/bits/utility.h' l='135'/>
+<def f='include/c++/12.2.0/bits/stl_pair.h' l='770' ll='772'/>
+<def f='include/c++/12.2.0/bits/stl_pair.h' l='775' ll='777'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='854' c='_ZSt3getRSt4pairIT0_T1_E'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='859' c='_ZSt3getOSt4pairIT0_T1_E'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='864' c='_ZSt3getRKSt4pairIT0_T1_E'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='869' c='_ZSt3getOKSt4pairIT0_T1_E'/>
+<doc f='include/c++/12.2.0/bits/stl_pair.h' l='769'>/// Partial specialization for std::pair</doc>
+<doc f='include/c++/12.2.0/bits/stl_pair.h' l='774'>/// Partial specialization for std::pair</doc>
+<def f='include/c++/12.2.0/tuple' l='1354' ll='1360'/>
+<doc f='include/c++/12.2.0/tuple' l='1353'>/// Trait to get the Ith element type from a tuple.</doc>

@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/bits/basic_string.h' l='2031' ll='2040' type='basic_string&lt;_CharT, _Traits, _Alloc&gt; &amp; std::basic_string::erase(std::basic_string::size_type __pos = 0, std::basic_string::size_type __n = npos)'/>

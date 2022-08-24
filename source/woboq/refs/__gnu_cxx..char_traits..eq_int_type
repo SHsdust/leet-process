@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/char_traits.h' l='154' ll='156' type='static bool __gnu_cxx::char_traits::eq_int_type(const __gnu_cxx::char_traits::int_type &amp; __c1, const __gnu_cxx::char_traits::int_type &amp; __c2)'/>
+<use f='include/c++/12.2.0/bits/char_traits.h' l='164' u='c' c='__gnu_cxx::char_traits::not_eof'/>

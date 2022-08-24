@@ -1,0 +1,6 @@
+<def f='include/c++/12.2.0/bits/basic_string.h' l='1182' ll='1184' type='bool std::basic_string::empty() const'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1280' u='c' c='_ZNSt7__cxx1112basic_string5frontEv'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1292' u='c' c='_ZNKSt7__cxx1112basic_string5frontEv'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1304' u='c' c='_ZNSt7__cxx1112basic_string4backEv'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1316' u='c' c='_ZNKSt7__cxx1112basic_string4backEv'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='2094' u='c' c='_ZNSt7__cxx1112basic_string8pop_backEv'/>

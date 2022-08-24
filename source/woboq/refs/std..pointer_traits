@@ -1,0 +1,16 @@
+<def f='include/c++/12.2.0/bits/ptr_traits.h' l='194' ll='195'/>
+<def f='include/c++/12.2.0/bits/ptr_traits.h' l='209' ll='220'/>
+<use f='include/c++/12.2.0/bits/ptr_traits.h' l='224'/>
+<use f='include/c++/12.2.0/bits/ptr_traits.h' l='236' c='_ZSt12__to_addressRKT_'/>
+<use f='include/c++/12.2.0/bits/alloc_traits.h' l='109'/>
+<use f='include/c++/12.2.0/bits/alloc_traits.h' l='121'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='241' c='_ZNSt7__cxx1112basic_string13_M_local_dataEv'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='252' c='_ZNKSt7__cxx1112basic_string13_M_local_dataEv'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1991' c='_ZNKSt6vector11_M_data_ptrETL0__'/>
+<doc f='include/c++/12.2.0/bits/ptr_traits.h' l='204'>/**
+   * @brief  Partial specialization for built-in pointers.
+   * @ingroup pointer_abstractions
+   * @since C++11
+  */</doc>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1993' c='_ZNSt8__detail16_Hashtable_alloc22_M_deallocate_node_ptrEPNT_10value_typeE'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='2030' c='_ZNSt8__detail16_Hashtable_alloc21_M_deallocate_bucketsEPPNS_15_Hash_node_baseEm'/>

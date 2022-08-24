@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/streambuf_iterator.h' l='164' ll='175' type='istreambuf_iterator&lt;_CharT, _Traits&gt; &amp; std::istreambuf_iterator::operator++()'/>
+<doc f='include/c++/12.2.0/bits/streambuf_iterator.h' l='163'>/// Advance the iterator.  Calls streambuf.sbumpc().</doc>

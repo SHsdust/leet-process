@@ -1,0 +1,6 @@
+<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='466' ll='469'/>
+<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='472' ll='475'/>
+<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='477' ll='480'/>
+<def f='include/c++/12.2.0/bits/cpp_type_traits.h' l='482' ll='485'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1209' c='_ZSt12__equal_aux1T_S_T0_'/>
+<doc f='include/c++/12.2.0/bits/cpp_type_traits.h' l='471'>// OK to use memcmp with pointers to trivially copyable types.</doc>

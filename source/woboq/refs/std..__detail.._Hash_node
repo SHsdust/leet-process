@@ -1,0 +1,12 @@
+<inh f='include/c++/12.2.0/bits/hashtable_policy.h' l='273' c='std::__detail::_Hash_node_base'/>
+<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='335' ll='342'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='348'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='852'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1365' c='_ZNSt8__detail20_Local_iterator_baseIT_T0_T1_T2_T3_T4_Lb1EEC1ERKNS_15_Hash_code_baseIS1_S2_S3_S4_S5_S6_Lb1EEEPNS_10_Hash_nodeIS2_Lb1EEEmm'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1445' c='_ZNSt8__detail20_Local_iterator_baseIT_T0_T1_T2_T3_T4_Lb0EEC1ERKNS_15_Hash_code_baseIS1_S2_S3_S4_S5_S6_Lb0EEEPNS_10_Hash_nodeIS2_Lb0EEEmm'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1530' c='_ZNSt8__detail15_Local_iteratorC1ERKNS_20_Local_iterator_baseIT_T0_T1_T2_T3_T4_XT6_EE16__hash_code_baseEPNS_10_Hash_nodeIS3_XT6_EEEmm'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1582' c='_ZNSt8__detail21_Local_const_iteratorC1ERKNS_20_Local_iterator_baseIT_T0_T1_T2_T3_T4_XT6_EE16__hash_code_baseEPNS_10_Hash_nodeIS3_XT6_EEEmm'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1893'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='199'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='213'/>
+<fun r='_ZNKSt8__detail10_Hash_node7_M_nextEv'/>

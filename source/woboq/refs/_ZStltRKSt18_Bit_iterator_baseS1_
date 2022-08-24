@@ -1,0 +1,4 @@
+<def f='include/c++/12.2.0/bits/stl_bvector.h' l='226' ll='231' type='bool std::operator&lt;(const std::_Bit_iterator_base &amp; __x, const std::_Bit_iterator_base &amp; __y)'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='241' u='c' c='_ZStgtRKSt18_Bit_iterator_baseS1_'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='246' u='c' c='_ZStleRKSt18_Bit_iterator_baseS1_'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='251' u='c' c='_ZStgeRKSt18_Bit_iterator_baseS1_'/>

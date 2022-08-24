@@ -1,0 +1,4 @@
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='804' u='c' c='_ZNSt6vector6assignEmRKT_'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1729' u='c' c='_ZNSt6vector18_M_assign_dispatchETL0__S0_St11__true_type'/>
+<dec f='include/c++/12.2.0/bits/stl_vector.h' l='1757' type='void std::vector::_M_fill_assign(std::vector::size_type __n, const std::vector::value_type &amp; __val)'/>
+<def f='include/c++/12.2.0/bits/vector.tcc' l='261' ll='284' type='void std::vector::_M_fill_assign(std::size_t __n, const std::vector::value_type &amp; __val)'/>

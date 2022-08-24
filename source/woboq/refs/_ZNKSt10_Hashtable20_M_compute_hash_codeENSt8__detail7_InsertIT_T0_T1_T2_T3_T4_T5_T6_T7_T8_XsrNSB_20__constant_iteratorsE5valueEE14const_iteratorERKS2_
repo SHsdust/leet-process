@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/hashtable.h' l='847' type='pair&lt;std::_Hashtable::const_iterator, std::_Hashtable::__hash_code&gt; std::_Hashtable::_M_compute_hash_code(std::_Hashtable::const_iterator __hint, const std::_Hashtable::key_type &amp; __k) const'/>
+<def f='include/c++/12.2.0/bits/hashtable.h' l='2110' ll='2135' type='pair&lt;std::_Hashtable::const_iterator, std::_Hashtable::__hash_code&gt; std::_Hashtable::_M_compute_hash_code(std::_Hashtable::const_iterator __hint, const std::_Hashtable::key_type &amp; __k) const'/>

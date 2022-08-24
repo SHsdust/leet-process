@@ -1,0 +1,20 @@
+<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='288' ll='289'/>
+<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='291' ll='293'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='292'/>
+<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
+<def f='include/c++/12.2.0/bits/basic_string.h' l='4243' ll='4245'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4244'/>
+<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
+<def f='include/c++/12.2.0/bits/basic_string.h' l='4258' ll='4260'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4259'/>
+<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
+<def f='include/c++/12.2.0/bits/basic_string.h' l='4291' ll='4293'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4292'/>
+<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
+<def f='include/c++/12.2.0/bits/basic_string.h' l='4306' ll='4308'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4307'/>
+<size>1</size>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='262' c='_ZNSt8__detail22_Hashtable_hash_traits22__small_size_thresholdEv'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='51'/>

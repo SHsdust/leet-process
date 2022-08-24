@@ -1,0 +1,18 @@
+<def f='include/c++/12.2.0/type_traits' l='2300' ll='2302'/>
+<use f='include/c++/12.2.0/type_traits' l='2301'/>
+<def f='include/c++/12.2.0/type_traits' l='2305' ll='2308'/>
+<use f='include/c++/12.2.0/type_traits' l='2307'/>
+<use f='include/c++/12.2.0/type_traits' l='2317'/>
+<def f='include/c++/12.2.0/type_traits' l='2330' ll='2333'/>
+<def f='include/c++/12.2.0/type_traits' l='2343' ll='2347'/>
+<use f='include/c++/12.2.0/type_traits' l='2345'/>
+<use f='include/c++/12.2.0/type_traits' l='2355'/>
+<use f='include/c++/12.2.0/type_traits' l='2622'/>
+<use f='include/c++/12.2.0/bits/uniform_int_dist.h' l='282' c='_ZNSt24uniform_int_distributionclERTL0__RKNS_10param_typeE'/>
+<use f='include/c++/12.2.0/bits/uniform_int_dist.h' l='377' c='_ZNSt24uniform_int_distribution15__generate_implETL0__S0_RTL0_0_RKNS_10param_typeE'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='3716' c='_ZSt7shuffleT_S_OT0_'/>
+<size>1</size>
+<doc f='include/c++/12.2.0/type_traits' l='2299'>// If sizeof...(T) is zero, there shall be no member type.</doc>
+<doc f='include/c++/12.2.0/type_traits' l='2304'>// If sizeof...(T) is one, the same type, if any, as common_type_t&lt;T0, T0&gt;.</doc>
+<doc f='include/c++/12.2.0/type_traits' l='2329'>// If sizeof...(T) is two, ...</doc>
+<doc f='include/c++/12.2.0/type_traits' l='2342'>// If sizeof...(T) is greater than two, ...</doc>

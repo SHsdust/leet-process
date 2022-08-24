@@ -1,0 +1,4 @@
+<dec f='include/c++/12.2.0/bits/hashtable_policy.h' l='1946' type='void std::__detail::_Hashtable_alloc::_M_deallocate_nodes(std::__detail::_Hashtable_alloc::__node_ptr __n)'/>
+<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='1998' ll='2008' type='void std::__detail::_Hashtable_alloc::_M_deallocate_nodes(std::__detail::_Hashtable_alloc::__node_ptr __n)'/>
+<doc f='include/c++/12.2.0/bits/hashtable_policy.h' l='1943'>// Deallocate the linked list of nodes pointed to by __n.
+      // The elements within the nodes are destroyed.</doc>

@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/bits/stl_algo.h' l='1882' ll='1890' type='_RandomAccessIterator std::__unguarded_partition_pivot(_RandomAccessIterator __first, _RandomAccessIterator __last, _Compare __comp)'/>

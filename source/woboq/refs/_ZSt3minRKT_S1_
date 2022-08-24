@@ -1,0 +1,11 @@
+<def f='include/c++/12.2.0/bits/stl_algobase.h' l='228' ll='238' macro='1' type='const _Tp &amp; std::min(const _Tp &amp; __a, const _Tp &amp; __b)'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1354' u='c' c='_ZNSt25__lexicographical_compareILb1EE6__3wayEPKT_S3_PKT0_S6_'/>
+<use f='include/c++/12.2.0/bits/streambuf.tcc' l='55' u='c' c='_ZNSt15basic_streambuf6xsgetnEPT_l'/>
+<use f='include/c++/12.2.0/bits/streambuf.tcc' l='89' u='c' c='_ZNSt15basic_streambuf6xsputnEPKT_l'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='728' u='c' c='_ZNSt13basic_istream8readsomeEPT_l'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1919' u='c' c='_ZNSt6vector11_S_max_sizeERKNSt12_Vector_baseIT_T0_E14_Tp_alloc_typeE'/>
+<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='420' type='const _Tp &amp; std::min(const _Tp &amp; , const _Tp &amp; )'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='600' u='c' c='_ZNSt8__detail21_Power2_rehash_policy11_M_next_bktEm'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='1880' u='c' c='_ZNSt5deque11_S_max_sizeERKNSt11_Deque_baseIT_T0_E14_Tp_alloc_typeE'/>
+<use f='include/c++/12.2.0/bits/deque.tcc' l='1291' u='c' c='_ZSt13__lex_cmp_ditSt15_Deque_iteratorIT_T0_T1_ES3_PKT2_S6_'/>
+<use f='include/c++/12.2.0/bits/deque.tcc' l='1354' u='c' c='_ZSt30__lexicographical_compare_aux1St15_Deque_iteratorIT_T0_T1_ES3_S_IT2_T3_T4_ES7_'/>

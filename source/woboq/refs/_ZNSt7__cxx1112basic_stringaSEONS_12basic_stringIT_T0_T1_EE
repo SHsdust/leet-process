@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/basic_string.h' l='843' ll='905' type='basic_string&lt;_CharT, _Traits, _Alloc&gt; &amp; std::basic_string::operator=(basic_string&lt;_CharT, _Traits, _Alloc&gt; &amp;&amp; __str)'/>
+<use f='leetcode/524_longest_word_in_dictionary.cpp' l='47' u='c' c='_ZN8Solution15findLongestWordENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERSt6vectorIS5_SaIS5_EE'/>

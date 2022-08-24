@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/bits/stl_bvector.h' l='1010' ll='1020' type='std::vector&lt;bool, type-parameter-0-0&gt;::size_type std::vector&lt;bool, type-parameter-0-0&gt;::max_size() const'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1076' u='c' c='_ZNSt6vectorIbT_E7reserveEm'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1481' u='c' c='_ZNKSt6vectorIbT_E12_M_check_lenEmPKc'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1485' u='c' c='_ZNKSt6vectorIbT_E12_M_check_lenEmPKc'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1485' u='c' c='_ZNKSt6vectorIbT_E12_M_check_lenEmPKc'/>

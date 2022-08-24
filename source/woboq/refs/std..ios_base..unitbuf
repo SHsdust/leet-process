@@ -1,0 +1,5 @@
+<dec f='include/c++/12.2.0/bits/ios_base.h' l='390' type='const std::ios_base::fmtflags'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1015' u='r' c='_ZSt7unitbufRSt8ios_base'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1023' u='r' c='_ZSt9nounitbufRSt8ios_base'/>
+<use f='include/c++/12.2.0/ostream' l='466' c='_ZNSt13basic_ostream6sentryD1Ev'/>
+<doc f='include/c++/12.2.0/bits/ios_base.h' l='389'>/// Flushes output after each output operation.</doc>

@@ -1,0 +1,11 @@
+_ZNSt9basic_ios5clearESt12_Ios_Iostate|std::basic_ios::clear
+_ZNSt7__cxx1112basic_string5clearEv|std::basic_string::clear
+_ZNSt10error_code5clearEv|std::error_code::clear
+_ZNSt15error_condition5clearEv|std::error_condition::clear
+_ZNSt6vector5clearEv|std::vector::clear
+_ZNSt10_Hashtable5clearEv|std::_Hashtable::clear
+_ZNSt13unordered_map5clearEv|std::unordered_map::clear
+_ZNSt18unordered_multimap5clearEv|std::unordered_multimap::clear
+_ZNSt18unordered_multiset5clearEv|std::unordered_multiset::clear
+_ZNSt13unordered_set5clearEv|std::unordered_set::clear
+_ZNSt5deque5clearEv|std::deque::clear

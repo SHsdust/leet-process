@@ -1,0 +1,56 @@
+<def f='include/c++/12.2.0/bits/stl_iterator.h' l='1445' ll='1651'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1505' c='_ZNSt13move_iteratorC1ERKSt13move_iteratorITL0__E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1514' c='_ZNSt13move_iteratoraSERKSt13move_iteratorITL0__E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1656' c='_ZSteqRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1657' c='_ZSteqRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1675' c='_ZStneRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1676' c='_ZStneRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1683' c='_ZStltRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1684' c='_ZStltRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1693' c='_ZStleRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1694' c='_ZStleRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1703' c='_ZStgtRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1704' c='_ZStgtRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1713' c='_ZStgeRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1714' c='_ZStgeRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1726' c='_ZSteqRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1727' c='_ZSteqRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1741' c='_ZStneRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1742' c='_ZStneRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1748' c='_ZStltRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1749' c='_ZStltRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1755' c='_ZStleRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1756' c='_ZStleRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1762' c='_ZStgtRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1763' c='_ZStgtRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1769' c='_ZStgeRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1770' c='_ZStgeRKSt13move_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1778' c='_ZStmiRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1779' c='_ZStmiRKSt13move_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1785' c='_ZStplNSt13move_iteratorIT_E15difference_typeERKS1_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1786' c='_ZStplNSt13move_iteratorIT_E15difference_typeERKS1_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1787' c='_ZStplNSt13move_iteratorIT_E15difference_typeERKS1_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1792' c='_ZSt18make_move_iteratorT_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1794' c='_ZSt18make_move_iteratorT_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1799'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1808'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='2555' c='_ZSt12__niter_baseSt13move_iteratorIT_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='2560'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='2569' c='_ZSt12__miter_baseSt13move_iteratorIT_E'/>
+<mbr r='std::move_iterator::_M_current' t='_Iterator'/>
+<fun r='_ZNSt13move_iteratorC1Ev'/>
+<fun r='_ZNSt13move_iteratorC1ET_'/>
+<fun r='_ZNSt13move_iteratorC1ERKSt13move_iteratorITL0__E'/>
+<fun r='_ZNSt13move_iteratoraSERKSt13move_iteratorITL0__E'/>
+<fun r='_ZNKSt13move_iterator4baseEv'/>
+<fun r='_ZNKSt13move_iteratordeEv'/>
+<fun r='_ZNKSt13move_iteratorptEv'/>
+<fun r='_ZNSt13move_iteratorppEv'/>
+<fun r='_ZNSt13move_iteratorppEi'/>
+<fun r='_ZNSt13move_iteratormmEv'/>
+<fun r='_ZNSt13move_iteratormmEi'/>
+<fun r='_ZNKSt13move_iteratorplENSt15iterator_traitsIT_E15difference_typeE'/>
+<fun r='_ZNSt13move_iteratorpLENSt15iterator_traitsIT_E15difference_typeE'/>
+<fun r='_ZNKSt13move_iteratormiENSt15iterator_traitsIT_E15difference_typeE'/>
+<fun r='_ZNSt13move_iteratormIENSt15iterator_traitsIT_E15difference_typeE'/>
+<fun r='_ZNKSt13move_iteratorixENSt15iterator_traitsIT_E15difference_typeE'/>

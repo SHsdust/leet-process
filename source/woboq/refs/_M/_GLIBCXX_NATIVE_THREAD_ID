@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/os_defines.h' l='54'/>
+<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/os_defines.h' l='53'>// Since glibc 2.27 pthread_self() is usable without linking to libpthread.</doc>

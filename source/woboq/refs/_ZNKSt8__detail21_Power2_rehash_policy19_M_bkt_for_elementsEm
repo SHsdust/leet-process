@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='625' ll='627' type='std::size_t std::__detail::_Power2_rehash_policy::_M_bkt_for_elements(std::size_t __n) const'/>
+<doc f='include/c++/12.2.0/bits/hashtable_policy.h' l='624'>// Return a bucket count appropriate for n elements</doc>

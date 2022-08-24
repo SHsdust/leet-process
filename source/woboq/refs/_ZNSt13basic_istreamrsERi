@@ -1,0 +1,4 @@
+<dec f='include/c++/12.2.0/istream' l='179' type='std::basic_istream::__istream_type &amp; std::basic_istream::operator&gt;&gt;(int &amp; __n)'/>
+<def f='include/c++/12.2.0/bits/istream.tcc' l='166' ll='209' type='basic_istream&lt;_CharT, _Traits&gt; &amp; std::basic_istream::operator&gt;&gt;(int &amp; __n)'/>
+<use f='leetcode/633_sum_of_square_nums.cpp' l='22' u='c' c='main'/>
+<use f='leetcode/69_sqrt.cpp' l='55' u='c' c='main'/>

@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/stl_vector.h' l='746' type='vector&lt;_Tp, _Alloc&gt; &amp; std::vector::operator=(const vector&lt;_Tp, _Alloc&gt; &amp; __x)'/>
+<def f='include/c++/12.2.0/bits/vector.tcc' l='201' ll='259' type='vector&lt;_Tp, _Alloc&gt; &amp; std::vector::operator=(const vector&lt;_Tp, _Alloc&gt; &amp; __x)'/>

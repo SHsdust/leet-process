@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1248'/>
+<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1247'>/* Define if strxfrm_l is available in &lt;string.h&gt;. */</doc>

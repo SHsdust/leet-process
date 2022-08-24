@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/ios_base.h' l='1020' ll='1025' type='std::ios_base &amp; std::nounitbuf(std::ios_base &amp; __base)'/>
+<doc f='include/c++/12.2.0/bits/ios_base.h' l='1019'>/// Calls base.unsetf(ios_base::unitbuf).</doc>

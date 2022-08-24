@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='868' ll='873' type='int __gthread_cond_timedwait(__gthread_cond_t * __cond, __gthread_mutex_t * __mutex, const __gthread_time_t * __abs_timeout)'/>

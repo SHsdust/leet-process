@@ -1,0 +1,4 @@
+<def f='include/c++/12.2.0/type_traits' l='2696' ll='2698'/>
+<use f='include/c++/12.2.0/type_traits' l='2704' c='_ZSt4swapRT_S0_'/>
+<use f='include/c++/12.2.0/bits/move.h' l='190' c='_ZSt4swapRT_S0_'/>
+<use f='include/c++/12.2.0/tuple' l='1728'/>

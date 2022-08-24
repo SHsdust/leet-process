@@ -1,0 +1,5 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/ctype_base.h' l='54' type='const std::ctype_base::mask'/>
+<use f='include/c++/12.2.0/bits/locale_facets.h' l='2602' c='_ZSt7isspaceT_RKSt6locale'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='64' c='_ZNSt13basic_istream6sentryC1ERSt13basic_istreamIT_T0_Eb'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='1021' c='_ZSt17__istream_extractRSt13basic_istreamIT_T0_EPS0_l'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='1082' c='_ZSt2wsRSt13basic_istreamIT_T0_E'/>

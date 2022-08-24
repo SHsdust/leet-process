@@ -1,0 +1,7 @@
+<def f='include/c++/12.2.0/type_traits' l='2459' ll='2468'/>
+<ovr f='include/c++/12.2.0/type_traits' l='2471' c='std::__result_of_memobj_ref'/>
+<use f='include/c++/12.2.0/type_traits' l='2472'/>
+<size>1</size>
+<doc f='include/c++/12.2.0/type_traits' l='2458'>// [func.require] paragraph 1 bullet 3:</doc>
+<fun r='_ZNSt27__result_of_memobj_ref_impl7_S_testEi'/>
+<fun r='_ZNSt27__result_of_memobj_ref_impl7_S_testEz'/>

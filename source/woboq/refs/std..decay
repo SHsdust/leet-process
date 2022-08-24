@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/type_traits' l='2194' ll='2200'/>
+<use f='include/c++/12.2.0/type_traits' l='2219'/>
+<use f='include/c++/12.2.0/type_traits' l='2610'/>
+<use f='include/c++/12.2.0/bits/exception_ptr.h' l='243' c='_ZSt18make_exception_ptrT_'/>
+<use f='include/c++/12.2.0/bits/nested_exception.h' l='120' c='_ZSt17throw_with_nestedOT_'/>

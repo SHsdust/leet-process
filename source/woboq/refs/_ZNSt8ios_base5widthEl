@@ -1,0 +1,10 @@
+<def f='include/c++/12.2.0/bits/ios_base.h' l='759' ll='765' type='std::streamsize std::ios_base::width(std::streamsize __wide)'/>
+<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='947' u='c' c='_ZNKSt7num_put13_M_insert_intET0_RSt8ios_baseT_TL0__'/>
+<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='1114' u='c' c='_ZNKSt7num_put15_M_insert_floatET0_RSt8ios_baseT_cTL0__'/>
+<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='1153' u='c' c='_ZNKSt7num_put6do_putET0_RSt8ios_baseT_b'/>
+<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='1167' u='c' c='_ZNKSt7num_put6do_putET0_RSt8ios_baseT_b'/>
+<doc f='include/c++/12.2.0/bits/ios_base.h' l='754'>/**
+     *  @brief  Changing flags.
+     *  @param  __wide  The new width value.
+     *  @return  The previous value of width().
+    */</doc>

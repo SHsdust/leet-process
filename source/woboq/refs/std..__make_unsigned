@@ -1,0 +1,27 @@
+<def f='include/c++/12.2.0/type_traits' l='1718' ll='1719'/>
+<def f='include/c++/12.2.0/type_traits' l='1721' ll='1723'/>
+<use f='include/c++/12.2.0/type_traits' l='1722'/>
+<def f='include/c++/12.2.0/type_traits' l='1725' ll='1727'/>
+<use f='include/c++/12.2.0/type_traits' l='1726'/>
+<def f='include/c++/12.2.0/type_traits' l='1729' ll='1731'/>
+<use f='include/c++/12.2.0/type_traits' l='1730'/>
+<def f='include/c++/12.2.0/type_traits' l='1733' ll='1735'/>
+<use f='include/c++/12.2.0/type_traits' l='1734'/>
+<def f='include/c++/12.2.0/type_traits' l='1737' ll='1739'/>
+<use f='include/c++/12.2.0/type_traits' l='1738'/>
+<def f='include/c++/12.2.0/type_traits' l='1741' ll='1743'/>
+<use f='include/c++/12.2.0/type_traits' l='1742'/>
+<def f='include/c++/12.2.0/type_traits' l='1747' ll='1749'/>
+<use f='include/c++/12.2.0/type_traits' l='1748'/>
+<use f='include/c++/12.2.0/type_traits' l='1780'/>
+<def f='include/c++/12.2.0/type_traits' l='1829' ll='1834'/>
+<use f='include/c++/12.2.0/type_traits' l='1830'/>
+<def f='include/c++/12.2.0/type_traits' l='1845' ll='1850'/>
+<use f='include/c++/12.2.0/type_traits' l='1846'/>
+<def f='include/c++/12.2.0/type_traits' l='1852' ll='1857'/>
+<use f='include/c++/12.2.0/type_traits' l='1853'/>
+<size>1</size>
+<doc f='include/c++/12.2.0/type_traits' l='1825'>// wchar_t, char8_t, char16_t and char32_t are integral types but are
+  // neither signed integer types nor unsigned integer types, so must be
+  // transformed to the unsigned integer type with the smallest rank.
+  // Use the partial specialization for enumeration types to do that.</doc>

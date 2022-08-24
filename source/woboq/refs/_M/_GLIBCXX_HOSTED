@@ -1,0 +1,6 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1694'/>
+<use f='include/c++/12.2.0/bits/concept_check.h' l='46' u='c'/>
+<use f='include/c++/12.2.0/cstdlib' l='46' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='68' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='4522' u='c'/>
+<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1693'>/* Define to 1 if a full hosted library is built, or 0 if freestanding. */</doc>

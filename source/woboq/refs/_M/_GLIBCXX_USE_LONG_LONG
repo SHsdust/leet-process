@@ -1,0 +1,13 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1814'/>
+<use f='include/c++/12.2.0/bits/std_abs.h' l='59' u='a'/>
+<use f='include/c++/12.2.0/bits/locale_facets.h' l='2063' u='a'/>
+<use f='include/c++/12.2.0/bits/locale_facets.h' l='2242' u='a'/>
+<use f='include/c++/12.2.0/bits/locale_facets.h' l='2407' u='a'/>
+<use f='include/c++/12.2.0/bits/locale_facets.h' l='2546' u='a'/>
+<use f='include/c++/12.2.0/ostream' l='199' u='a'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='354' u='a'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='375' u='a'/>
+<use f='include/c++/12.2.0/istream' l='193' u='a'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='1116' u='a'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='1138' u='a'/>
+<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='1813'>/* Define if code specialized for long long should be used. */</doc>

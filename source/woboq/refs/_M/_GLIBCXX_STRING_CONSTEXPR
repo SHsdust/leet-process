@@ -1,0 +1,23 @@
+<dec f='include/c++/12.2.0/bits/basic_string.h' l='4324'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4327' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4332' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4344' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4349' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4354' u='w'/>
+<dec f='include/c++/12.2.0/bits/basic_string.tcc' l='600'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='644' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='681' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='700' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='723' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='741' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='758' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='781' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='795' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='807' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='830' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='851' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='867' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='886' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='902' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='919' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='935' u='w'/>

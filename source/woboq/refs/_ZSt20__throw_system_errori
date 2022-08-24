@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/functexcept.h' l='105' type='void std::__throw_system_error(int )'/>
+<doc f='include/c++/12.2.0/bits/functexcept.h' l='103'>// Helpers for exception objects in &lt;system_error&gt;</doc>

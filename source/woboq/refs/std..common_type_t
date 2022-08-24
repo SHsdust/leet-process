@@ -1,0 +1,5 @@
+<use f='include/c++/12.2.0/bits/stl_function.h' l='538' c='_ZNKSt7greaterIvEclEPT_PT0_'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='600' c='_ZNKSt4lessIvEclEPT_PT0_'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='662' c='_ZNKSt13greater_equalIvEclEPT_PT0_'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='724' c='_ZNKSt10less_equalIvEclEPT_PT0_'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5805' c='_ZSt8__sampleT_S_St20forward_iterator_tagT0_T1_T2_OT3_'/>

@@ -1,0 +1,2 @@
+<dec f='include/string.h' l='407' type='size_t strlen(const char * __s)'/>
+<doc f='include/string.h' l='406'>/* Return the length of S.  */</doc>

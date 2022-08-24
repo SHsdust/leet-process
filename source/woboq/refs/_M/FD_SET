@@ -1,0 +1,2 @@
+<dec f='include/sys/select.h' l='85'/>
+<doc f='include/sys/select.h' l='84'>/* Access macros for `fd_set&apos;.  */</doc>

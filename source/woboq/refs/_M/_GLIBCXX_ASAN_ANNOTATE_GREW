@@ -1,0 +1,17 @@
+<dec f='include/c++/12.2.0/bits/stl_vector.h' l='287'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1284' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='120' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='148' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='280' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='342' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='361' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='387' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='420' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='547' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='561' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='566' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='644' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='759' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='773' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='779' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='1033' u='w'/>

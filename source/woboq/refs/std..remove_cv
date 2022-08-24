@@ -1,0 +1,13 @@
+<use f='include/c++/12.2.0/type_traits' l='270'/>
+<def f='include/c++/12.2.0/type_traits' l='1562' ll='1563'/>
+<def f='include/c++/12.2.0/type_traits' l='1565' ll='1567'/>
+<def f='include/c++/12.2.0/type_traits' l='1569' ll='1571'/>
+<def f='include/c++/12.2.0/type_traits' l='1573' ll='1575'/>
+<use f='include/c++/12.2.0/type_traits' l='1609'/>
+<use f='include/c++/12.2.0/type_traits' l='2249'/>
+<use f='include/c++/12.2.0/bits/utility.h' l='56'/>
+<use f='include/c++/12.2.0/bits/refwrap.h' l='181'/>
+<use f='include/c++/12.2.0/bits/refwrap.h' l='307'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='435'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='203'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='800'/>

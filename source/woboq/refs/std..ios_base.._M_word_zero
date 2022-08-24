@@ -1,0 +1,3 @@
+<dec f='include/c++/12.2.0/bits/ios_base.h' l='609' type='std::ios_base::_Words'/>
+<offset>384</offset>
+<doc f='include/c++/12.2.0/bits/ios_base.h' l='608'>// Only for failed iword/pword calls.</doc>

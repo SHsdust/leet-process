@@ -1,0 +1,16 @@
+<def f='include/c++/12.2.0/bits/unordered_set.h' l='544' ll='546' type='std::unordered_set::size_type std::unordered_set::erase(const std::unordered_set::key_type &amp; __x)'/>
+<use f='leetcode/126_word_ladder_ii.cpp' l='33' u='c' c='_ZN8Solution11findLaddersENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_RSt6vectorIS5_SaIS5_EE'/>
+<use f='leetcode/126_word_ladder_ii.cpp' l='34' u='c' c='_ZN8Solution11findLaddersENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_RSt6vectorIS5_SaIS5_EE'/>
+<use f='leetcode/126_word_ladder_ii.cpp' l='62' u='c' c='_ZN8Solution11findLaddersENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_RSt6vectorIS5_SaIS5_EE'/>
+<doc f='include/c++/12.2.0/bits/unordered_set.h' l='532'>/**
+       *  @brief Erases elements according to the provided key.
+       *  @param  __x  Key of element to be erased.
+       *  @return  The number of elements erased.
+       *
+       *  This function erases all the elements located by the given key from
+       *  an %unordered_set. For an %unordered_set the result of this function
+       *  can only be 0 (not present) or 1 (present).
+       *  Note that this function only erases the element, and that if
+       *  the element is itself a pointer, the pointed-to memory is not touched
+       *  in any way.  Managing the pointer is the user&apos;s responsibility.
+       */</doc>

@@ -1,0 +1,7 @@
+<def f='include/c++/12.2.0/type_traits' l='2950' ll='2952'/>
+<use f='include/c++/12.2.0/type_traits' l='3002'/>
+<use f='include/c++/12.2.0/bits/invoke.h' l='121'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1268' c='_ZNKSt8__detail15_Hash_code_base12_M_hash_codeERKT_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1277' c='_ZNKSt8__detail15_Hash_code_base15_M_hash_code_trERKTL0__'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1685' c='_ZNKSt8__detail15_Hashtable_base13_M_key_equalsERKT_RKNS_16_Hash_node_valueIT0_Xsr13__hash_cachedE5valueEEE'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1698' c='_ZNKSt8__detail15_Hashtable_base16_M_key_equals_trERKTL0__RKNS_16_Hash_node_valueIT0_Xsr13__hash_cachedE5valueEEE'/>

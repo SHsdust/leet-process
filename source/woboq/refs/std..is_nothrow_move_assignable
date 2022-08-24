@@ -1,0 +1,7 @@
+<def f='include/c++/12.2.0/type_traits' l='1208' ll='1213'/>
+<use f='include/c++/12.2.0/type_traits' l='2709' c='_ZSt4swapRT_S0_'/>
+<use f='include/c++/12.2.0/bits/move.h' l='198' c='_ZSt4swapRT_S0_'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='581' c='_ZNSt4pairaSENSt13__conditionalIXsr6__and_ISt18is_move_assignableIT_ES1_IT0_EEE5valueEE4typeIOSt4pairIS2_S4_EOSt10__nonesuchEE'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='582' c='_ZNSt4pairaSENSt13__conditionalIXsr6__and_ISt18is_move_assignableIT_ES1_IT0_EEE5valueEE4typeIOSt4pairIS2_S4_EOSt10__nonesuchEE'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='587' c='_ZNSt10_HashtableaSEOSt10_HashtableIT_T0_T1_T2_T3_T4_T5_T6_T7_T8_E'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='588' c='_ZNSt10_HashtableaSEOSt10_HashtableIT_T0_T1_T2_T3_T4_T5_T6_T7_T8_E'/>

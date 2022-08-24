@@ -1,0 +1,3 @@
+<dec f='include/sys/cdefs.h' l='166'/>
+<doc f='include/sys/cdefs.h' l='164'>/* Length is known to be safe at compile time if the __L * __S &lt;= __OBJSZ
+   condition can be folded to a constant and if it is true, or unknown (-1) */</doc>

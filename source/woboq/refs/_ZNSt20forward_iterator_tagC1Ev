@@ -1,0 +1,9 @@
+<use f='include/c++/12.2.0/bits/basic_string.h' l='545' u='c' c='_ZNSt7__cxx1112basic_stringC1ERKNS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='564' u='c' c='_ZNSt7__cxx1112basic_stringC1ERKNS_12basic_stringIT_T0_T1_EEN9__gnu_cxx14__alloc_traitsINSA_IS4_NS4_10value_typeEE6rebindIS2_E5otherENSE_5other10value7217046'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='581' u='c' c='_ZNSt7__cxx1112basic_stringC1ERKNS_12basic_stringIT_T0_T1_EEN9__gnu_cxx14__alloc_traitsINSA_IS4_NS4_10value_typeEE6rebindIS2_E5otherENSE_5other10value3769144'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='599' u='c' c='_ZNSt7__cxx1112basic_stringC1ERKNS_12basic_stringIT_T0_T1_EEN9__gnu_cxx14__alloc_traitsINSA_IS4_NS4_10value_typeEE6rebindIS2_E5otherENSE_5other10value3717343'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='620' u='c' c='_ZNSt7__cxx1112basic_stringC1EPKT_N9__gnu_cxx14__alloc_traitsINS5_IT1_NS6_10value_typeEE6rebindIS1_E5otherENSA_5other10value_typeEE9size_typeERKS6_'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='642' u='c' c='_ZNSt7__cxx1112basic_stringC1EPKT_RKT1_'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='700' u='c' c='_ZNSt7__cxx1112basic_stringC1ESt16initializer_listIT_ERKT1_'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='705' u='c' c='_ZNSt7__cxx1112basic_stringC1ERKNS_12basic_stringIT_T0_T1_EERKS4_'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='729' u='c' c='_ZNSt7__cxx1112basic_stringC1EONS_12basic_stringIT_T0_T1_EERKS4_'/>

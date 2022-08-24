@@ -1,0 +1,25 @@
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='961' c='_ZSt9__fill_a1St13_Bit_iteratorS_RKb'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='961' c='_ZSt9__fill_a1St13_Bit_iteratorS_RKb'/>
+<inh f='include/c++/12.2.0/bits/stl_bvector.h' l='162' c='std::_Bit_iterator_base'/>
+<def f='include/c++/12.2.0/bits/stl_bvector.h' l='263' ll='367'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='271'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='388' c='_ZNSt19_Bit_const_iteratorC1ERKSt13_Bit_iterator'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='392' c='_ZNKSt19_Bit_const_iterator13_M_const_castEv'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='394' c='_ZNKSt19_Bit_const_iterator13_M_const_castEv'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='492'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='502'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='708'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1552' c='_ZSt9__fill_a1St13_Bit_iteratorS_RKb'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1553' c='_ZSt9__fill_a1St13_Bit_iteratorS_RKb'/>
+<size>16</size>
+<fun r='_ZNSt13_Bit_iteratorC1Ev'/>
+<fun r='_ZNSt13_Bit_iteratorC1EPmj'/>
+<fun r='_ZNKSt13_Bit_iterator13_M_const_castEv'/>
+<fun r='_ZNKSt13_Bit_iteratordeEv'/>
+<fun r='_ZNSt13_Bit_iteratorppEv'/>
+<fun r='_ZNSt13_Bit_iteratorppEi'/>
+<fun r='_ZNSt13_Bit_iteratormmEv'/>
+<fun r='_ZNSt13_Bit_iteratormmEi'/>
+<fun r='_ZNSt13_Bit_iteratorpLEl'/>
+<fun r='_ZNSt13_Bit_iteratormIEl'/>
+<fun r='_ZNKSt13_Bit_iteratorixEl'/>

@@ -1,0 +1,12 @@
+_ZNSt17_Temporary_buffer5beginEv|std::_Temporary_buffer::begin
+_ZNSt7__cxx1112basic_string5beginEv|std::basic_string::begin
+_ZSt5beginSt16initializer_listIT_E|std::begin
+_ZNKSt16initializer_list5beginEv|std::initializer_list::begin
+_ZNKSt9type_info6beforeERKS_|std::type_info::before
+_ZNSt6vector5beginEv|std::vector::begin
+_ZNSt10_Hashtable5beginEv|std::_Hashtable::begin
+_ZNSt13unordered_map5beginEv|std::unordered_map::begin
+_ZNSt18unordered_multimap5beginEv|std::unordered_multimap::begin
+_ZNSt18unordered_multiset5beginEv|std::unordered_multiset::begin
+_ZNSt13unordered_set5beginEv|std::unordered_set::begin
+_ZNSt5deque5beginEv|std::deque::begin

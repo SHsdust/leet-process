@@ -1,0 +1,17 @@
+<inh f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='99' c='std::forward_iterator_tag'/>
+<def f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='103'/>
+<ovr f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='107' c='std::random_access_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='107'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_funcs.h' l='168' c='_ZSt9__advanceRT_T0_St26bidirectional_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='313' c='_ZSt10__find_endT_S_T0_S0_St26bidirectional_iterator_tagS1_T1_'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='313' c='_ZSt10__find_endT_S_T0_S0_St26bidirectional_iterator_tagS1_T1_'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='1079' c='_ZSt9__reverseT_S_St26bidirectional_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='1245' c='_ZNSt3_V28__rotateET_S0_S0_St26bidirectional_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='1256' c='_ZNSt3_V28__rotateET_S0_S0_St26bidirectional_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='1257' c='_ZNSt3_V28__rotateET_S0_S0_St26bidirectional_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='1267' c='_ZNSt3_V28__rotateET_S0_S0_St26bidirectional_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='1272' c='_ZNSt3_V28__rotateET_S0_S0_St26bidirectional_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='1471' c='_ZSt11__partitionT_S_T0_St26bidirectional_iterator_tag'/>
+<size>1</size>
+<doc f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='101'>/// Bidirectional iterators support a superset of forward iterator
+  /// operations.</doc>

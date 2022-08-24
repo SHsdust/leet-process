@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/bits/stl_bvector.h' l='173' ll='181' type='void std::_Bit_iterator_base::_M_bump_up()'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='294' u='c' c='_ZNSt13_Bit_iteratorppEv'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='303' u='c' c='_ZNSt13_Bit_iteratorppEi'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='405' u='c' c='_ZNSt19_Bit_const_iteratorppEv'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='414' u='c' c='_ZNSt19_Bit_const_iteratorppEi'/>

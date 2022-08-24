@@ -1,0 +1,14 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='590'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_funcs.h' l='160' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1201' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1221' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1280' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1292' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1304' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1316' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='2094' u='c'/>
+<use f='include/c++/12.2.0/bits/streambuf_iterator.h' l='479' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1584' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1117' u='c'/>
+<use f='include/c++/12.2.0/bits/uniform_int_dist.h' l='97' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='1820' u='c'/>

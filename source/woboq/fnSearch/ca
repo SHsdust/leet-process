@@ -1,0 +1,4 @@
+_ZNKSt7__cxx1112basic_string8capacityEv|std::basic_string::capacity
+_ZNKSt10error_code8categoryEv|std::error_code::category
+_ZNKSt15error_condition8categoryEv|std::error_condition::category
+_ZNKSt6vector8capacityEv|std::vector::capacity

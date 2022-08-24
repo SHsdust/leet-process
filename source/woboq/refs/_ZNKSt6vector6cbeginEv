@@ -1,0 +1,10 @@
+<def f='include/c++/12.2.0/bits/stl_vector.h' l='948' ll='950' type='std::vector::const_iterator std::vector::cbegin() const'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1408' u='c' c='_ZNSt6vector6insertEN9__gnu_cxx17__normal_iteratorINS0_14__alloc_traitsINSt12_Vector_baseIT_T0_E14_Tp_alloc_typeENS6_14_Tp_alloc_type10value_typeEE13c8335942'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1434' u='c' c='_ZNSt6vector6insertEN9__gnu_cxx17__normal_iteratorINS0_14__alloc_traitsINSt12_Vector_baseIT_T0_E14_Tp_alloc_typeENS6_14_Tp_alloc_type10value_typeEE13c9011870'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1480' u='c' c='_ZNSt6vector6insertEN9__gnu_cxx17__normal_iteratorINS0_14__alloc_traitsINSt12_Vector_baseIT_T0_E14_Tp_alloc_typeENS6_14_Tp_alloc_type10value_typeEE13c15230752'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1530' u='c' c='_ZNSt6vector5eraseEN9__gnu_cxx17__normal_iteratorINS0_14__alloc_traitsINSt12_Vector_baseIT_T0_E14_Tp_alloc_typeENS6_14_Tp_alloc_type10value_typeEE13co15049067'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1560' u='c' c='_ZNSt6vector5eraseEN9__gnu_cxx17__normal_iteratorINS0_14__alloc_traitsINSt12_Vector_baseIT_T0_E14_Tp_alloc_typeENS6_14_Tp_alloc_type10value_typeEE13co15039064'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='153' u='c' c='_ZNSt6vector6insertEN9__gnu_cxx17__normal_iteratorINS0_14__alloc_traitsINSt12_Vector_baseIT_T0_E14_Tp_alloc_typeENS6_14_Tp_alloc_type10value_typeEE13c13419350'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='164' u='c' c='_ZNSt6vector6insertEN9__gnu_cxx17__normal_iteratorINS0_14__alloc_traitsINSt12_Vector_baseIT_T0_E14_Tp_alloc_typeENS6_14_Tp_alloc_type10value_typeEE13c13419350'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='353' u='c' c='_ZNSt6vector14_M_insert_rvalEN9__gnu_cxx17__normal_iteratorINS0_14__alloc_traitsINSt12_Vector_baseIT_T0_E14_Tp_alloc_typeENS6_14_Tp_alloc_type10value_4818710'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='379' u='c' c='_ZNSt6vector14_M_emplace_auxEN9__gnu_cxx17__normal_iteratorINS0_14__alloc_traitsINSt12_Vector_baseIT_T0_E14_Tp_alloc_typeENS6_14_Tp_alloc_type10value_6105016'/>

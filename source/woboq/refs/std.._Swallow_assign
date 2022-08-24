@@ -1,0 +1,9 @@
+<def f='include/c++/12.2.0/tuple' l='1773' ll='1779'/>
+<use f='include/c++/12.2.0/tuple' l='1776' c='_ZNKSt15_Swallow_assignaSERKT_'/>
+<use f='include/c++/12.2.0/tuple' l='1783'/>
+<size>1</size>
+<doc f='include/c++/12.2.0/tuple' l='1769'>// A class (and instance) which can be used in &apos;tie&apos; when an element
+  // of a tuple is not required.
+  // _GLIBCXX14_CONSTEXPR
+  // 2933. PR for LWG 2773 could be clearer</doc>
+<fun r='_ZNKSt15_Swallow_assignaSERKT_'/>

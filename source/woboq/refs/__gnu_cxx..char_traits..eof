@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/char_traits.h' l='158' ll='160' type='static __gnu_cxx::char_traits::int_type __gnu_cxx::char_traits::eof()'/>
+<use f='include/c++/12.2.0/bits/char_traits.h' l='164' u='c' c='__gnu_cxx::char_traits::not_eof'/>

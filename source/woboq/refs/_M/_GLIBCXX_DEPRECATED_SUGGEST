@@ -1,0 +1,9 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='95'/>
+<use f='include/c++/12.2.0/type_traits' l='572' u='c'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='502' u='c'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='504' u='c'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='506' u='c'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='509' u='c'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='511' u='c'/>
+<use f='include/c++/12.2.0/streambuf' l='787' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1153' u='c'/>

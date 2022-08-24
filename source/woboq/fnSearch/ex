@@ -1,0 +1,6 @@
+_ZNKSt9basic_ios10exceptionsEv|std::basic_ios::exceptions
+_ZNSt9exceptionC1Ev|std::exception::exception
+_ZNSt9exceptionaSERKS_|std::exception::operator=
+_ZSt3expf|std::exp
+_ZSt4exp2f|std::exp2
+_ZSt5expm1f|std::expm1

@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/bits/basic_string.h' l='2821' ll='2827' type='std::basic_string::size_type std::basic_string::find_first_of(const _CharT * __s, std::basic_string::size_type __pos = 0) const'/>

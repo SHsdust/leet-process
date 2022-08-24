@@ -1,0 +1,3 @@
+<dec f='include/features.h' l='403'/>
+<use f='include/bits/pthread_stack_min-dynamic.h' l='20' u='a'/>
+<use f='include/bits/pthread_stack_min-dynamic.h' l='20' u='c'/>

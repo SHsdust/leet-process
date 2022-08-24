@@ -1,0 +1,10 @@
+<def f='include/c++/12.2.0/bits/ios_base.h' l='750' ll='752' type='std::streamsize std::ios_base::width() const'/>
+<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='939' u='c' c='_ZNKSt7num_put13_M_insert_intET0_RSt8ios_baseT_TL0__'/>
+<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='1106' u='c' c='_ZNKSt7num_put15_M_insert_floatET0_RSt8ios_baseT_cTL0__'/>
+<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='1144' u='c' c='_ZNKSt7num_put6do_putET0_RSt8ios_baseT_b'/>
+<doc f='include/c++/12.2.0/bits/ios_base.h' l='744'>/**
+     *  @brief  Flags access.
+     *  @return  The minimum field width to generate on output operations.
+     *
+     *  &lt;em&gt;Minimum field width&lt;/em&gt; refers to the number of characters.
+    */</doc>

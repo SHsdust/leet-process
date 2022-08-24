@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/basic_string.h' l='4011' ll='4023' type='std::string std::to_string(int __val)'/>
+<doc f='include/c++/12.2.0/bits/basic_string.h' l='4009'>// DR 1261. Insufficent overloads for to_string / to_wstring</doc>

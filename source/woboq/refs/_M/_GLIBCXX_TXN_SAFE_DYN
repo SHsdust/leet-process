@@ -1,0 +1,9 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='692'/>
+<use f='include/c++/12.2.0/bits/exception.h' l='65' u='c'/>
+<use f='include/c++/12.2.0/bits/exception.h' l='76' u='c'/>
+<use f='include/c++/12.2.0/exception' l='60' u='c'/>
+<use f='include/c++/12.2.0/exception' l='64' u='c'/>
+<use f='include/c++/12.2.0/stdexcept' l='138' u='c'/>
+<use f='include/c++/12.2.0/stdexcept' l='143' u='c'/>
+<use f='include/c++/12.2.0/stdexcept' l='244' u='c'/>
+<use f='include/c++/12.2.0/stdexcept' l='249' u='c'/>

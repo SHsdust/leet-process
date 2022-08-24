@@ -1,0 +1,9 @@
+<dec f='include/c++/12.2.0/bits/ios_base.h' l='462' type='const std::ios_base::openmode'/>
+<use f='include/c++/12.2.0/streambuf' l='257' u='r' c='_ZNSt15basic_streambuf10pubseekoffENT0_8off_typeESt12_Ios_SeekdirSt13_Ios_Openmode'/>
+<use f='include/c++/12.2.0/streambuf' l='269' u='r' c='_ZNSt15basic_streambuf10pubseekposENT0_8pos_typeESt13_Ios_Openmode'/>
+<use f='include/c++/12.2.0/streambuf' l='608' u='r' c='_ZNSt15basic_streambuf7seekoffENT0_8off_typeESt12_Ios_SeekdirSt13_Ios_Openmode'/>
+<use f='include/c++/12.2.0/streambuf' l='620' u='r' c='_ZNSt15basic_streambuf7seekposENT0_8pos_typeESt13_Ios_Openmode'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='866' c='_ZNSt13basic_istream5tellgEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='898' c='_ZNSt13basic_istream5seekgENT0_8pos_typeE'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='937' c='_ZNSt13basic_istream5seekgENT0_8off_typeESt12_Ios_Seekdir'/>
+<doc f='include/c++/12.2.0/bits/ios_base.h' l='461'>/// Open for input.  Default for @c ifstream and fstream.</doc>

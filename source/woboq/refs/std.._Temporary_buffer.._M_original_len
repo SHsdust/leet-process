@@ -1,0 +1,4 @@
+<dec f='include/c++/12.2.0/bits/stl_tempbuf.h' l='149' type='std::_Temporary_buffer::size_type'/>
+<use f='include/c++/12.2.0/bits/stl_tempbuf.h' l='162' u='r' c='_ZNKSt17_Temporary_buffer14requested_sizeEv'/>
+<use f='include/c++/12.2.0/bits/stl_tempbuf.h' l='260' u='w' c='_ZNSt17_Temporary_bufferC1ET_l'/>
+<use f='include/c++/12.2.0/bits/stl_tempbuf.h' l='263' c='_ZNSt17_Temporary_bufferC1ET_l'/>

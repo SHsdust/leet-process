@@ -1,0 +1,4 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='451'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='2041' u='c'/>
+<use f='include/c++/12.2.0/bits/algorithmfwd.h' l='958' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5892' u='c'/>

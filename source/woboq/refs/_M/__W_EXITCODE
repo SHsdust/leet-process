@@ -1,0 +1,2 @@
+<dec f='include/bits/waitstatus.h' l='56'/>
+<doc f='include/bits/waitstatus.h' l='55'>/* Macros for constructing status values.  */</doc>

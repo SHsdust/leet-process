@@ -1,0 +1,2 @@
+<use f='include/c++/12.2.0/bits/streambuf_iterator.h' l='199' u='c' c='_ZNKSt19istreambuf_iterator5equalERKSt19istreambuf_iteratorIT_T0_E'/>
+<def f='include/c++/12.2.0/bits/streambuf_iterator.h' l='211' ll='213' type='bool std::istreambuf_iterator::_M_at_eof() const'/>

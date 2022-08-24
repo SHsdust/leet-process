@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/bits/unordered_set.h' l='1475' ll='1477' type='std::unordered_multiset::hasher std::unordered_multiset::hash_function() const'/>
+<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1471'>// observers.
+
+      ///  Returns the hash functor object with which the %unordered_multiset
+      ///  was constructed.</doc>

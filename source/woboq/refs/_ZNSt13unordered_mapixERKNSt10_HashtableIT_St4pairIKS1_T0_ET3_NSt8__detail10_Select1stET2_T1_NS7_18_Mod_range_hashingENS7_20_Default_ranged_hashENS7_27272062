@@ -1,0 +1,20 @@
+<def f='include/c++/12.2.0/bits/unordered_map.h' l='978' ll='980' type='std::unordered_map::mapped_type &amp; std::unordered_map::operator[](const std::unordered_map::key_type &amp; __k)'/>
+<use f='leetcode/126_word_ladder_ii.cpp' l='16' u='c' c='_ZN8Solution12backtrackingERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES7_RSt13unordered_mapIS5_St6vectorIS5_SaIS5_EESt4hashIS5_ESt8equal_to16009825'/>
+<use f='leetcode/126_word_ladder_ii.cpp' l='47' u='c' c='_ZN8Solution11findLaddersENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_RSt6vectorIS5_SaIS5_EE'/>
+<use f='leetcode/126_word_ladder_ii.cpp' l='47' u='c' c='_ZN8Solution11findLaddersENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_RSt6vectorIS5_SaIS5_EE'/>
+<use f='leetcode/126_word_ladder_ii.cpp' l='51' u='c' c='_ZN8Solution11findLaddersENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_RSt6vectorIS5_SaIS5_EE'/>
+<use f='leetcode/126_word_ladder_ii.cpp' l='51' u='c' c='_ZN8Solution11findLaddersENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_RSt6vectorIS5_SaIS5_EE'/>
+<doc f='include/c++/12.2.0/bits/unordered_map.h' l='966'>/**
+       *  @brief  Subscript ( @c [] ) access to %unordered_map data.
+       *  @param  __k  The key for which data should be retrieved.
+       *  @return  A reference to the data of the (key,data) %pair.
+       *
+       *  Allows for easy lookup with the subscript ( @c [] )operator.  Returns
+       *  data associated with the key specified in subscript.  If the key does
+       *  not exist, a pair with that key is created using default values, which
+       *  is then returned.
+       *
+       *  Lookup requires constant time.
+       */</doc>
+<use f='leetcode/347_top_k_frequent_ele.cpp' l='12' u='c' c='_ZN8Solution12topKFrequentERSt6vectorIiSaIiEEi'/>
+<use f='leetcode/451_sort_characters_by_freq.cpp' l='15' u='c' c='_ZN8Solution13frequencySortENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE'/>

@@ -1,0 +1,13 @@
+<def f='include/c++/12.2.0/bits/stl_queue.h' l='317' ll='322' type='void std::queue::pop()'/>
+<use f='leetcode/934_shortest_bridge.cpp' l='48' u='c' c='_ZN8Solution14shortestBridgeERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
+<doc f='include/c++/12.2.0/bits/stl_queue.h' l='306'>/**
+       *  @brief  Removes first element.
+       *
+       *  This is a typical %queue operation.  It shrinks the %queue by one.
+       *  The time complexity of the operation depends on the underlying
+       *  sequence.
+       *
+       *  Note that no data is returned, and if the first element&apos;s
+       *  data is needed, it should be retrieved before pop() is
+       *  called.
+       */</doc>

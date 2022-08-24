@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/type_traits' l='780' ll='782'/>
+<use f='include/c++/12.2.0/bits/alloc_traits.h' l='210'/>
+<use f='include/c++/12.2.0/tuple' l='60'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1395'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1411'/>

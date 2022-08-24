@@ -1,0 +1,8 @@
+<def f='include/c++/12.2.0/type_traits' l='1790'/>
+<def f='include/c++/12.2.0/type_traits' l='1792' ll='1794'/>
+<use f='include/c++/12.2.0/type_traits' l='1793'/>
+<use f='include/c++/12.2.0/type_traits' l='1800'/>
+<use f='include/c++/12.2.0/type_traits' l='1804'/>
+<use f='include/c++/12.2.0/type_traits' l='1805'/>
+<use f='include/c++/12.2.0/type_traits' l='1815'/>
+<smbr r='std::__make_unsigned_selector_base::_List{type-parameter-0-0,type-parameter-0-1...}::__size' t='const std::size_t'/>

@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/stl_bvector.h' l='1495' type='std::vector&lt;bool, type-parameter-0-0&gt;::iterator std::vector&lt;bool, type-parameter-0-0&gt;::_M_erase(std::vector&lt;bool, type-parameter-0-0&gt;::iterator __pos)'/>
+<def f='include/c++/12.2.0/bits/vector.tcc' l='938' ll='948' type='typename vector&lt;bool, _Alloc&gt;::iterator std::vector&lt;bool, type-parameter-0-0&gt;::_M_erase(std::vector&lt;bool, type-parameter-0-0&gt;::iterator __position)'/>

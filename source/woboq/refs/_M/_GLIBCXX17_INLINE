@@ -1,0 +1,10 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='197'/>
+<use f='include/c++/12.2.0/type_traits' l='2795' u='c'/>
+<use f='include/c++/12.2.0/type_traits' l='2800' u='c'/>
+<use f='include/c++/12.2.0/type_traits' l='2891' u='c'/>
+<use f='include/c++/12.2.0/type_traits' l='2896' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='83' u='c'/>
+<use f='include/c++/12.2.0/bits/uses_allocator.h' l='53' u='c'/>
+<use f='include/c++/12.2.0/bits/uses_allocator.h' l='147' u='c'/>
+<use f='include/c++/12.2.0/bits/uses_allocator.h' l='160' u='c'/>
+<use f='include/c++/12.2.0/tuple' l='1783' u='c'/>

@@ -1,0 +1,42 @@
+<def f='include/c++/12.2.0/bits/stl_queue.h' l='96' ll='337'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='111' c='_ZSteqRKSt5queueITL0__TL0_0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='111' c='_ZSteqRKSt5queueITL0__TL0_0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='115' c='_ZStltRKSt5queueITL0__TL0_0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='115' c='_ZStltRKSt5queueITL0__TL0_0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='380' c='_ZSteqRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='380' c='_ZSteqRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='399' c='_ZStltRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='399' c='_ZStltRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='406' c='_ZStneRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='406' c='_ZStneRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='413' c='_ZStgtRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='413' c='_ZStgtRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='420' c='_ZStleRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='420' c='_ZStleRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='427' c='_ZStgeRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='427' c='_ZStgeRKSt5queueIT_T0_ES4_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='447' c='_ZSt4swapRSt5queueIT_T0_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='447' c='_ZSt4swapRSt5queueIT_T0_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_queue.h' l='452'/>
+<use f='leetcode/934_shortest_bridge.cpp' l='11' c='_ZN8Solution3dfsERSt5queueISt4pairIiiESt5dequeIS2_SaIS2_EEERSt6vectorIS8_IiSaIiEESaISA_EEiiii'/>
+<use f='leetcode/934_shortest_bridge.cpp' l='29' c='_ZN8Solution14shortestBridgeERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
+<mbr r='std::queue::c' t='_Sequence'/>
+<fun r='_ZNSt5queueC1Ev'/>
+<fun r='_ZNSt5queueC1ERKT0_'/>
+<fun r='_ZNSt5queueC1EOT0_'/>
+<fun r='_ZNSt5queueC1ERKTL0__'/>
+<fun r='_ZNSt5queueC1ERKT0_RKTL0__'/>
+<fun r='_ZNSt5queueC1EOT0_RKTL0__'/>
+<fun r='_ZNSt5queueC1ERKSt5queueIT_T0_ERKTL0__'/>
+<fun r='_ZNSt5queueC1EOSt5queueIT_T0_ERKTL0__'/>
+<fun r='_ZNKSt5queue5emptyEv'/>
+<fun r='_ZNKSt5queue4sizeEv'/>
+<fun r='_ZNSt5queue5frontEv'/>
+<fun r='_ZNKSt5queue5frontEv'/>
+<fun r='_ZNSt5queue4backEv'/>
+<fun r='_ZNKSt5queue4backEv'/>
+<fun r='_ZNSt5queue4pushERKNT0_10value_typeE'/>
+<fun r='_ZNSt5queue4pushEONT0_10value_typeE'/>
+<fun r='_ZNSt5queue7emplaceEDpOTL0__'/>
+<fun r='_ZNSt5queue3popEv'/>
+<fun r='_ZNSt5queue4swapERSt5queueIT_T0_E'/>

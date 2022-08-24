@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/system_error' l='143' ll='145' type='bool std::error_category::operator==(const std::error_category &amp; __other) const'/>
+<use f='include/c++/12.2.0/system_error' l='272' u='c' c='_ZStltRKSt10error_codeS1_'/>
+<use f='include/c++/12.2.0/system_error' l='363' u='c' c='_ZSteqRKSt10error_codeS1_'/>
+<use f='include/c++/12.2.0/system_error' l='379' u='c' c='_ZSteqRKSt15error_conditionS1_'/>
+<use f='include/c++/12.2.0/system_error' l='402' u='c' c='_ZStltRKSt15error_conditionS1_'/>

@@ -1,0 +1,9 @@
+<dec f='include/c++/12.2.0/bits/basic_string.h' l='213' type='0'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='217'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1134' u='r' c='_ZNKSt7__cxx1112basic_string8capacityEv'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1550' c='_ZNSt7__cxx1112basic_string6assignERKNS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='72' c='_ZNSt7__cxx1112basic_string4swapERNS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='171' u='r' c='_ZNSt7__cxx1112basic_string12_M_constructETL0__S1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='223' c='_ZNSt7__cxx1112basic_string12_M_constructETL0__S1_St20forward_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='256' c='_ZNSt7__cxx1112basic_string12_M_constructEN9__gnu_cxx14__alloc_traitsINS2_IT1_NS3_10value_typeEE6rebindIT_E5otherENS8_5other10value_typeEE9size_typeES7_'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='369' c='_ZNSt7__cxx1112basic_string7reserveEv'/>

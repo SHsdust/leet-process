@@ -1,0 +1,8 @@
+<def f='include/c++/12.2.0/type_traits' l='1934' ll='1943'/>
+<def f='include/c++/12.2.0/type_traits' l='1946' ll='1953'/>
+<use f='include/c++/12.2.0/type_traits' l='1952'/>
+<use f='include/c++/12.2.0/type_traits' l='1963'/>
+<use f='include/c++/12.2.0/type_traits' l='1979'/>
+<use f='include/c++/12.2.0/type_traits' l='1986'/>
+<use f='include/c++/12.2.0/type_traits' l='1996'/>
+<doc f='include/c++/12.2.0/type_traits' l='1945'>// Choose signed integer type with the smallest rank and same size as _Tp</doc>

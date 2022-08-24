@@ -1,0 +1,13 @@
+<dec f='include/c++/12.2.0/debug/debug.h' l='73'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='2816' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='2817' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='4919' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='4920' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5147' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5148' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5269' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5270' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5394' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5395' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5529' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='5530' u='c'/>

@@ -1,0 +1,12 @@
+<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
+<def f='include/c++/12.2.0/type_traits' l='2909'/>
+<inh f='include/c++/12.2.0/type_traits' l='62' c='std::integral_constant'/>
+<def f='include/c++/12.2.0/type_traits' l='2912' ll='2917'/>
+<def f='include/c++/12.2.0/type_traits' l='2922' ll='2946'/>
+<use f='include/c++/12.2.0/type_traits' l='2951'/>
+<doc f='include/c++/12.2.0/type_traits' l='2911'>// Used for valid INVOKE and INVOKE&lt;void&gt; expressions.</doc>
+<doc f='include/c++/12.2.0/type_traits' l='2921'>// Used for INVOKE&lt;R&gt; expressions to check the implicit conversion to R.</doc>
+<fun r='_ZNSt19__is_invocable_implIT_T0_Lb0EvE6_S_getEv'/>
+<fun r='_ZNSt19__is_invocable_implIT_T0_Lb0EvE7_S_convETL0__'/>
+<fun r='_ZNSt19__is_invocable_implIT_T0_Lb0EvE7_S_testEi'/>
+<fun r='_ZNSt19__is_invocable_implIT_T0_Lb0EvE7_S_testEz'/>

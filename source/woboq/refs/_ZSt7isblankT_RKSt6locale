@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/localefwd.h' l='113' type='bool std::isblank(_CharT , const std::locale &amp; )'/>
+<def f='include/c++/12.2.0/bits/locale_facets.h' l='2667' ll='2669' type='bool std::isblank(_CharT __c, const std::locale &amp; __loc)'/>

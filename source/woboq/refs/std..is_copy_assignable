@@ -1,0 +1,7 @@
+<def f='include/c++/12.2.0/type_traits' l='1132' ll='1137'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='568' c='_ZNSt4pairaSENSt13__conditionalIXsr6__and_ISt18is_copy_assignableIT_ES1_IT0_EEE5valueEE4typeIRKSt4pairIS2_S4_ERKSt10__nonesuchEE'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='569' c='_ZNSt4pairaSENSt13__conditionalIXsr6__and_ISt18is_copy_assignableIT_ES1_IT0_EEE5valueEE4typeIRKSt4pairIS2_S4_ERKSt10__nonesuchEE'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='425' c='_ZNSt11__copy_moveIXT_ELb1ESt26random_access_iterator_tagE8__copy_mEPKTL0__S4_PS2_'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='736' c='_ZNSt20__copy_move_backwardIXT_ELb1ESt26random_access_iterator_tagE13__copy_move_bEPKTL0__S4_PS2_'/>
+<use f='include/c++/12.2.0/bits/stl_uninitialized.h' l='679' c='_ZSt23__uninitialized_defaultT_S_'/>
+<use f='include/c++/12.2.0/bits/stl_uninitialized.h' l='697' c='_ZSt25__uninitialized_default_nT_T0_'/>

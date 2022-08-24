@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/bits/stl_deque.h' l='414' ll='416' type='std::_Deque_iterator::_Self std::operator+(std::_Deque_iterator::difference_type __n, const std::_Deque_iterator::_Self &amp; __x)'/>

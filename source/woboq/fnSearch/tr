@@ -1,0 +1,4 @@
+_ZNKSt7__cxx117collate9transformEPKT_S3_|std::collate::transform
+_ZNKSt7__cxx118numpunct8truenameEv|std::numpunct::truename
+_ZSt9transformT_S_T0_T1_|std::transform
+_ZSt5truncf|std::trunc

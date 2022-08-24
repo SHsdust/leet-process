@@ -1,0 +1,4 @@
+<def f='include/c++/12.2.0/streambuf' l='275' ll='276' type='int std::basic_streambuf::pubsync()'/>
+<doc f='include/c++/12.2.0/streambuf' l='272'>/**
+       *  @brief  Calls virtual sync function.
+      */</doc>

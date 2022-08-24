@@ -1,0 +1,4 @@
+<dec f='include/c++/12.2.0/typeinfo' l='108' type='bool std::type_info::before(const std::type_info &amp; __arg) const'/>
+<def f='include/c++/12.2.0/typeinfo' l='170' ll='188' type='bool std::type_info::before(const std::type_info &amp; __arg) const'/>
+<doc f='include/c++/12.2.0/typeinfo' l='106'>/** Returns true if `*this` precedes `__arg` in the implementation&apos;s
+     *  collation order.  */</doc>

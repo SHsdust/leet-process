@@ -1,0 +1,6 @@
+<def f='include/c++/12.2.0/bits/unordered_set.h' l='1666' ll='1668' type='float std::unordered_multiset::load_factor() const'/>
+<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1661'>///@}
+
+      // hash policy.
+
+      /// Returns the average number of elements per bucket.</doc>

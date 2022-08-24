@@ -1,0 +1,31 @@
+<dec f='include/c++/12.2.0/ext/numeric_traits.h' l='75' type='const _Value'/>
+<use f='include/c++/12.2.0/ext/numeric_traits.h' l='78'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='84' ll='85' type='const _Value'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='85' type='const int'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='85' type='const unsigned long'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='85' type='const char'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='85' type='const long'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='85' type='const short'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='485' c='_ZNSt7__cxx1112basic_string10_S_compareEN9__gnu_cxx14__alloc_traitsINS2_IT1_NS3_10value_typeEE6rebindIT_E5otherENS8_5other10value_typeEE9size_typeESC_'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='486' u='r' c='_ZNSt7__cxx1112basic_string10_S_compareEN9__gnu_cxx14__alloc_traitsINS2_IT1_NS3_10value_typeEE6rebindIT_E5otherENS8_5other10value_typeEE9size_typeESC_'/>
+<use f='include/c++/12.2.0/ext/string_conversions.h' l='76' c='__gnu_cxx::__stoa(_TRet(*)(const_CharT*,_CharT**,_Base...),constchar*,const_CharT*,std::size_t*,_Base...)::_Range_chk::_S_chk'/>
+<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='94' u='r' c='_ZNSt16__numpunct_cache8_M_cacheERKSt6locale'/>
+<use f='include/c++/12.2.0/bits/locale_facets.tcc' l='1293' u='r' c='_ZSt14__add_groupingPT_S_PKcmPKS_S4_'/>
+<use f='include/c++/12.2.0/istream' l='836' u='r' c='_ZStrsRSt13basic_istreamIT_T0_EPS0_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='145' u='r' c='_ZNSt13basic_istreamrsERs'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='148' u='r' c='_ZNSt13basic_istreamrsERs'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='190' u='r' c='_ZNSt13basic_istreamrsERi'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='193' u='r' c='_ZNSt13basic_istreamrsERi'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='394' u='r' c='_ZNSt13basic_istream3getERSt15basic_streambufIT_T0_ES1_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='397' u='r' c='_ZNSt13basic_istream3getERSt15basic_streambufIT_T0_ES1_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='539' u='r' c='_ZNSt13basic_istream6ignoreEl'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='550' u='r' c='_ZNSt13basic_istream6ignoreEl'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='553' u='r' c='_ZNSt13basic_istream6ignoreEl'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='604' u='r' c='_ZNSt13basic_istream6ignoreElNT0_8int_typeE'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='616' u='r' c='_ZNSt13basic_istream6ignoreElNT0_8int_typeE'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='619' u='r' c='_ZNSt13basic_istream6ignoreElNT0_8int_typeE'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1917' u='r' c='_ZNSt6vector11_S_max_sizeERKNSt12_Vector_baseIT_T0_E14_Tp_alloc_typeE'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1014' u='r' c='_ZNKSt6vectorIbT_E8max_sizeEv'/>
+<use f='include/c++/12.2.0/bits/stl_tempbuf.h' l='104' u='r' c='_ZSt20get_temporary_bufferl'/>
+<doc f='include/c++/12.2.0/ext/numeric_traits.h' l='74'>// The initializers must be constants so that __max and __min are too.</doc>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='1878' u='r' c='_ZNSt5deque11_S_max_sizeERKNSt11_Deque_baseIT_T0_E14_Tp_alloc_typeE'/>

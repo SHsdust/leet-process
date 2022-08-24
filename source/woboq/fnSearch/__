@@ -1,0 +1,3 @@
+_ZNSt6vector16_Temporary_value8_StorageD1Ev|std::vector::_Temporary_value::_Storage::~_Storage
+_ZNSt6vector16_Temporary_valueD1Ev|std::vector::_Temporary_value::~_Temporary_value
+_ZNSt10_Hashtable12_Scoped_nodeD1Ev|std::_Hashtable::_Scoped_node::~_Scoped_node

@@ -1,0 +1,9 @@
+_ZNKSt7__cxx1112basic_string7crbeginEv|std::basic_string::crbegin
+_ZNKSt7__cxx1112basic_string5crendEv|std::basic_string::crend
+_ZSt7crbeginRKT_|std::crbegin
+_ZSt4crefRKT_|std::cref
+_ZSt5crendRKT_|std::crend
+_ZNKSt6vector7crbeginEv|std::vector::crbegin
+_ZNKSt6vector5crendEv|std::vector::crend
+_ZNKSt5deque7crbeginEv|std::deque::crbegin
+_ZNKSt5deque5crendEv|std::deque::crend

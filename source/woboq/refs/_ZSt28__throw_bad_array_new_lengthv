@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/functexcept.h' l='55' type='void std::__throw_bad_array_new_length()'/>
+<use f='include/c++/12.2.0/bits/new_allocator.h' l='125' u='c' c='_ZNSt15__new_allocator8allocateEmPKv'/>

@@ -1,0 +1,3 @@
+<def f='include/c++/12.2.0/type_traits' l='907' ll='912'/>
+<use f='include/c++/12.2.0/bits/stl_construct.h' l='188' c='_ZSt8_DestroyT_S_'/>
+<use f='include/c++/12.2.0/bits/stl_construct.h' l='237' c='_ZSt10_Destroy_nT_T0_'/>

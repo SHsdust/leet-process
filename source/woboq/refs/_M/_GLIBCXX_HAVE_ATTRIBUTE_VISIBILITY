@@ -1,0 +1,5 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='67'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='69' u='c'/>
+<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='64'>// Macros for visibility attributes.
+//   _GLIBCXX_HAVE_ATTRIBUTE_VISIBILITY
+//   _GLIBCXX_VISIBILITY</doc>

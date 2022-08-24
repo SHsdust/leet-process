@@ -1,0 +1,7 @@
+<def f='include/c++/12.2.0/type_traits' l='1258' ll='1261'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='381'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='382'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='393'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='394'/>
+<use f='include/c++/12.2.0/tuple' l='580' c='_ZNSt17_TupleConstraints37__is_implicitly_default_constructibleEv'/>
+<use f='include/c++/12.2.0/tuple' l='588' c='_ZNSt17_TupleConstraints37__is_explicitly_default_constructibleEv'/>

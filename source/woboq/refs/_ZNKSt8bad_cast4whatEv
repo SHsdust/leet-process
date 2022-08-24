@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/typeinfo' l='230' type='const char * std::bad_cast::what() const'/>
+<doc f='include/c++/12.2.0/typeinfo' l='229'>// See comment in eh_exception.cc.</doc>

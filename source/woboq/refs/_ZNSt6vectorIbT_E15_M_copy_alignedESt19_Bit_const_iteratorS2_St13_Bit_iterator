@@ -1,0 +1,10 @@
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='763' u='c' c='_ZNSt6vectorIbT_EC1ERKS_IbS0_E'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='784' u='c' c='_ZNSt6vectorIbT_EC1EOS_IbS0_ERKS0_St17integral_constantIbLb0EE'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='802' u='c' c='_ZNSt6vectorIbT_EC1ERKS_IbS0_ERKNSt15__type_identityIS0_E4typeE'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='867' u='c' c='_ZNSt6vectorIbT_EaSERKS_IbS0_E'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='892' u='c' c='_ZNSt6vectorIbT_EaSEOS_IbS0_E'/>
+<def f='include/c++/12.2.0/bits/stl_bvector.h' l='1287' ll='1294' type='std::vector&lt;bool, type-parameter-0-0&gt;::iterator std::vector&lt;bool, type-parameter-0-0&gt;::_M_copy_aligned(std::vector&lt;bool, type-parameter-0-0&gt;::const_iterator __first, std::vector&lt;bool, type-parameter-0-0&gt;::const_iterator __last, std::vector&lt;bool, type-parameter-0-0&gt;::iterator __result)'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='834' u='c' c='_ZNSt6vectorIbT_E13_M_reallocateEm'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='862' u='c' c='_ZNSt6vectorIbT_E14_M_fill_insertESt13_Bit_iteratormb'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='898' u='c' c='_ZNSt6vectorIbT_E15_M_insert_rangeESt13_Bit_iteratorTL0__S3_St20forward_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='928' u='c' c='_ZNSt6vectorIbT_E13_M_insert_auxESt13_Bit_iteratorb'/>

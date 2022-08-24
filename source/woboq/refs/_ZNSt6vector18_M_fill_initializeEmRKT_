@@ -1,0 +1,2 @@
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='567' u='c' c='_ZNSt6vectorC1EmRKT_RKT0_'/>
+<def f='include/c++/12.2.0/bits/stl_vector.h' l='1698' ll='1704' type='void std::vector::_M_fill_initialize(std::vector::size_type __n, const std::vector::value_type &amp; __value)'/>

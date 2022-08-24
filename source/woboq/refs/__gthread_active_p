@@ -1,0 +1,8 @@
+<def f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='299' ll='303' type='int __gthread_active_p()'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='699' u='c' c='__gthread_once'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='732' u='c' c='__gthread_mutex_init_function'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='739' u='c' c='__gthread_mutex_destroy'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='748' u='c' c='__gthread_mutex_lock'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='757' u='c' c='__gthread_mutex_trylock'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='768' u='c' c='__gthread_mutex_timedlock'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='778' u='c' c='__gthread_mutex_unlock'/>

@@ -1,0 +1,4 @@
+<def f='include/c++/12.2.0/bits/stl_stack.h' l='216' ll='218' type='bool std::stack::empty() const'/>
+<doc f='include/c++/12.2.0/bits/stl_stack.h' l='213'>/**
+       *  Returns true if the %stack is empty.
+       */</doc>

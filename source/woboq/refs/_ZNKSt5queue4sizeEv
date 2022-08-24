@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/stl_queue.h' l='223' ll='225' type='std::queue::size_type std::queue::size() const'/>
+<use f='leetcode/934_shortest_bridge.cpp' l='45' u='c' c='_ZN8Solution14shortestBridgeERSt6vectorIS0_IiSaIiEESaIS2_EE'/>

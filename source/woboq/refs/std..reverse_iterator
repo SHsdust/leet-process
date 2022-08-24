@@ -1,0 +1,79 @@
+<def f='include/c++/12.2.0/bits/stl_iterator.h' l='132' ll='428'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='218' c='_ZNSt16reverse_iteratorC1ERKSt16reverse_iteratorITL0__E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='231' c='_ZNSt16reverse_iteratoraSERKSt16reverse_iteratorITL0__E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='444' c='_ZSteqRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='445' c='_ZSteqRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='451' c='_ZStltRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='452' c='_ZStltRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='458' c='_ZStneRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='459' c='_ZStneRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='465' c='_ZStgtRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='466' c='_ZStgtRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='472' c='_ZStleRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='473' c='_ZStleRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='479' c='_ZStgeRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='480' c='_ZStgeRKSt16reverse_iteratorIT_ES3_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='489' c='_ZSteqRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='490' c='_ZSteqRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='496' c='_ZStltRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='497' c='_ZStltRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='503' c='_ZStneRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='504' c='_ZStneRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='510' c='_ZStgtRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='511' c='_ZStgtRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='516' c='_ZStleRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='517' c='_ZStleRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='523' c='_ZStgeRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='524' c='_ZStgeRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='621' c='_ZStmiRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='622' c='_ZStmiRKSt16reverse_iteratorIT_ERKS_IT0_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='629' c='_ZStplNSt16reverse_iteratorIT_E15difference_typeERKS1_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='630' c='_ZStplNSt16reverse_iteratorIT_E15difference_typeERKS1_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='631' c='_ZStplNSt16reverse_iteratorIT_E15difference_typeERKS1_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='632' c='_ZStplNSt16reverse_iteratorIT_E15difference_typeERKS1_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='637' c='_ZSt23__make_reverse_iteratorT_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='639' c='_ZSt23__make_reverse_iteratorT_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='649' c='_ZSt21make_reverse_iteratorT_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='651' c='_ZSt21make_reverse_iteratorT_'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='665' c='_ZSt12__niter_baseSt16reverse_iteratorIT_E'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='670'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='677' c='_ZSt12__miter_baseSt16reverse_iteratorIT_E'/>
+<use f='include/c++/12.2.0/bits/range_access.h' l='193' c='_ZSt6rbeginRAT0__T_'/>
+<use f='include/c++/12.2.0/bits/range_access.h' l='195' c='_ZSt6rbeginRAT0__T_'/>
+<use f='include/c++/12.2.0/bits/range_access.h' l='204' c='_ZSt4rendRAT0__T_'/>
+<use f='include/c++/12.2.0/bits/range_access.h' l='206' c='_ZSt4rendRAT0__T_'/>
+<use f='include/c++/12.2.0/bits/range_access.h' l='215' c='_ZSt6rbeginSt16initializer_listIT_E'/>
+<use f='include/c++/12.2.0/bits/range_access.h' l='217' c='_ZSt6rbeginSt16initializer_listIT_E'/>
+<use f='include/c++/12.2.0/bits/range_access.h' l='226' c='_ZSt4rendSt16initializer_listIT_E'/>
+<use f='include/c++/12.2.0/bits/range_access.h' l='228' c='_ZSt4rendSt16initializer_listIT_E'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='135'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='136'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='456'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='457'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='710'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='711'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='322' c='_ZSt10__find_endT_S_T0_S0_St26bidirectional_iterator_tagS1_T1_'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='323' c='_ZSt10__find_endT_S_T0_S0_St26bidirectional_iterator_tagS1_T1_'/>
+<mbr r='std::reverse_iterator::current' t='_Iterator'/>
+<fun r='_ZNSt16reverse_iteratorC1Ev'/>
+<fun r='_ZNSt16reverse_iteratorC1ET_'/>
+<fun r='_ZNSt16reverse_iteratorC1ERKSt16reverse_iteratorIT_E'/>
+<fun r='_ZNSt16reverse_iteratoraSERKSt16reverse_iteratorIT_E'/>
+<fun r='_ZNSt16reverse_iteratorC1ERKSt16reverse_iteratorITL0__E'/>
+<fun r='_ZNSt16reverse_iteratoraSERKSt16reverse_iteratorITL0__E'/>
+<fun r='_ZNKSt16reverse_iterator4baseEv'/>
+<fun r='_ZNKSt16reverse_iteratordeEv'/>
+<fun r='_ZNKSt16reverse_iteratorptEv'/>
+<fun r='_ZNSt16reverse_iteratorppEv'/>
+<fun r='_ZNSt16reverse_iteratorppEi'/>
+<fun r='_ZNSt16reverse_iteratormmEv'/>
+<fun r='_ZNSt16reverse_iteratormmEi'/>
+<fun r='_ZNKSt16reverse_iteratorplENSt15iterator_traitsIT_E15difference_typeE'/>
+<fun r='_ZNSt16reverse_iteratorpLENSt15iterator_traitsIT_E15difference_typeE'/>
+<fun r='_ZNKSt16reverse_iteratormiENSt15iterator_traitsIT_E15difference_typeE'/>
+<fun r='_ZNSt16reverse_iteratormIENSt15iterator_traitsIT_E15difference_typeE'/>
+<fun r='_ZNKSt16reverse_iteratorixENSt15iterator_traitsIT_E15difference_typeE'/>
+<fun r='_ZNSt16reverse_iterator13_S_to_pointerEPTL0__'/>
+<fun r='_ZNSt16reverse_iterator13_S_to_pointerETL0__'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='821'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='822'/>

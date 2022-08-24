@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/bits/exception_ptr.h' l='164' ll='167' type='bool std::__exception_ptr::operator==(const std::__exception_ptr::exception_ptr &amp; __x, const std::__exception_ptr::exception_ptr &amp; __y)'/>

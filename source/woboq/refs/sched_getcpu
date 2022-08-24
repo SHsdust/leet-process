@@ -1,0 +1,2 @@
+<dec f='include/bits/sched.h' l='93' type='int sched_getcpu()'/>
+<doc f='include/bits/sched.h' l='92'>/* Get index of currently used CPU.  */</doc>

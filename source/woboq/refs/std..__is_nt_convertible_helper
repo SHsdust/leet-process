@@ -1,0 +1,6 @@
+<def f='include/c++/12.2.0/type_traits' l='1494' ll='1496'/>
+<def f='include/c++/12.2.0/type_traits' l='1500' ll='1517'/>
+<use f='include/c++/12.2.0/type_traits' l='1523'/>
+<fun r='_ZNSt26__is_nt_convertible_helperIT_T0_Lb0EE10__test_auxETL0__'/>
+<fun r='_ZNSt26__is_nt_convertible_helperIT_T0_Lb0EE6__testEi'/>
+<fun r='_ZNSt26__is_nt_convertible_helperIT_T0_Lb0EE6__testEz'/>

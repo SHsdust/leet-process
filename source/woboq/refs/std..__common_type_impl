@@ -1,0 +1,4 @@
+<def f='include/c++/12.2.0/type_traits' l='2313' ll='2318'/>
+<inh f='include/c++/12.2.0/type_traits' l='2270' c='std::__do_common_type_impl'/>
+<def f='include/c++/12.2.0/type_traits' l='2320' ll='2327'/>
+<use f='include/c++/12.2.0/type_traits' l='2332'/>

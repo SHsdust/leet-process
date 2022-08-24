@@ -1,0 +1,2 @@
+<dec f='include/stdlib.h' l='542' type='void arc4random_buf(void * __buf, size_t __size)'/>
+<doc f='include/stdlib.h' l='541'>/* Fill the buffer with random data.  */</doc>

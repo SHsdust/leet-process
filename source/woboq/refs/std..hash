@@ -1,0 +1,120 @@
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='72'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='95' c='_ZNKSt11__hash_enumIT_Lb1EEclES0_'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='102' ll='103'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='106' ll='112'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='125' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='128' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='131' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='134' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='137' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='145' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='148' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='151' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='154' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='157' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='160' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='163' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='166' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='169' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='172' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='176' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='178' macro='1'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='117'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='239' ll='248'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='240'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='251' ll='260'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='252'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/functional_hash.h' l='263' ll='269'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='264'/>
+<use f='include/c++/12.2.0/bits/functional_hash.h' l='292'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/basic_string.h' l='4234' ll='4241'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4235'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4244'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/basic_string.h' l='4248' ll='4256'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4249'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4259'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/basic_string.h' l='4281' ll='4289'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4282'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4292'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/bits/basic_string.h' l='4296' ll='4304'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4297'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='4307'/>
+<inh f='include/c++/12.2.0/bits/functional_hash.h' l='51' c='std::__hash_base'/>
+<def f='include/c++/12.2.0/system_error' l='496' ll='506'/>
+<use f='include/c++/12.2.0/system_error' l='497'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='697'/>
+<def f='include/c++/12.2.0/bits/stl_bvector.h' l='1573' ll='1579'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='998' c='_ZNKSt4hashISt6vectorIbT_EEclERKS2_'/>
+<size>1</size>
+<doc f='include/c++/12.2.0/bits/basic_string.h' l='4233'>/// std::hash specialization for string.</doc>
+<doc f='include/c++/12.2.0/bits/basic_string.h' l='4247'>/// std::hash specialization for wstring.</doc>
+<doc f='include/c++/12.2.0/bits/basic_string.h' l='4280'>/// std::hash specialization for u16string.</doc>
+<doc f='include/c++/12.2.0/bits/basic_string.h' l='4295'>/// std::hash specialization for u32string.</doc>
+<doc f='include/c++/12.2.0/bits/functional_hash.h' l='105'>/// Partial specializations for pointer types.</doc>
+<doc f='include/c++/12.2.0/bits/functional_hash.h' l='238'>/// Specialization for float.</doc>
+<doc f='include/c++/12.2.0/bits/functional_hash.h' l='250'>/// Specialization for double.</doc>
+<doc f='include/c++/12.2.0/bits/functional_hash.h' l='262'>/// Specialization for long double.</doc>
+<doc f='include/c++/12.2.0/system_error' l='493'>// DR 1182.
+  /// std::hash specialization for error_code.
+  /// @relates error_code</doc>
+<doc f='include/c++/12.2.0/bits/stl_bvector.h' l='1571'>// DR 1182.
+  /// std::hash specialization for vector&lt;bool&gt;.</doc>
+<fun r='_ZNKSt4hashIPT_EclES1_'/>
+<fun r='_ZNKSt4hashIfEclEf'/>
+<fun r='_ZNKSt4hashIdEclEd'/>
+<fun r='_ZNKSt4hashIeEclEe'/>
+<fun r='_ZNKSt4hashINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEclERKS5_'/>
+<fun r='_ZNKSt4hashINSt7__cxx1112basic_stringIwSt11char_traitsIwESaIwEEEEclERKS5_'/>
+<fun r='_ZNKSt4hashINSt7__cxx1112basic_stringIDsSt11char_traitsIDsESaIDsEEEEclERKS5_'/>
+<fun r='_ZNKSt4hashINSt7__cxx1112basic_stringIDiSt11char_traitsIDiESaIDiEEEEclERKS5_'/>
+<fun r='_ZNKSt4hashISt10error_codeEclERKS0_'/>
+<fun r='_ZNKSt4hashISt6vectorIbT_EEclERKS2_'/>
+<fun r='_ZNKSt4hashISt6vectorIbT_EEclERKS2_'/>
+<use f='include/c++/12.2.0/bits/unordered_set.h' l='43'/>
+<use f='include/c++/12.2.0/bits/unordered_set.h' l='58'/>
+<use f='include/c++/12.2.0/bits/unordered_set.h' l='94'/>
+<use f='include/c++/12.2.0/bits/unordered_set.h' l='960'/>
+<use f='include/c++/12.2.0/bits/unordered_map.h' l='44'/>
+<use f='include/c++/12.2.0/bits/unordered_map.h' l='61'/>
+<use f='include/c++/12.2.0/bits/unordered_map.h' l='99'/>
+<use f='include/c++/12.2.0/bits/unordered_map.h' l='1242'/>

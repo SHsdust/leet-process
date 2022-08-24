@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/type_traits' l='841' type='decltype(__declval&lt;_Tp&gt;(0)) std::declval()'/>
+<def f='include/c++/12.2.0/type_traits' l='2393' ll='2398' type='decltype(__declval&lt;_Tp&gt;(0)) std::declval()'/>

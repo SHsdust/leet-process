@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/hashtable_policy.h' l='1952' type='void std::__detail::_Hashtable_alloc::_M_deallocate_buckets(std::__detail::_Hashtable_alloc::__buckets_ptr , std::size_t __bkt_count)'/>
+<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='2023' ll='2033' type='void std::__detail::_Hashtable_alloc::_M_deallocate_buckets(std::__detail::_Hashtable_alloc::__buckets_ptr __bkts, std::size_t __bkt_count)'/>

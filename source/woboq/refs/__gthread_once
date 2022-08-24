@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='696' ll='703' type='int __gthread_once(__gthread_once_t * __once, void (*)() __func)'/>

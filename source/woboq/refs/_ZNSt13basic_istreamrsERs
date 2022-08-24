@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/istream' l='172' type='std::basic_istream::__istream_type &amp; std::basic_istream::operator&gt;&gt;(short &amp; __n)'/>
+<def f='include/c++/12.2.0/bits/istream.tcc' l='121' ll='164' type='basic_istream&lt;_CharT, _Traits&gt; &amp; std::basic_istream::operator&gt;&gt;(short &amp; __n)'/>

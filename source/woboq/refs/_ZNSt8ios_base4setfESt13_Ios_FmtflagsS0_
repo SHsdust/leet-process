@@ -1,0 +1,19 @@
+<def f='include/c++/12.2.0/bits/ios_base.h' l='701' ll='708' type='std::ios_base::fmtflags std::ios_base::setf(std::ios_base::fmtflags __fmtfl, std::ios_base::fmtflags __mask)'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1032' u='c' c='_ZSt8internalRSt8ios_base'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1040' u='c' c='_ZSt4leftRSt8ios_base'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1048' u='c' c='_ZSt5rightRSt8ios_base'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1057' u='c' c='_ZSt3decRSt8ios_base'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1065' u='c' c='_ZSt3hexRSt8ios_base'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1073' u='c' c='_ZSt3octRSt8ios_base'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1082' u='c' c='_ZSt5fixedRSt8ios_base'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1090' u='c' c='_ZSt10scientificRSt8ios_base'/>
+<use f='include/c++/12.2.0/bits/ios_base.h' l='1102' u='c' c='_ZSt8hexfloatRSt8ios_base'/>
+<doc f='include/c++/12.2.0/bits/ios_base.h' l='692'>/**
+     *  @brief  Setting new format flags.
+     *  @param  __fmtfl  Additional flags to set.
+     *  @param  __mask  The flags mask for @a fmtfl.
+     *  @return  The previous format control flags.
+     *
+     *  This function clears @a mask in the format flags, then sets
+     *  @a fmtfl @c &amp; @a mask.  An example mask is @c ios_base::adjustfield.
+    */</doc>

@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='886'/>
+<doc f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='885'>/* Defined if shared_ptr reference counting should use atomic operations. */</doc>

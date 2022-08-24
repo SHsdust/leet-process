@@ -1,0 +1,10 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='440'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_funcs.h' l='76' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='443' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='2111' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1514' u='c'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='986' u='c'/>
+<use f='include/c++/12.2.0/bits/unordered_set.h' l='1830' u='c'/>
+<use f='include/c++/12.2.0/bits/unordered_map.h' l='2160' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='2372' u='c'/>
+<use f='include/c++/12.2.0/bits/deque.tcc' l='975' u='c'/>

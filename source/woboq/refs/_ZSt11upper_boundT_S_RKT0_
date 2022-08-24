@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='680' type='_FIter std::upper_bound(_FIter , _FIter , const _Tp &amp; )'/>
+<def f='include/c++/12.2.0/bits/stl_algo.h' l='2049' ll='2061' type='_ForwardIterator std::upper_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &amp; __val)'/>

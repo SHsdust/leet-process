@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/new_allocator.h' l='141' ll='159' type='void std::__new_allocator::deallocate(_Tp * __p, std::__new_allocator::size_type __n)'/>
+<doc f='include/c++/12.2.0/bits/new_allocator.h' l='140'>// __p is not permitted to be a null pointer.</doc>

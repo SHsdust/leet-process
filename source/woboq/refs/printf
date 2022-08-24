@@ -1,0 +1,6 @@
+<dec f='include/stdio.h' l='356' type='int printf(const char *__restrict __format)'/>
+<doc f='include/stdio.h' l='352'>/* Write formatted output to stdout.
+
+   This function is a possible cancellation point and therefore not
+   marked with __THROW.  */</doc>
+<use f='leetcode/4_median_of_2_sorted_array.cpp' l='18' u='c' c='main'/>

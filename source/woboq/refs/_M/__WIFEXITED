@@ -1,0 +1,2 @@
+<dec f='include/bits/waitstatus.h' l='37'/>
+<doc f='include/bits/waitstatus.h' l='36'>/* Nonzero if STATUS indicates normal termination.  */</doc>

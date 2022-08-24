@@ -1,0 +1,8 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='90'/>
+<use f='include/c++/12.2.0/exception' l='82' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='1437' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='450' u='c'/>
+<use f='include/c++/12.2.0/streambuf' l='776' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1152' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='68' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='4521' u='c'/>

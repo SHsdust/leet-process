@@ -1,0 +1,25 @@
+<use f='include/c++/12.2.0/type_traits' l='639'/>
+<def f='include/c++/12.2.0/type_traits' l='1429' ll='1435'/>
+<use f='include/c++/12.2.0/type_traits' l='2504'/>
+<use f='include/c++/12.2.0/bits/utility.h' l='57'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='427'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='428'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1600' c='_ZSt8__equal4T_S_T0_S0_'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1600' c='_ZSt8__equal4T_S_T0_S0_'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1627' c='_ZSt8__equal4T_S_T0_S0_T1_'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1627' c='_ZSt8__equal4T_S_T0_S0_T1_'/>
+<use f='include/c++/12.2.0/bits/refwrap.h' l='319'/>
+<use f='include/c++/12.2.0/ext/alloc_traits.h' l='73'/>
+<use f='include/c++/12.2.0/ext/string_conversions.h' l='85' c='__gnu_cxx::__stoa'/>
+<use f='include/c++/12.2.0/ostream' l='732'/>
+<use f='include/c++/12.2.0/bits/stl_uninitialized.h' l='1088' c='_ZSt14__relocate_a_1T_S_T0_RT1_'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='435'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='3498' c='_ZSt16__is_permutationT_S_T0_S0_T1_'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='3499' c='_ZSt16__is_permutationT_S_T0_S0_T1_'/>
+<use f='include/c++/12.2.0/bits/uses_allocator.h' l='48'/>
+<use f='include/c++/12.2.0/tuple' l='667' c='_ZNSt5tuple12__valid_argsEv'/>
+<use f='include/c++/12.2.0/tuple' l='1043' c='_ZNSt5tupleIJT_T0_EE14__is_alloc_argEv'/>
+<use f='include/c++/12.2.0/bits/hashtable.h' l='203'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='162'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='163'/>
+<use f='include/c++/12.2.0/bits/stl_deque.h' l='800'/>

@@ -1,0 +1,11 @@
+_ZNSt7__cxx1112basic_string8pop_backEv|std::basic_string::pop_back
+_ZNKSt26pointer_to_binary_functionclET_T0_|std::pointer_to_binary_function::operator()
+_ZNKSt25pointer_to_unary_functionclET_|std::pointer_to_unary_function::operator()
+_ZSt8pop_heapT_S_|std::pop_heap
+_ZNSt6vector8pop_backEv|std::vector::pop_back
+_ZSt3powff|std::pow
+_ZNSt5deque8pop_backEv|std::deque::pop_back
+_ZNSt5deque9pop_frontEv|std::deque::pop_front
+_ZNSt5stack3popEv|std::stack::pop
+_ZNSt14priority_queue3popEv|std::priority_queue::pop
+_ZNSt5queue3popEv|std::queue::pop

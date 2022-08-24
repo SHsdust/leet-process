@@ -1,0 +1,10 @@
+<dec f='include/c++/12.2.0/ext/numeric_traits.h' l='71' type='const int'/>
+<use f='include/c++/12.2.0/ext/numeric_traits.h' l='76' u='r'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='90' ll='91' type='const int'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='91' type='const int'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='91' type='const int'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='91' type='const int'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='91' type='const int'/>
+<def f='include/c++/12.2.0/ext/numeric_traits.h' l='91' type='const int'/>
+<use f='include/c++/12.2.0/bits/locale_classes.tcc' l='263' u='r' c='_ZNKSt7__cxx117collate7do_hashEPKT_S3_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='573' u='r' c='_ZNSt8__detail6__clp2Em'/>

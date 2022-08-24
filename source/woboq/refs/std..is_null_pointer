@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/type_traits' l='563' ll='565'/>
+<use f='include/c++/12.2.0/type_traits' l='571'/>
+<use f='include/c++/12.2.0/type_traits' l='593'/>
+<use f='include/c++/12.2.0/type_traits' l='610'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='469'/>

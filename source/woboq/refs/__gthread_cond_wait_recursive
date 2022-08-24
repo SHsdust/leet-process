@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='875' ll='880' type='int __gthread_cond_wait_recursive(__gthread_cond_t * __cond, __gthread_recursive_mutex_t * __mutex)'/>

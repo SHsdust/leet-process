@@ -1,0 +1,4 @@
+<dec f='include/c++/12.2.0/bits/functexcept.h' l='66' type='void std::__throw_logic_error(const char * )'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='618' u='c' c='_ZNSt7__cxx1112basic_stringC1EPKT_N9__gnu_cxx14__alloc_traitsINS5_IT1_NS6_10value_typeEE6rebindIS1_E5otherENSA_5other10value_typeEE9size_typeERKS6_'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='639' u='c' c='_ZNSt7__cxx1112basic_stringC1EPKT_RKT1_'/>
+<doc f='include/c++/12.2.0/bits/functexcept.h' l='64'>// Helpers for exception objects in &lt;stdexcept&gt;</doc>

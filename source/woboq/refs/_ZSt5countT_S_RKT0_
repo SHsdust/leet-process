@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='702' type='typename iterator_traits&lt;_IIter&gt;::difference_type std::count(_IIter , _IIter , const _Tp &amp; )'/>
+<def f='include/c++/12.2.0/bits/stl_algo.h' l='4025' ll='4036' type='typename iterator_traits&lt;_InputIterator&gt;::difference_type std::count(_InputIterator __first, _InputIterator __last, const _Tp &amp; __value)'/>

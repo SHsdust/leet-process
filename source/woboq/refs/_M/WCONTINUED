@@ -1,0 +1,2 @@
+<dec f='include/bits/waitflags.h' l='32'/>
+<use f='include/bits/waitstatus.h' l='48' u='a'/>

@@ -1,0 +1,8 @@
+<def f='include/c++/12.2.0/type_traits' l='2722' ll='2730'/>
+<ovr f='include/c++/12.2.0/type_traits' l='2746' c='std::__is_swappable_impl'/>
+<use f='include/c++/12.2.0/type_traits' l='2747'/>
+<ovr f='include/c++/12.2.0/type_traits' l='2844' c='std::__is_swappable_with_impl'/>
+<use f='include/c++/12.2.0/type_traits' l='2845'/>
+<size>1</size>
+<fun r='_ZNSt19__swappable_details22__do_is_swappable_impl6__testEi'/>
+<fun r='_ZNSt19__swappable_details22__do_is_swappable_impl6__testEz'/>

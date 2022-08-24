@@ -1,0 +1,12 @@
+<dec f='include/c++/12.2.0/bits/basic_string.h' l='217' type='_CharT[_S_local_capacity + 1]'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='241' u='r' c='_ZNSt7__cxx1112basic_string13_M_local_dataEv'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='252' u='r' c='_ZNKSt7__cxx1112basic_string13_M_local_dataEv'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='675' c='_ZNSt7__cxx1112basic_stringC1EONS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='714' c='_ZNSt7__cxx1112basic_stringC1EONS_12basic_stringIT_T0_T1_EERKS4_'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='75' c='_ZNSt7__cxx1112basic_string4swapERNS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='77' c='_ZNSt7__cxx1112basic_string4swapERNS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='82' c='_ZNSt7__cxx1112basic_string4swapERNS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='90' c='_ZNSt7__cxx1112basic_string4swapERNS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='100' c='_ZNSt7__cxx1112basic_string4swapERNS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='111' c='_ZNSt7__cxx1112basic_string4swapERNS_12basic_stringIT_T0_T1_EE'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='114' c='_ZNSt7__cxx1112basic_string4swapERNS_12basic_stringIT_T0_T1_EE'/>

@@ -1,0 +1,12 @@
+<def f='include/c++/12.2.0/streambuf' l='454' ll='456' type='std::streamsize std::basic_streambuf::sputn(const std::basic_streambuf::char_type * __s, std::streamsize __n)'/>
+<doc f='include/c++/12.2.0/streambuf' l='443'>/**
+       *  @brief  Entry point for all single-character output functions.
+       *  @param  __s  A buffer read area.
+       *  @param  __n  A count.
+       *
+       *  One of two public output functions.
+       *
+       *
+       *  Returns xsputn(__s,__n).  The effect is to write @a __s[0] through
+       *  @a __s[__n-1] to the output sequence, if possible.
+      */</doc>

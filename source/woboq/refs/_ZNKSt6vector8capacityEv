@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/bits/stl_vector.h' l='1072' ll='1075' type='std::vector::size_type std::vector::capacity() const'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='230' u='c' c='_ZNSt6vectoraSERKSt6vectorIT_T0_E'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='267' u='c' c='_ZNSt6vector14_M_fill_assignEmRKT_'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='315' u='c' c='_ZNSt6vector13_M_assign_auxETL0__S0_St20forward_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='706' u='c' c='_ZNSt6vector16_M_shrink_to_fitEv'/>

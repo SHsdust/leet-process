@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/stl_vector.h' l='1599' ll='1601' type='void std::vector::clear()'/>
+<use f='include/c++/12.2.0/bits/stl_vector.h' l='1673' u='c' c='_ZNSt6vector19_M_range_initializeETL0__S0_St18input_iterator_tag'/>

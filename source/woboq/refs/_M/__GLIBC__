@@ -1,0 +1,10 @@
+<dec f='include/features.h' l='481'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='47' u='c'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='47' u='c'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='79' u='c'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='79' u='c'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='104' u='c'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h' l='104' u='c'/>
+<use f='include/c++/12.2.0/cwctype' l='45' u='c'/>
+<doc f='include/features.h' l='479'>/* Major and minor version number of the GNU C library package.  Use
+   these macros to test for features in specific releases.  */</doc>

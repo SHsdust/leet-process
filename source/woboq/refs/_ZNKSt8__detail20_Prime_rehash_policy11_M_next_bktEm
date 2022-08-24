@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/hashtable_policy.h' l='513' type='std::size_t std::__detail::_Prime_rehash_policy::_M_next_bkt(std::size_t __n) const'/>
+<doc f='include/c++/12.2.0/bits/hashtable_policy.h' l='511'>// Return a bucket size no smaller than n.</doc>

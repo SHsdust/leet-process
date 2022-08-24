@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/bits/hashtable.h' l='710' ll='715' type='std::_Hashtable::const_local_iterator std::_Hashtable::cbegin(std::_Hashtable::size_type __bkt) const'/>
+<doc f='include/c++/12.2.0/bits/hashtable.h' l='709'>// DR 691.</doc>

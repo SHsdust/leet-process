@@ -1,0 +1,11 @@
+<dec f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++config.h' l='338'/>
+<use f='include/c++/12.2.0/bits/stringfwd.h' l='68' u='c'/>
+<use f='include/c++/12.2.0/iosfwd' l='92' u='c'/>
+<use f='include/c++/12.2.0/bits/localefwd.h' l='161' u='c'/>
+<use f='include/c++/12.2.0/bits/localefwd.h' l='166' u='c'/>
+<use f='include/c++/12.2.0/bits/localefwd.h' l='176' u='c'/>
+<use f='include/c++/12.2.0/bits/localefwd.h' l='195' u='c'/>
+<use f='include/c++/12.2.0/bits/localefwd.h' l='204' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='56' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='3966' u='c'/>
+<use f='include/c++/12.2.0/bits/locale_facets.h' l='1661' u='c'/>

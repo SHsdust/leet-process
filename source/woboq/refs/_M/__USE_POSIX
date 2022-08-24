@@ -1,0 +1,10 @@
+<dec f='include/features.h' l='325'/>
+<use f='include/bits/time.h' l='36' u='a'/>
+<use f='include/time.h' l='150' u='a'/>
+<use f='include/time.h' l='192' u='a'/>
+<use f='include/time.h' l='222' u='a'/>
+<use f='include/bits/stdio_lim.h' l='29' u='a'/>
+<use f='include/stdio.h' l='291' u='a'/>
+<use f='include/stdio.h' l='807' u='a'/>
+<use f='include/stdio.h' l='835' u='a'/>
+<use f='include/string.h' l='365' u='a'/>

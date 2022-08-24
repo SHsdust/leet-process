@@ -1,0 +1,3 @@
+<def f='include/c++/12.2.0/bits/ios_base.h' l='916' ll='921' type='std::ios_base &amp; std::boolalpha(std::ios_base &amp; __base)'/>
+<doc f='include/c++/12.2.0/bits/ios_base.h' l='914'>// [27.4.5.1] fmtflags manipulators
+  /// Calls base.setf(ios_base::boolalpha).</doc>

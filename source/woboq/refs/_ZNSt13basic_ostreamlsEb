@@ -1,0 +1,7 @@
+<def f='include/c++/12.2.0/ostream' l='173' ll='175' type='std::basic_ostream::__ostream_type &amp; std::basic_ostream::operator&lt;&lt;(bool __n)'/>
+<use f='leetcode/605_can_place_flowers.cpp' l='58' u='c' c='main'/>
+<use f='leetcode/633_sum_of_square_nums.cpp' l='25' u='c' c='main'/>
+<use f='leetcode/665_non_decreasing_array.cpp' l='29' u='c' c='main'/>
+<use f='leetcode/680_valid_palindrome_ii.cpp' l='38' u='c' c='main'/>
+<use f='leetcode/79_word_search.cpp' l='46' u='c' c='main'/>
+<use f='leetcode/81_search_in_rotated_sorted_array.cpp' l='40' u='c' c='main'/>

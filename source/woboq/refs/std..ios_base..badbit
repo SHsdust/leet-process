@@ -1,0 +1,79 @@
+<dec f='include/c++/12.2.0/bits/ios_base.h' l='421' type='const std::ios_base::iostate'/>
+<use f='include/c++/12.2.0/bits/basic_ios.h' l='202' u='r' c='_ZNKSt9basic_ios4failEv'/>
+<use f='include/c++/12.2.0/bits/basic_ios.h' l='212' c='_ZNKSt9basic_ios3badEv'/>
+<use f='include/c++/12.2.0/bits/basic_ios.tcc' l='46' u='r' c='_ZNSt9basic_ios5clearESt12_Ios_Iostate'/>
+<use f='include/c++/12.2.0/bits/basic_ios.tcc' l='152' u='r' c='_ZNSt9basic_ios4initEPSt15basic_streambufIT_T0_E'/>
+<use f='include/c++/12.2.0/ostream' l='470' c='_ZNSt13basic_ostream6sentryD1Ev'/>
+<use f='include/c++/12.2.0/ostream' l='601' c='_ZStlsRSt13basic_ostreamIT_T0_EPKS0_'/>
+<use f='include/c++/12.2.0/ostream' l='618' c='_ZStlsRSt13basic_ostreamIcT_EPKc'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='74' u='r' c='_ZNSt13basic_ostream9_M_insertETL0__'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='78' c='_ZNSt13basic_ostream9_M_insertETL0__'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='82' c='_ZNSt13basic_ostream9_M_insertETL0__'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='133' c='_ZNSt13basic_ostreamlsEPSt15basic_streambufIT_T0_E'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='140' u='r' c='_ZNSt13basic_ostreamlsEPSt15basic_streambufIT_T0_E'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='165' u='r' c='_ZNSt13basic_ostream3putET_'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='169' c='_ZNSt13basic_ostream3putET_'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='173' c='_ZNSt13basic_ostream3putET_'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='199' u='r' c='_ZNSt13basic_ostream5writeEPKT_l'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='203' c='_ZNSt13basic_ostream5writeEPKT_l'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='207' c='_ZNSt13basic_ostream5writeEPKT_l'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='209' c='_ZNSt13basic_ostream5writeEPKT_l'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='233' u='r' c='_ZNSt13basic_ostream5flushEv'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='237' c='_ZNSt13basic_ostream5flushEv'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='241' c='_ZNSt13basic_ostream5flushEv'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='305' c='_ZStlsRSt13basic_ostreamIT_T0_EPKc'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='328' c='_ZStlsRSt13basic_ostreamIT_T0_EPKc'/>
+<use f='include/c++/12.2.0/bits/ostream.tcc' l='332' c='_ZStlsRSt13basic_ostreamIT_T0_EPKc'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='77' c='_ZNSt13basic_istream6sentryC1ERSt13basic_istreamIT_T0_Eb'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='81' c='_ZNSt13basic_istream6sentryC1ERSt13basic_istreamIT_T0_Eb'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='110' c='_ZNSt13basic_istream10_M_extractERTL0__'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='114' c='_ZNSt13basic_istream10_M_extractERTL0__'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='155' c='_ZNSt13basic_istreamrsERs'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='159' c='_ZNSt13basic_istreamrsERs'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='200' c='_ZNSt13basic_istreamrsERi'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='204' c='_ZNSt13basic_istreamrsERi'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='266' c='_ZNSt13basic_istream3getEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='270' c='_ZNSt13basic_istream3getEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='303' c='_ZNSt13basic_istream3getERT_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='307' c='_ZNSt13basic_istream3getERT_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='346' c='_ZNSt13basic_istream3getEPT_lS0_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='350' c='_ZNSt13basic_istream3getEPT_lS0_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='401' c='_ZNSt13basic_istream3getERSt15basic_streambufIT_T0_ES1_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='405' c='_ZNSt13basic_istream3getERSt15basic_streambufIT_T0_ES1_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='454' c='_ZNSt13basic_istream7getlineEPT_lS0_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='458' c='_ZNSt13basic_istream7getlineEPT_lS0_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='496' c='_ZNSt13basic_istream6ignoreEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='500' c='_ZNSt13basic_istream6ignoreEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='566' c='_ZNSt13basic_istream6ignoreEl'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='570' c='_ZNSt13basic_istream6ignoreEl'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='643' c='_ZNSt13basic_istream6ignoreElNT0_8int_typeE'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='647' c='_ZNSt13basic_istream6ignoreElNT0_8int_typeE'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='673' c='_ZNSt13basic_istream4peekEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='677' c='_ZNSt13basic_istream4peekEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='702' c='_ZNSt13basic_istream4readEPT_l'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='706' c='_ZNSt13basic_istream4readEPT_l'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='734' c='_ZNSt13basic_istream8readsomeEPT_l'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='738' c='_ZNSt13basic_istream8readsomeEPT_l'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='765' u='r' c='_ZNSt13basic_istream7putbackET_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='769' c='_ZNSt13basic_istream7putbackET_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='773' c='_ZNSt13basic_istream7putbackET_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='800' u='r' c='_ZNSt13basic_istream5ungetEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='804' c='_ZNSt13basic_istream5ungetEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='808' c='_ZNSt13basic_istream5ungetEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='833' u='r' c='_ZNSt13basic_istream4syncEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='840' c='_ZNSt13basic_istream4syncEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='844' c='_ZNSt13basic_istream4syncEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='870' c='_ZNSt13basic_istream5tellgEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='874' c='_ZNSt13basic_istream5tellgEv'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='907' c='_ZNSt13basic_istream5seekgENT0_8pos_typeE'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='911' c='_ZNSt13basic_istream5seekgENT0_8pos_typeE'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='946' c='_ZNSt13basic_istream5seekgENT0_8off_typeESt12_Ios_Seekdir'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='950' c='_ZNSt13basic_istream5seekgENT0_8off_typeESt12_Ios_Seekdir'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='979' c='_ZStrsRSt13basic_istreamIT_T0_ERS0_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='983' c='_ZStrsRSt13basic_istreamIT_T0_ERS0_'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='1040' c='_ZSt17__istream_extractRSt13basic_istreamIT_T0_EPS0_l'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='1044' c='_ZSt17__istream_extractRSt13basic_istreamIT_T0_EPS0_l'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='1089' c='_ZSt2wsRSt13basic_istreamIT_T0_E'/>
+<use f='include/c++/12.2.0/bits/istream.tcc' l='1094' c='_ZSt2wsRSt13basic_istreamIT_T0_E'/>
+<doc f='include/c++/12.2.0/bits/ios_base.h' l='419'>/// Indicates a loss of integrity in an input or output sequence (such
+    /// as an irrecoverable read error from a file).</doc>

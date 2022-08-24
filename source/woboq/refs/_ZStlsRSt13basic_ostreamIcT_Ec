@@ -1,0 +1,6 @@
+<def f='include/c++/12.2.0/ostream' l='522' ll='529' type='basic_ostream&lt;char, _Traits&gt; &amp; std::operator&lt;&lt;(basic_ostream&lt;char, _Traits&gt; &amp; __out, char __c)'/>
+<use f='leetcode/46_Permutations.cpp' l='37' u='c' c='main'/>
+<use f='leetcode/51_n_queens.cpp' l='39' u='c' c='main'/>
+<use f='leetcode/51_n_queens.cpp' l='41' u='c' c='main'/>
+<use f='leetcode/51_n_queens.cpp' l='47' u='c' c='main'/>
+<use f='leetcode/77_Combinations.cpp' l='37' u='c' c='main'/>

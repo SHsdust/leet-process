@@ -1,0 +1,4 @@
+<dec f='include/c++/12.2.0/debug/debug.h' l='68'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1117' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='757' u='c'/>
+<use f='include/c++/12.2.0/bits/stl_algo.h' l='758' u='c'/>

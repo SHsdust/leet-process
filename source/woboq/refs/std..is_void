@@ -1,0 +1,17 @@
+<use f='include/c++/12.2.0/type_traits' l='251' c='_ZSt26__is_complete_or_unboundedT_'/>
+<def f='include/c++/12.2.0/type_traits' l='285' ll='287'/>
+<use f='include/c++/12.2.0/type_traits' l='592'/>
+<use f='include/c++/12.2.0/type_traits' l='600'/>
+<use f='include/c++/12.2.0/type_traits' l='884'/>
+<use f='include/c++/12.2.0/type_traits' l='938'/>
+<use f='include/c++/12.2.0/type_traits' l='1451'/>
+<use f='include/c++/12.2.0/type_traits' l='1455'/>
+<use f='include/c++/12.2.0/type_traits' l='1492'/>
+<use f='include/c++/12.2.0/type_traits' l='1495'/>
+<use f='include/c++/12.2.0/type_traits' l='2067'/>
+<use f='include/c++/12.2.0/type_traits' l='2908'/>
+<use f='include/c++/12.2.0/bits/ptr_traits.h' l='95'/>
+<use f='include/c++/12.2.0/bits/invoke.h' l='121'/>
+<use f='include/c++/12.2.0/bits/invoke.h' l='127'/>
+<use f='include/c++/12.2.0/tuple' l='711'/>
+<use f='include/c++/12.2.0/tuple' l='718'/>

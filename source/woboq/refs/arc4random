@@ -1,0 +1,2 @@
+<dec f='include/stdlib.h' l='538' type='__uint32_t arc4random()'/>
+<doc f='include/stdlib.h' l='537'>/* Return a random integer between zero and 2**32-1 (inclusive).  */</doc>

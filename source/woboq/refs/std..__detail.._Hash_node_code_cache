@@ -1,0 +1,21 @@
+<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='315' ll='316'/>
+<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='321' ll='323'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='322'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='328'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1326' c='_ZNKSt8__detail15_Hash_code_base13_M_store_codeERNS_21_Hash_node_code_cacheILb0EEEm'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1330' c='_ZNKSt8__detail15_Hash_code_base12_M_copy_codeERNS_21_Hash_node_code_cacheILb0EEERKS2_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1331' c='_ZNKSt8__detail15_Hash_code_base12_M_copy_codeERNS_21_Hash_node_code_cacheILb0EEERKS2_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1335' c='_ZNKSt8__detail15_Hash_code_base13_M_store_codeERNS_21_Hash_node_code_cacheILb1EEEm'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1339' c='_ZNKSt8__detail15_Hash_code_base12_M_copy_codeERNS_21_Hash_node_code_cacheILb1EEERKS2_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1340' c='_ZNKSt8__detail15_Hash_code_base12_M_copy_codeERNS_21_Hash_node_code_cacheILb1EEERKS2_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1656' c='_ZNSt8__detail15_Hashtable_base9_S_equalsENS_15_Hash_code_baseIT_T0_T1_T3_T4_T5_XsrNT6_13__hash_cachedE5valueEE11__hash_codeERKNS_21_Hash_node_code_cacheILb0EEE'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1660' c='_ZNSt8__detail15_Hashtable_base14_S_node_equalsERKNS_21_Hash_node_code_cacheILb0EEES4_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1661' c='_ZNSt8__detail15_Hashtable_base14_S_node_equalsERKNS_21_Hash_node_code_cacheILb0EEES4_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1665' c='_ZNSt8__detail15_Hashtable_base9_S_equalsENS_15_Hash_code_baseIT_T0_T1_T3_T4_T5_XsrNT6_13__hash_cachedE5valueEE11__hash_codeERKNS_21_Hash_node_code_cacheILb1EEE'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1669' c='_ZNSt8__detail15_Hashtable_base14_S_node_equalsERKNS_21_Hash_node_code_cacheILb1EEES4_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1670' c='_ZNSt8__detail15_Hashtable_base14_S_node_equalsERKNS_21_Hash_node_code_cacheILb1EEES4_'/>
+<size>8</size>
+<doc f='include/c++/12.2.0/bits/hashtable_policy.h' l='318'>/**
+   *  Specialization for node with cache, struct _Hash_node_code_cache.
+   */</doc>
+<mbr r='std::__detail::_Hash_node_code_cache::_M_hash_code' o='0' t='std::size_t'/>

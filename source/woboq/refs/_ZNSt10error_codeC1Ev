@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/system_error' l='199' ll='200' type='void std::error_code::error_code()'/>
+<use f='include/c++/12.2.0/system_error' l='452' u='c' c='_ZNSt12system_errorC1ESt10error_code'/>

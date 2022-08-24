@@ -1,0 +1,4 @@
+<use f='include/c++/12.2.0/tuple' l='1599' c='_ZSt3getRSt5arrayIT0_XT1_EE'/>
+<use f='include/c++/12.2.0/tuple' l='1603' c='_ZSt3getOSt5arrayIT0_XT1_EE'/>
+<use f='include/c++/12.2.0/tuple' l='1607' c='_ZSt3getRKSt5arrayIT0_XT1_EE'/>
+<use f='include/c++/12.2.0/tuple' l='1611' c='_ZSt3getOKSt5arrayIT0_XT1_EE'/>

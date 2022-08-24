@@ -1,0 +1,12 @@
+<dec f='include/c++/12.2.0/debug/debug.h' l='82'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1420' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='1629' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.h' l='2170' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='553' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='650' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='706' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='747' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='764' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='787' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='813' u='c'/>
+<use f='include/c++/12.2.0/bits/basic_string.tcc' l='925' u='c'/>

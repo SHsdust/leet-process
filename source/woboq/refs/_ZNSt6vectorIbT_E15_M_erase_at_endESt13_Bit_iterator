@@ -1,0 +1,7 @@
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1235' u='c' c='_ZNSt6vectorIbT_E6resizeEmb'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1259' u='c' c='_ZNSt6vectorIbT_E5clearEv'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1394' u='c' c='_ZNSt6vectorIbT_E14_M_fill_assignEmb'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1409' u='c' c='_ZNSt6vectorIbT_E13_M_assign_auxETL0__S2_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_bvector.h' l='1422' u='c' c='_ZNSt6vectorIbT_E13_M_assign_auxETL0__S2_St20forward_iterator_tag'/>
+<def f='include/c++/12.2.0/bits/stl_bvector.h' l='1489' ll='1491' type='void std::vector&lt;bool, type-parameter-0-0&gt;::_M_erase_at_end(std::vector&lt;bool, type-parameter-0-0&gt;::iterator __pos)'/>
+<use f='include/c++/12.2.0/bits/vector.tcc' l='957' u='c' c='_ZNSt6vectorIbT_E8_M_eraseESt13_Bit_iteratorS2_'/>

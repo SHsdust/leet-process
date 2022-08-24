@@ -1,0 +1,4 @@
+<def f='include/c++/12.2.0/bits/ptr_traits.h' l='82' ll='83'/>
+<def f='include/c++/12.2.0/bits/ptr_traits.h' l='86' ll='88'/>
+<use f='include/c++/12.2.0/bits/ptr_traits.h' l='91'/>
+<doc f='include/c++/12.2.0/bits/ptr_traits.h' l='85'>// Use _Ptr::element_type if is a valid type.</doc>

@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/bits/unordered_set.h' l='1680' ll='1682' type='void std::unordered_multiset::max_load_factor(float __z)'/>
+<doc f='include/c++/12.2.0/bits/unordered_set.h' l='1676'>/**
+       *  @brief  Change the %unordered_multiset maximum load factor.
+       *  @param  __z The new maximum load factor.
+       */</doc>

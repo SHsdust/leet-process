@@ -1,0 +1,578 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___215_kth_largest_element.o",
+      "./215_kth_largest_element.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/215_kth_largest_element.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___215_kth_largest_element.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___135_candy.o",
+      "./135_candy.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/135_candy.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___135_candy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___347_top_k_frequent_ele.o",
+      "./347_top_k_frequent_ele.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/347_top_k_frequent_ele.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___347_top_k_frequent_ele.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___763_partition_labels.o",
+      "./763_partition_labels.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/763_partition_labels.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___763_partition_labels.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___605_can_place_flowers.o",
+      "./605_can_place_flowers.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/605_can_place_flowers.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___605_can_place_flowers.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___79_word_search.o",
+      "./79_word_search.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/79_word_search.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___79_word_search.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___34_first_and_last_position.o",
+      "./34_first_and_last_position.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/34_first_and_last_position.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___34_first_and_last_position.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___51_n_queens.o",
+      "./51_n_queens.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/51_n_queens.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___51_n_queens.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___680_valid_palindrome_ii.o",
+      "./680_valid_palindrome_ii.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/680_valid_palindrome_ii.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___680_valid_palindrome_ii.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___633_sum_of_square_nums.o",
+      "./633_sum_of_square_nums.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/633_sum_of_square_nums.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___633_sum_of_square_nums.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___69_sqrt.o",
+      "./69_sqrt.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/69_sqrt.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___69_sqrt.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___406_queue_reconstruct_by_height.o",
+      "./406_queue_reconstruct_by_height.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/406_queue_reconstruct_by_height.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___406_queue_reconstruct_by_height.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___126_word_ladder_ii.o",
+      "./126_word_ladder_ii.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/126_word_ladder_ii.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___126_word_ladder_ii.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___122_best_time_to_trade_stock.o",
+      "./122_best_time_to_trade_stock.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/122_best_time_to_trade_stock.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___122_best_time_to_trade_stock.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___167_tow_sum.o",
+      "./167_tow_sum.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/167_tow_sum.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___167_tow_sum.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___88_merge_sorted_arr.o",
+      "./88_merge_sorted_arr.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/88_merge_sorted_arr.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___88_merge_sorted_arr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___540_single_ele_in_sorted_array.o",
+      "./540_single_ele_in_sorted_array.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/540_single_ele_in_sorted_array.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___540_single_ele_in_sorted_array.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___154_minimum_in_rotated_sorted_arr.o",
+      "./154_minimum_in_rotated_sorted_arr.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/154_minimum_in_rotated_sorted_arr.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___154_minimum_in_rotated_sorted_arr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___451_sort_characters_by_freq.o",
+      "./451_sort_characters_by_freq.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/451_sort_characters_by_freq.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___451_sort_characters_by_freq.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___435_non_overlapping_intervals.o",
+      "./435_non_overlapping_intervals.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/435_non_overlapping_intervals.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___435_non_overlapping_intervals.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___46_Permutations.o",
+      "./46_Permutations.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/46_Permutations.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___46_Permutations.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___142_linked_list_cycle.o",
+      "./142_linked_list_cycle.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/142_linked_list_cycle.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___142_linked_list_cycle.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___81_search_in_rotated_sorted_array.o",
+      "./81_search_in_rotated_sorted_array.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/81_search_in_rotated_sorted_array.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___81_search_in_rotated_sorted_array.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___934_shortest_bridge.o",
+      "./934_shortest_bridge.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/934_shortest_bridge.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___934_shortest_bridge.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___665_non_decreasing_array.o",
+      "./665_non_decreasing_array.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/665_non_decreasing_array.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___665_non_decreasing_array.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___4_median_of_2_sorted_array.o",
+      "./4_median_of_2_sorted_array.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/4_median_of_2_sorted_array.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___4_median_of_2_sorted_array.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___524_longest_word_in_dictionary.o",
+      "./524_longest_word_in_dictionary.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/524_longest_word_in_dictionary.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___524_longest_word_in_dictionary.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___31_next_permutation.o",
+      "./31_next_permutation.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/31_next_permutation.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___31_next_permutation.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___76_minimum_windows_substring.o",
+      "./76_minimum_windows_substring.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/76_minimum_windows_substring.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___76_minimum_windows_substring.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___452_minimum_num_of_arrows.o",
+      "./452_minimum_num_of_arrows.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/452_minimum_num_of_arrows.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___452_minimum_num_of_arrows.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___417_plastic_atlantic_water_flow.o",
+      "./417_plastic_atlantic_water_flow.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/417_plastic_atlantic_water_flow.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___417_plastic_atlantic_water_flow.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___455_assign_cookies.o",
+      "./455_assign_cookies.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/455_assign_cookies.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___455_assign_cookies.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___547_numbers_of_province.o",
+      "./547_numbers_of_province.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/547_numbers_of_province.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___547_numbers_of_province.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___695_max_area_of_island.o",
+      "./695_max_area_of_island.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/695_max_area_of_island.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___695_max_area_of_island.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___77_Combinations.o",
+      "./77_Combinations.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/77_Combinations.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___77_Combinations.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-DDEBUG",
+      "-O0",
+      "-I.",
+      "-o",
+      "objs/___75_sort_colors.o",
+      "./75_sort_colors.cpp"
+    ],
+    "directory": "/home/emrys/Documents/leet-process/source",
+    "file": "/home/emrys/Documents/leet-process/source/75_sort_colors.cpp",
+    "output": "/home/emrys/Documents/leet-process/source/objs/___75_sort_colors.o"
+  }
+]

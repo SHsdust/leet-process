@@ -1,0 +1,5 @@
+<def f='include/c++/12.2.0/bits/stl_queue.h' l='217' ll='219' type='bool std::queue::empty() const'/>
+<use f='leetcode/934_shortest_bridge.cpp' l='43' u='c' c='_ZN8Solution14shortestBridgeERSt6vectorIS0_IiSaIiEESaIS2_EE'/>
+<doc f='include/c++/12.2.0/bits/stl_queue.h' l='214'>/**
+       *  Returns true if the %queue is empty.
+       */</doc>

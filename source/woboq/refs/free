@@ -1,0 +1,2 @@
+<dec f='include/stdlib.h' l='568' type='void free(void * __ptr)'/>
+<doc f='include/stdlib.h' l='567'>/* Free a block allocated by `malloc&apos;, `realloc&apos; or `calloc&apos;.  */</doc>

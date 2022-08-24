@@ -1,0 +1,27 @@
+<def f='include/c++/12.2.0/type_traits' l='1482' ll='1484'/>
+<use f='include/c++/12.2.0/type_traits' l='1489'/>
+<use f='include/c++/12.2.0/bits/nested_exception.h' l='137'/>
+<use f='include/c++/12.2.0/bits/stl_iterator_base_types.h' l='250'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1053'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='579'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='580'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='641'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='642'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='703'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='704'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='765'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='766'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='114' c='_ZNSt4_PCC26_ImplicitlyConvertiblePairEv'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='115' c='_ZNSt4_PCC26_ImplicitlyConvertiblePairEv'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='128' c='_ZNSt4_PCC30_ImplicitlyMoveConvertiblePairEv'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='129' c='_ZNSt4_PCC30_ImplicitlyMoveConvertiblePairEv'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='483'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='495'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='507'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='519'/>
+<use f='include/c++/12.2.0/bits/invoke.h' l='128'/>
+<use f='include/c++/12.2.0/ostream' l='733'/>
+<use f='include/c++/12.2.0/bits/uses_allocator.h' l='48'/>
+<use f='include/c++/12.2.0/tuple' l='563' c='_ZNSt17_TupleConstraints29__is_implicitly_constructibleEv'/>
+<use f='include/c++/12.2.0/tuple' l='574' c='_ZNSt17_TupleConstraints29__is_explicitly_constructibleEv'/>
+<use f='include/c++/12.2.0/tuple' l='693'/>

@@ -1,0 +1,11 @@
+<def f='include/c++/12.2.0/type_traits' l='413' ll='415'/>
+<use f='include/c++/12.2.0/type_traits' l='586'/>
+<use f='include/c++/12.2.0/type_traits' l='1772'/>
+<use f='include/c++/12.2.0/type_traits' l='1930'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1088' c='_ZSt10__fill_n_aT_T0_RKT1_St19output_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1100' c='_ZSt10__fill_n_aT_T0_RKT1_St18input_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/stl_algobase.h' l='1112' c='_ZSt10__fill_n_aT_T0_RKT1_St26random_access_iterator_tag'/>
+<use f='include/c++/12.2.0/bits/charconv.h' l='49' c='_ZNSt8__detail14__to_chars_lenET_i'/>
+<use f='include/c++/12.2.0/bits/charconv.h' l='74' c='_ZNSt8__detail18__to_chars_10_implEPcjT_'/>
+<use f='include/c++/12.2.0/bits/stl_uninitialized.h' l='697' c='_ZSt25__uninitialized_default_nT_T0_'/>
+<use f='include/c++/12.2.0/bits/uniform_int_dist.h' l='79'/>

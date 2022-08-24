@@ -1,0 +1,13 @@
+<def f='include/c++/12.2.0/bits/hashtable_policy.h' l='346' ll='371'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='376'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='379'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='426'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='429'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1356'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1359'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1435'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='1440'/>
+<mbr r='std::__detail::_Node_iterator_base::_M_cur' t='std::__detail::_Node_iterator_base::__node_type *'/>
+<fun r='_ZNSt8__detail19_Node_iterator_baseC1Ev'/>
+<fun r='_ZNSt8__detail19_Node_iterator_baseC1EPNS_10_Hash_nodeIT_XT0_EEE'/>
+<fun r='_ZNSt8__detail19_Node_iterator_base7_M_incrEv'/>

@@ -1,0 +1,2 @@
+<dec f='include/c++/12.2.0/bits/algorithmfwd.h' l='615' type='_OIter std::rotate_copy(_FIter , _FIter , _FIter , _OIter )'/>
+<def f='include/c++/12.2.0/bits/stl_algo.h' l='1425' ll='1438' type='_OutputIterator std::rotate_copy(_ForwardIterator __first, _ForwardIterator __middle, _ForwardIterator __last, _OutputIterator __result)'/>

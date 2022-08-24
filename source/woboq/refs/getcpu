@@ -1,0 +1,2 @@
+<dec f='include/bits/sched.h' l='96' type='int getcpu(unsigned int * , unsigned int * )'/>
+<doc f='include/bits/sched.h' l='95'>/* Get currently used CPU and NUMA node.  */</doc>

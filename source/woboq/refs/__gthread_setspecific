@@ -1,0 +1,1 @@
+<def f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='723' ll='727' type='int __gthread_setspecific(__gthread_key_t __key, const void * __ptr)'/>

@@ -1,0 +1,2 @@
+<dec f='include/string.h' l='330' type='char * strstr(char * __haystack, const char * __needle)'/>
+<dec f='include/string.h' l='332' type='const char * strstr(const char * __haystack, const char * __needle)'/>

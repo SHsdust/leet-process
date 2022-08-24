@@ -1,0 +1,6 @@
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='158' u='w' c='_ZNSt8__detail17_ReuseOrAllocNodeC1EPNS_16_Hashtable_allocIT_E11__node_typeERS3_'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='162' u='c' c='_ZNSt8__detail17_ReuseOrAllocNodeD1Ev'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='173' u='c' c='_ZNKSt8__detail17_ReuseOrAllocNodeclEDpOTL0__'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='182' u='c' c='_ZNKSt8__detail17_ReuseOrAllocNodeclEDpOTL0__'/>
+<use f='include/c++/12.2.0/bits/hashtable_policy.h' l='187' u='c' c='_ZNKSt8__detail17_ReuseOrAllocNodeclEDpOTL0__'/>
+<dec f='include/c++/12.2.0/bits/hashtable_policy.h' l='192' type='std::__detail::_ReuseOrAllocNode::__hashtable_alloc &amp;'/>

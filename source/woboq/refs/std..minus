@@ -1,0 +1,7 @@
+<def f='include/c++/12.2.0/bits/stl_function.h' l='195' ll='201'/>
+<def f='include/c++/12.2.0/bits/stl_function.h' l='263' ll='275'/>
+<use f='include/c++/12.2.0/bits/stl_function.h' l='264'/>
+<size>1</size>
+<doc f='include/c++/12.2.0/bits/stl_function.h' l='262'>/// One of the @link arithmetic_functors math functors@endlink.</doc>
+<fun r='_ZNKSt5minusclERKT_S2_'/>
+<fun r='_ZNKSt5minusIvEclEOT_OT0_'/>

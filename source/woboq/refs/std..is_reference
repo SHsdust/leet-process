@@ -1,0 +1,10 @@
+<use f='include/c++/12.2.0/type_traits' l='249' c='_ZSt26__is_complete_or_unboundedT_'/>
+<def f='include/c++/12.2.0/type_traits' l='578' ll='581'/>
+<use f='include/c++/12.2.0/type_traits' l='599'/>
+<use f='include/c++/12.2.0/type_traits' l='887'/>
+<use f='include/c++/12.2.0/type_traits' l='941'/>
+<use f='include/c++/12.2.0/bits/stl_iterator.h' l='1487'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='479'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='491'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='504'/>
+<use f='include/c++/12.2.0/bits/stl_pair.h' l='516'/>

@@ -1,0 +1,2 @@
+<def f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='862' ll='866' type='int __gthread_cond_wait(__gthread_cond_t * __cond, __gthread_mutex_t * __mutex)'/>
+<use f='include/c++/12.2.0/x86_64-pc-linux-gnu/bits/gthr-default.h' l='879' u='c' c='__gthread_cond_wait_recursive'/>
